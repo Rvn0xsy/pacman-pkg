@@ -142,7 +142,7 @@ extra/fftw 3.3.10-3
 core/file 5.42-1 (base-devel)
 core/filesystem 2021.12.07-1
 core/findutils 4.9.0-1 (base-devel)
-extra/firefox 103.0.2-1
+extra/firefox 104.0-1
 extra/flac 1.3.4-3
 archlinuxcn/flameshot-git r1842.001726a5-1
 community/flashrom 1.2-4
@@ -249,9 +249,9 @@ community/haskell-aeson 1.5.6.0-127
 community/haskell-aeson-pretty 0.8.9-78
 community/haskell-ansi-terminal 0.11.3-11
 community/haskell-appar 0.1.8-13
-community/haskell-asn1-encoding 0.9.6-182
-community/haskell-asn1-parse 0.9.5-182
-community/haskell-asn1-types 0.3.4-161
+community/haskell-asn1-encoding 0.9.6-183
+community/haskell-asn1-parse 0.9.5-183
+community/haskell-asn1-types 0.3.4-162
 community/haskell-assoc 1.0.2-152
 community/haskell-async 2.2.4-94
 community/haskell-attoparsec 0.14.4-29
@@ -260,7 +260,7 @@ community/haskell-base-compat-batteries 0.12.1-43
 community/haskell-base-orphans 0.8.7-3
 community/haskell-base16-bytestring 1.0.2.0-35
 community/haskell-base64-bytestring 1.2.1.0-57
-community/haskell-basement 0.0.14-1
+community/haskell-basement 0.0.15-1
 community/haskell-bifunctors 5.5.12-16
 community/haskell-blaze-builder 0.4.2.2-2
 community/haskell-blaze-html 0.9.1.2-179
@@ -278,9 +278,9 @@ community/haskell-commonmark-pandoc 0.2.1.2-66
 community/haskell-comonad 5.0.8-155
 community/haskell-conduit 1.3.4.2-75
 community/haskell-conduit-extra 1.3.6-16
-community/haskell-connection 0.3.1-209
+community/haskell-connection 0.3.1-210
 community/haskell-cookie 0.4.5-12
-community/haskell-cryptonite 0.30-25
+community/haskell-cryptonite 0.30-26
 community/haskell-data-default 0.7.1.1-241
 community/haskell-data-default-class 0.1.2.0-24
 community/haskell-data-default-instances-containers 0.0.1-36
@@ -297,7 +297,7 @@ community/haskell-erf 2.0.0.0-24
 community/haskell-file-embed 0.0.15.0-1
 community/haskell-ghc-bignum-orphans 0.1.1-1
 community/haskell-glob 0.10.2-45
-community/haskell-haddock-library 1.10.0-158
+community/haskell-haddock-library 1.10.0-159
 community/haskell-hashable 1.4.0.2-34
 community/haskell-hourglass 0.2.12-201
 community/haskell-hslua 2.2.0-16
@@ -314,7 +314,7 @@ community/haskell-hslua-objectorientation 2.2.0.1-6
 community/haskell-hslua-packaging 2.2.0.1-7
 community/haskell-hsyaml 0.2.1.1-13
 community/haskell-http-client 0.7.13-1
-community/haskell-http-client-tls 0.3.6.1-40
+community/haskell-http-client-tls 0.3.6.1-41
 community/haskell-http-types 0.12.3-255
 community/haskell-indexed-traversable 0.1.2-2
 community/haskell-integer-logarithms 1.0.3.1-6
@@ -326,7 +326,7 @@ community/haskell-lexer 1.1-11
 community/haskell-libyaml 0.1.2-239
 community/haskell-lpeg 1.0.3-4
 community/haskell-lua 2.2.1-5
-community/haskell-memory 0.17.0-21
+community/haskell-memory 0.17.0-22
 community/haskell-mime-types 0.1.0.9-14
 community/haskell-mono-traversable 1.0.15.3-72
 community/haskell-network 3.1.2.7-33
@@ -335,7 +335,7 @@ community/haskell-old-locale 1.0.0.7-30
 community/haskell-old-time 1.1.0.3-30
 community/haskell-pandoc-lua-marshal 0.1.6-13
 community/haskell-pandoc-types 1.22.2-33
-community/haskell-pem 0.2.4-238
+community/haskell-pem 0.2.4-239
 community/haskell-pretty-show 1.10-13
 community/haskell-primitive 0.7.4.0-21
 community/haskell-quickcheck 2.14.2-341
@@ -346,7 +346,7 @@ community/haskell-scientific 0.3.7.0-68
 community/haskell-sha 1.6.4.4-19
 community/haskell-skylighting 0.12.3.1-12
 community/haskell-skylighting-core 0.12.3.1-12
-community/haskell-socks 0.6.1-185
+community/haskell-socks 0.6.1-186
 community/haskell-split 0.2.3.5-1
 community/haskell-splitmix 0.1.0.4-86
 community/haskell-streaming-commons 0.2.2.4-29
@@ -364,7 +364,7 @@ community/haskell-th-lift 0.8.2-12
 community/haskell-th-lift-instances 0.1.19-42
 community/haskell-these 1.1.1.1-153
 community/haskell-time-compat 1.9.6.1-52
-community/haskell-tls 1.6.0-7
+community/haskell-tls 1.6.0-8
 community/haskell-transformers-compat 0.7.2-1
 community/haskell-typed-process 0.2.10.1-9
 community/haskell-unicode-collation 0.1.3.2-16
@@ -377,10 +377,10 @@ community/haskell-utf8-string 1.0.2-105
 community/haskell-uuid-types 1.0.5-72
 community/haskell-vector 0.12.3.1-114
 community/haskell-vector-algorithms 0.8.0.4-120
-community/haskell-x509 1.7.7-11
-community/haskell-x509-store 1.6.9-36
-community/haskell-x509-system 1.6.7-39
-community/haskell-x509-validation 1.6.12-41
+community/haskell-x509 1.7.7-12
+community/haskell-x509-store 1.6.9-37
+community/haskell-x509-system 1.6.7-40
+community/haskell-x509-validation 1.6.12-42
 community/haskell-xml 1.3.14-30
 community/haskell-xml-conduit 1.9.1.1-130
 community/haskell-xml-types 0.3.8-8
@@ -992,11 +992,11 @@ archlinuxcn/package-query 1.12-1
 core/pacman 6.0.1-7 (base-devel)
 community/pacman-contrib 1.6.0-1
 core/pacman-mirrorlist 20220724-1
-extra/pahole 1.23-1
+extra/pahole 1.24-1
 core/pam 1.5.2-1
 archlinuxcn/pamac-aur 10.4.2-0
 core/pambase 20211210-1
-community/pandoc 2.18-30
+community/pandoc 2.18-32
 extra/pango 1:1.50.9-1
 extra/pangomm 2.46.2-1
 community/pantheon-tasks 6.3.0-1 (pantheon)
@@ -1167,7 +1167,7 @@ extra/qt5-location 5.15.5+kde+r3-1 (qt qt5)
 extra/qt5-multimedia 5.15.5+kde+r1-1 (qt qt5)
 extra/qt5-networkauth 5.15.5+kde+r0-1 (qt qt5)
 extra/qt5-quickcontrols 5.15.5+kde+r0-1 (qt qt5)
-extra/qt5-quickcontrols2 5.15.5+kde+r5-1 (qt qt5)
+extra/qt5-quickcontrols2 5.15.5+kde+r6-1 (qt qt5)
 extra/qt5-speech 5.15.5+kde+r1-1 (qt qt5)
 extra/qt5-svg 5.15.5+kde+r11-1 (qt qt5)
 extra/qt5-tools 5.15.5+kde+r1-3 (qt qt5)
@@ -1234,15 +1234,15 @@ community/ruby-time 0.2.0-2
 community/ruby-uri 0.11.0-2
 community/rubygems 3.3.19-1
 core/run-parts 5.5-1
-community/runc 1.1.3-1
+community/runc 1.1.3-2
 extra/sane 1.1.1-1
 extra/sbc 2.0-1
-community/screenkey 1.5-1
+community/screenkey 1.5-2
 community/sdl12-compat 1.2.52-2
-extra/sdl2 2.0.22-2
-extra/sdl2_image 2.6.1-1
-extra/sdl2_mixer 2.6.1-1
-extra/sdl2_ttf 2.20.0-1
+extra/sdl2 2.24.0-1
+extra/sdl2_image 2.6.2-1
+extra/sdl2_mixer 2.6.2-1
+extra/sdl2_ttf 2.20.1-1
 community/sdl_image 1.2.12-7
 community/sdl_mixer 1.2.12-11
 community/sdl_ttf 2.0.11-6
@@ -1274,6 +1274,7 @@ extra/spirv-tools 2022.1-1 (vulkan-devel)
 community/sqlcipher 4.5.1-2
 core/sqlite 3.39.2-2
 community/sqlitebrowser 3.12.2-2
+community/sqlmap 1.6.2-1
 community/sratom 0.6.12-1
 extra/srt 1.5.0-1
 community/sstp-client 1:1.0.17-1
@@ -1367,7 +1368,7 @@ community/wqy-bitmapfont 1.0.0RC1-5
 community/wqy-microhei 0.2.0_beta-11
 community/wqy-microhei-lite 0.2.0_beta-10
 community/wqy-zenhei 0.9.45-9
-extra/x264 3:0.164.r3095.baee400-3
+extra/x264 3:0.164.r3095.baee400-4
 extra/x265 3.5-3
 community/xarchiver 0.5.4.18-1
 extra/xcb-proto 1.15.2-1
