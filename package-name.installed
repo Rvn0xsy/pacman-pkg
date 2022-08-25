@@ -45,7 +45,7 @@ fcitx-configtool 0.4.10-4
 fcitx-googlepinyin 0.1.6-7
 fcitx-qt5 1.2.7-5
 fcitx-qt6 1.2.7-5
-feishu-bin 5.9.18-2
+feishu-bin 5.14.14-1
 file 5.42-1
 findutils 4.9.0-1
 firefox 104.0-1
@@ -62,13 +62,14 @@ gnome-font-viewer 42.0-1
 gnome-nettool 42.0-1
 gnu-netcat 0.7.1-8
 go 2:1.19-1
+goland 2022.2.2-1
 google-chrome 104.0.5112.101-1
 goreleaser 1.10.3-1
 gpaste 42.1-1
 gpicview 0.2.5-7
 grep 3.7-1
 groff 1.22.4-7
-grub 2:2.06.r297.g0c6c1aff2-1
+grub 2:2.06.r322.gd9b4638c5-1
 gvfs 1.50.2-1
 gzip 1.12-1
 hashcat 1:6.2.5-1
@@ -120,7 +121,7 @@ networkmanager-openvpn 1.8.18-2
 networkmanager-qt 5.97.0-1
 networkmanager-vpnc 1.2.8-2
 nmap 7.92-1
-nodejs 18.7.0-1
+nodejs 18.8.0-1
 notion-app-enhanced 2.0.18-1
 noto-fonts 20220607-1
 noto-fonts-cjk 20220126-1
@@ -178,7 +179,7 @@ uget 2.2.3-5
 unrar 1:6.1.7-1
 unzip 6.0-19
 v2ray 4.45.2-1
-vim 9.0.0236-1
+vim 9.0.0246-1
 virtualbox 6.1.36-1
 virtualbox-ext-oracle 6.1.36-1
 virtualbox-guest-iso 6.1.36-1

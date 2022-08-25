@@ -135,7 +135,7 @@ community/fcitx-configtool 0.4.10-4
 community/fcitx-googlepinyin 0.1.6-7
 community/fcitx-qt5 1.2.7-5 (fcitx-im)
 community/fcitx-qt6 1.2.7-5 (fcitx-im)
-archlinuxcn/feishu-bin 5.9.18-2
+archlinuxcn/feishu-bin 5.14.14-1
 extra/ffmpeg 2:5.1-1
 extra/ffmpeg4.4 4.4.2-3
 extra/fftw 3.3.10-3
@@ -203,6 +203,7 @@ core/gnutls 3.7.7-3
 community/go 2:1.19-1
 extra/gobject-introspection 1.72.0-1
 extra/gobject-introspection-runtime 1.72.0-1
+archlinuxcn/goland 2022.2.2-1
 local/google-chrome 104.0.5112.101-1
 community/goreleaser 1.10.3-1
 extra/gpaste 42.1-1
@@ -217,7 +218,7 @@ extra/graphite 1:1.3.14-2
 extra/graphviz 5.0.0-2
 core/grep 3.7-1 (base-devel)
 core/groff 1.22.4-7 (base-devel)
-core/grub 2:2.06.r297.g0c6c1aff2-1
+core/grub 2:2.06.r322.gd9b4638c5-1
 extra/gsettings-desktop-schemas 42.0-1
 extra/gsfonts 20200910-2
 extra/gsl 2.7.1-1
@@ -268,7 +269,7 @@ community/haskell-blaze-markup 0.8.2.8-85
 community/haskell-byteable 0.1.1-25
 community/haskell-byteorder 1.0.4-24
 community/haskell-case-insensitive 1.2.1.0-158
-community/haskell-cereal 0.5.8.2-2
+community/haskell-cereal 0.5.8.3-1
 community/haskell-citeproc 0.7-11
 community/haskell-cmdargs 0.10.21-4
 community/haskell-colour 2.3.6-120
@@ -278,7 +279,7 @@ community/haskell-commonmark-pandoc 0.2.1.2-66
 community/haskell-comonad 5.0.8-155
 community/haskell-conduit 1.3.4.2-75
 community/haskell-conduit-extra 1.3.6-16
-community/haskell-connection 0.3.1-210
+community/haskell-connection 0.3.1-211
 community/haskell-cookie 0.4.5-12
 community/haskell-cryptonite 0.30-26
 community/haskell-data-default 0.7.1.1-241
@@ -314,7 +315,7 @@ community/haskell-hslua-objectorientation 2.2.0.1-6
 community/haskell-hslua-packaging 2.2.0.1-7
 community/haskell-hsyaml 0.2.1.1-13
 community/haskell-http-client 0.7.13-1
-community/haskell-http-client-tls 0.3.6.1-41
+community/haskell-http-client-tls 0.3.6.1-42
 community/haskell-http-types 0.12.3-255
 community/haskell-indexed-traversable 0.1.2-2
 community/haskell-integer-logarithms 1.0.3.1-6
@@ -346,7 +347,7 @@ community/haskell-scientific 0.3.7.0-68
 community/haskell-sha 1.6.4.4-19
 community/haskell-skylighting 0.12.3.1-12
 community/haskell-skylighting-core 0.12.3.1-12
-community/haskell-socks 0.6.1-186
+community/haskell-socks 0.6.1-187
 community/haskell-split 0.2.3.5-1
 community/haskell-splitmix 0.1.0.4-86
 community/haskell-streaming-commons 0.2.2.4-29
@@ -364,7 +365,7 @@ community/haskell-th-lift 0.8.2-12
 community/haskell-th-lift-instances 0.1.19-42
 community/haskell-these 1.1.1.1-153
 community/haskell-time-compat 1.9.6.1-52
-community/haskell-tls 1.6.0-8
+community/haskell-tls 1.6.0-9
 community/haskell-transformers-compat 0.7.2-1
 community/haskell-typed-process 0.2.10.1-9
 community/haskell-unicode-collation 0.1.3.2-16
@@ -558,7 +559,7 @@ multilib/lib32-libssh2 1.10.0-1
 multilib/lib32-libtasn1 4.18.0-1
 multilib/lib32-libthai 0.1.29-1
 multilib/lib32-libtheora 1.1.1-13
-multilib/lib32-libtiff 4.4.0-3
+multilib/lib32-libtiff 4.4.0-4
 multilib/lib32-libtiff4 3.9.7-5
 multilib/lib32-libtirpc 1.3.3-1
 multilib/lib32-libudev0-shim 1-5
@@ -809,7 +810,7 @@ core/libtasn1 4.18.0-1
 extra/libteam 1.31-5
 extra/libthai 0.1.29-1
 extra/libtheora 1.1.1-5
-extra/libtiff 4.4.0-3
+extra/libtiff 4.4.0-4
 community/libtiff4 3.9.7-5
 core/libtirpc 1.3.3-1
 extra/libtommath 1.2.0-3
@@ -954,7 +955,7 @@ community/ninja 1.11.0-1
 extra/nm-connection-editor 1.28.0-1
 extra/nmap 7.92-1
 community/node-gyp 9.1.0-1
-community/nodejs 18.7.0-1
+community/nodejs 18.8.0-1
 community/nodejs-nopt 6.0.0-1
 archlinuxcn/notion-app-enhanced 2.0.18-1
 extra/noto-fonts 20220607-1
@@ -992,11 +993,11 @@ archlinuxcn/package-query 1.12-1
 core/pacman 6.0.1-7 (base-devel)
 community/pacman-contrib 1.6.0-1
 core/pacman-mirrorlist 20220724-1
-extra/pahole 1.24-1
+extra/pahole 1:1.23-1
 core/pam 1.5.2-1
 archlinuxcn/pamac-aur 10.4.2-0
 core/pambase 20211210-1
-community/pandoc 2.18-32
+community/pandoc 2.18-33
 extra/pango 1:1.50.9-1
 extra/pangomm 2.46.2-1
 community/pantheon-tasks 6.3.0-1 (pantheon)
@@ -1209,7 +1210,7 @@ community/ruby-bigdecimal 3.1.2-1
 community/ruby-bundledgems 3.0.4-7
 community/ruby-bundler 2.3.19-1
 community/ruby-cgi 0.3.2-1
-community/ruby-csv 3.2.3-1
+community/ruby-csv 3.2.4-1
 community/ruby-date 3.2.2-1
 community/ruby-delegate 0.2.0-1
 community/ruby-did_you_mean 1.6.1-1
@@ -1329,8 +1330,8 @@ community/v2ray-geoip 202208180100-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.2-1
 extra/vid.stab 1.1-3
-extra/vim 9.0.0236-1
-extra/vim-runtime 9.0.0236-1
+extra/vim 9.0.0246-1
+extra/vim-runtime 9.0.0246-1
 community/virtualbox 6.1.36-1
 archlinuxcn/virtualbox-ext-oracle 6.1.36-1
 community/virtualbox-guest-iso 6.1.36-1
