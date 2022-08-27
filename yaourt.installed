@@ -933,6 +933,7 @@ core/mpfr 4.1.0.p13-3
 extra/mpg123 1.30.2-1
 extra/mtdev 1.1.6-2
 extra/mtools 1:4.0.40-1
+extra/nasm 2.15.05-1
 core/ncurses 6.3-3
 extra/ndctl 73-1
 community/neofetch 7.1.0-2
