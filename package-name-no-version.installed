@@ -105,6 +105,7 @@ make
 masscan
 mesa-utils
 metasploit
+mingw-w64-gcc
 mousepad
 mtools
 nasm

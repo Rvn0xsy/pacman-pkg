@@ -198,7 +198,7 @@ gnome-online-accounts 3.44.0-1
 gnome-terminal 3.44.1-1
 gnome-themes-extra 3.28+r6+g45b1d457-1
 gnu-netcat 0.7.1-8
-gnupg 2.2.36-1
+gnupg 2.2.37-1
 gnutls 3.7.7-3
 go 2:1.19-1
 gobject-introspection 1.72.0-1
@@ -270,7 +270,7 @@ haskell-byteable 0.1.1-25
 haskell-byteorder 1.0.4-24
 haskell-case-insensitive 1.2.1.0-160
 haskell-cereal 0.5.8.3-1
-haskell-citeproc 0.7-14
+haskell-citeproc 0.7-15
 haskell-cmdargs 0.10.21-4
 haskell-colour 2.3.6-124
 haskell-commonmark 0.2.2-11
@@ -310,7 +310,7 @@ haskell-hslua-module-doclayout 1.0.4-42
 haskell-hslua-module-path 1.0.2-2
 haskell-hslua-module-system 1.0.2-2
 haskell-hslua-module-text 1.0.2-4
-haskell-hslua-module-version 1.0.1-46
+haskell-hslua-module-version 1.0.2-1
 haskell-hslua-objectorientation 2.2.0.1-9
 haskell-hslua-packaging 2.2.0.1-10
 haskell-hsyaml 0.2.1.1-15
@@ -362,13 +362,13 @@ haskell-text-icu 0.8.0.2-5
 haskell-th-abstraction 0.4.4.0-1
 haskell-th-compat 0.1.3-54
 haskell-th-lift 0.8.2-12
-haskell-th-lift-instances 0.1.19-44
+haskell-th-lift-instances 0.1.20-1
 haskell-these 1.1.1.1-155
 haskell-time-compat 1.9.6.1-54
 haskell-tls 1.6.0-11
 haskell-transformers-compat 0.7.2-1
 haskell-typed-process 0.2.10.1-11
-haskell-unicode-collation 0.1.3.2-18
+haskell-unicode-collation 0.1.3.2-19
 haskell-unicode-data 0.3.0-24
 haskell-unicode-transforms 0.4.0.1-24
 haskell-uniplate 1.6.13-145
@@ -468,7 +468,7 @@ krb5 1.19.3-3
 ksanecore 22.08.0-1
 kservice 5.97.0-1
 ktextwidgets 5.97.0-1
-kwallet 5.97.0-3
+kwallet 5.97.0-4
 kwidgetsaddons 5.97.0-1
 kwindowsystem 5.97.0-1
 kxmlgui 5.97.0-1
@@ -543,7 +543,7 @@ lib32-libltdl 2.4.7-2
 lib32-libmikmod 3.3.11.1-6
 lib32-libmodplug 0.8.9.0-4
 lib32-libnl 3.7.0-1
-lib32-libnm 1.38.4-3
+lib32-libnm 1.40.0-1
 lib32-libnsl 2.0.0-1
 lib32-libogg 1.3.5-1
 lib32-libpcap 1.10.1-1
@@ -755,7 +755,7 @@ libnfnetlink 1.0.2-1
 libnftnl 1.2.3-1
 libnghttp2 1.48.0-1
 libnl 3.7.0-1
-libnm 1.38.4-1
+libnm 1.40.0-1
 libnma 1.8.40-1
 libnma-common 1.8.40-1
 libnotify 0.8.1-1
@@ -922,6 +922,11 @@ mesa 22.1.7-1
 mesa-utils 8.5.0-2
 meson 0.63.1-2
 metasploit 6.2.13-2
+mingw-w64-binutils 2.38-3
+mingw-w64-crt 10.0.0-1
+mingw-w64-gcc 12.1.0-1
+mingw-w64-headers 10.0.0-1
+mingw-w64-winpthreads 10.0.0-1
 minizip 1:1.2.12-2
 mkinitcpio 31-3
 mkinitcpio-busybox 1.35.0-1
@@ -946,7 +951,7 @@ netpbm 10.73.37-2
 nettle 3.8.1-1
 network-manager-applet 1.28.0-1
 network-manager-sstp 1.3.0-1
-networkmanager 1.38.4-1
+networkmanager 1.40.0-1
 networkmanager-l2tp 1.20.4-5
 networkmanager-openvpn 1.8.18-2
 networkmanager-qt 5.97.0-1
@@ -976,7 +981,7 @@ opencore-amr 0.1.6-1
 opendesktop-fonts 1.4.2-6
 openexr 3.1.5-1
 openjpeg2 2.5.0-1
-openmpi 4.1.4-1
+openmpi 4.1.4-2
 openpmix 4.2.0-1
 openssh 9.0p1-1
 openssl 1.1.1.q-1
@@ -992,12 +997,12 @@ p7zip 1:17.04-3
 package-query 1.12-1
 pacman 6.0.1-7
 pacman-contrib 1.6.0-1
-pacman-mirrorlist 20220724-1
+pacman-mirrorlist 20220828-1
 pahole 1:1.23-1
 pam 1.5.2-1
 pamac-aur 10.4.2-0
 pambase 20211210-1
-pandoc 2.18-40
+pandoc 2.18-42
 pango 1:1.50.9-1
 pangomm 2.46.2-1
 pantheon-tasks 6.3.0-1
@@ -1096,7 +1101,7 @@ python-colorama 0.4.5-1
 python-commonmark 0.9.1-5
 python-contextlib2 21.6.0-1
 python-cryptography 37.0.4-1
-python-distlib 0.3.5-1
+python-distlib 0.3.6-1
 python-distro 1.7.0-1
 python-docopt 0.6.2-11
 python-docutils 1:0.19-1
@@ -1125,7 +1130,7 @@ python-ordered-set 4.0.2-6
 python-packaging 21.3-1
 python-pcapy 1.0.5-1
 python-pep517 0.12.0-4
-python-pip 22.2.2-1
+python-pip 22.2.2-2
 python-platformdirs 2.5.2-1
 python-ply 3.11-10
 python-progress 1.6-5
@@ -1146,7 +1151,7 @@ python-six 1.16.0-6
 python-tenacity 8.0.1-3
 python-toml 0.10.2-7
 python-tomli 2.0.1-1
-python-trove-classifiers 2022.8.7-1
+python-trove-classifiers 2022.8.24-1
 python-typing_extensions 4.3.0-1
 python-urllib3 1.26.12-1
 python-validate-pyproject 0.9-1
@@ -1341,7 +1346,7 @@ usbutils 014-2
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 v2ray 4.45.2-1
-v2ray-domain-list-community 20220826120058-1
+v2ray-domain-list-community 20220829045350-1
 v2ray-geoip 202208250104-1
 v4l-utils 1.22.1-1
 vala 0.56.2-1
@@ -1375,7 +1380,7 @@ wemeet-bin 3.8.0.2-6
 wget 1.21.3-1
 which 2.21-5
 whois 5.5.13-1
-wine 7.15-1
+wine 7.16-1
 wireshark-cli 3.6.7-1
 wireshark-qt 3.6.7-1
 woff2 1.0.2-4

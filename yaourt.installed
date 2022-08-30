@@ -198,7 +198,7 @@ extra/gnome-online-accounts 3.44.0-1
 extra/gnome-terminal 3.44.1-1 (gnome)
 extra/gnome-themes-extra 3.28+r6+g45b1d457-1
 extra/gnu-netcat 0.7.1-8
-core/gnupg 2.2.36-1
+core/gnupg 2.2.37-1
 core/gnutls 3.7.7-3
 community/go 2:1.19-1
 extra/gobject-introspection 1.72.0-1
@@ -270,7 +270,7 @@ community/haskell-byteable 0.1.1-25
 community/haskell-byteorder 1.0.4-24
 community/haskell-case-insensitive 1.2.1.0-160
 community/haskell-cereal 0.5.8.3-1
-community/haskell-citeproc 0.7-14
+community/haskell-citeproc 0.7-15
 community/haskell-cmdargs 0.10.21-4
 community/haskell-colour 2.3.6-124
 community/haskell-commonmark 0.2.2-11
@@ -310,7 +310,7 @@ community/haskell-hslua-module-doclayout 1.0.4-42
 community/haskell-hslua-module-path 1.0.2-2
 community/haskell-hslua-module-system 1.0.2-2
 community/haskell-hslua-module-text 1.0.2-4
-community/haskell-hslua-module-version 1.0.1-46
+community/haskell-hslua-module-version 1.0.2-1
 community/haskell-hslua-objectorientation 2.2.0.1-9
 community/haskell-hslua-packaging 2.2.0.1-10
 community/haskell-hsyaml 0.2.1.1-15
@@ -362,13 +362,13 @@ community/haskell-text-icu 0.8.0.2-5
 community/haskell-th-abstraction 0.4.4.0-1
 community/haskell-th-compat 0.1.3-54
 community/haskell-th-lift 0.8.2-12
-community/haskell-th-lift-instances 0.1.19-44
+community/haskell-th-lift-instances 0.1.20-1
 community/haskell-these 1.1.1.1-155
 community/haskell-time-compat 1.9.6.1-54
 community/haskell-tls 1.6.0-11
 community/haskell-transformers-compat 0.7.2-1
 community/haskell-typed-process 0.2.10.1-11
-community/haskell-unicode-collation 0.1.3.2-18
+community/haskell-unicode-collation 0.1.3.2-19
 community/haskell-unicode-data 0.3.0-24
 community/haskell-unicode-transforms 0.4.0.1-24
 community/haskell-uniplate 1.6.13-145
@@ -468,7 +468,7 @@ core/krb5 1.19.3-3
 extra/ksanecore 22.08.0-1
 extra/kservice 5.97.0-1 (kf5)
 extra/ktextwidgets 5.97.0-1 (kf5)
-extra/kwallet 5.97.0-3 (kf5)
+extra/kwallet 5.97.0-4 (kf5)
 extra/kwidgetsaddons 5.97.0-1 (kf5)
 extra/kwindowsystem 5.97.0-1 (kf5)
 extra/kxmlgui 5.97.0-1 (kf5)
@@ -543,7 +543,7 @@ multilib/lib32-libltdl 2.4.7-2 (multilib-devel)
 multilib/lib32-libmikmod 3.3.11.1-6
 multilib/lib32-libmodplug 0.8.9.0-4
 multilib/lib32-libnl 3.7.0-1
-multilib/lib32-libnm 1.38.4-3
+multilib/lib32-libnm 1.40.0-1
 multilib/lib32-libnsl 2.0.0-1
 multilib/lib32-libogg 1.3.5-1
 multilib/lib32-libpcap 1.10.1-1
@@ -755,7 +755,7 @@ core/libnfnetlink 1.0.2-1
 core/libnftnl 1.2.3-1
 core/libnghttp2 1.48.0-1
 core/libnl 3.7.0-1
-extra/libnm 1.38.4-1
+extra/libnm 1.40.0-1
 extra/libnma 1.8.40-1
 extra/libnma-common 1.8.40-1
 extra/libnotify 0.8.1-1
@@ -922,6 +922,11 @@ extra/mesa 22.1.7-1
 extra/mesa-utils 8.5.0-2
 extra/meson 0.63.1-2
 community/metasploit 6.2.13-2
+community/mingw-w64-binutils 2.38-3 (mingw-w64-toolchain mingw-w64)
+community/mingw-w64-crt 10.0.0-1 (mingw-w64-toolchain mingw-w64)
+community/mingw-w64-gcc 12.1.0-1 (mingw-w64-toolchain mingw-w64)
+community/mingw-w64-headers 10.0.0-1 (mingw-w64-toolchain mingw-w64)
+community/mingw-w64-winpthreads 10.0.0-1 (mingw-w64-toolchain mingw-w64)
 core/minizip 1:1.2.12-2
 core/mkinitcpio 31-3
 core/mkinitcpio-busybox 1.35.0-1
@@ -946,7 +951,7 @@ extra/netpbm 10.73.37-2
 core/nettle 3.8.1-1
 extra/network-manager-applet 1.28.0-1
 community/network-manager-sstp 1.3.0-1
-extra/networkmanager 1.38.4-1
+extra/networkmanager 1.40.0-1
 community/networkmanager-l2tp 1.20.4-5
 extra/networkmanager-openvpn 1.8.18-2
 extra/networkmanager-qt 5.97.0-1 (kf5)
@@ -976,7 +981,7 @@ extra/opencore-amr 0.1.6-1
 community/opendesktop-fonts 1.4.2-6
 extra/openexr 3.1.5-1
 extra/openjpeg2 2.5.0-1
-extra/openmpi 4.1.4-1
+extra/openmpi 4.1.4-2
 extra/openpmix 4.2.0-1
 core/openssh 9.0p1-1
 core/openssl 1.1.1.q-1
@@ -992,12 +997,12 @@ extra/p7zip 1:17.04-3
 archlinuxcn/package-query 1.12-1
 core/pacman 6.0.1-7 (base-devel)
 community/pacman-contrib 1.6.0-1
-core/pacman-mirrorlist 20220724-1
+core/pacman-mirrorlist 20220828-1
 extra/pahole 1:1.23-1
 core/pam 1.5.2-1
 archlinuxcn/pamac-aur 10.4.2-0
 core/pambase 20211210-1
-community/pandoc 2.18-40
+community/pandoc 2.18-42
 extra/pango 1:1.50.9-1
 extra/pangomm 2.46.2-1
 community/pantheon-tasks 6.3.0-1 (pantheon)
@@ -1096,7 +1101,7 @@ community/python-colorama 0.4.5-1
 community/python-commonmark 0.9.1-5
 community/python-contextlib2 21.6.0-1
 extra/python-cryptography 37.0.4-1
-community/python-distlib 0.3.5-1
+community/python-distlib 0.3.6-1
 community/python-distro 1.7.0-1
 community/python-docopt 0.6.2-11
 community/python-docutils 1:0.19-1
@@ -1125,7 +1130,7 @@ extra/python-ordered-set 4.0.2-6
 extra/python-packaging 21.3-1
 community/python-pcapy 1.0.5-1
 extra/python-pep517 0.12.0-4
-extra/python-pip 22.2.2-1
+extra/python-pip 22.2.2-2
 extra/python-platformdirs 2.5.2-1
 extra/python-ply 3.11-10
 community/python-progress 1.6-5
@@ -1146,7 +1151,7 @@ extra/python-six 1.16.0-6
 community/python-tenacity 8.0.1-3
 community/python-toml 0.10.2-7
 extra/python-tomli 2.0.1-1
-extra/python-trove-classifiers 2022.8.7-1
+extra/python-trove-classifiers 2022.8.24-1
 community/python-typing_extensions 4.3.0-1
 extra/python-urllib3 1.26.12-1
 extra/python-validate-pyproject 0.9-1
@@ -1341,7 +1346,7 @@ core/usbutils 014-2
 core/util-linux 2.38.1-1
 core/util-linux-libs 2.38.1-1
 community/v2ray 4.45.2-1
-community/v2ray-domain-list-community 20220826120058-1
+community/v2ray-domain-list-community 20220829045350-1
 community/v2ray-geoip 202208250104-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.2-1
@@ -1375,7 +1380,7 @@ local/wemeet-bin 3.8.0.2-6
 extra/wget 1.21.3-1
 core/which 2.21-5 (base-devel)
 extra/whois 5.5.13-1
-multilib/wine 7.15-1
+multilib/wine 7.16-1
 community/wireshark-cli 3.6.7-1
 community/wireshark-qt 3.6.7-1
 extra/woff2 1.0.2-4
