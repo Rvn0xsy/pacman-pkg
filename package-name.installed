@@ -46,12 +46,12 @@ fcitx-googlepinyin 0.1.6-7
 fcitx-qt5 1.2.7-5
 fcitx-qt6 1.2.7-5
 feishu-bin 5.14.14-1
-file 5.42-1
+file 5.42-2
 findutils 4.9.0-1
-firefox 104.0-1
+firefox 104.0.1-1
 flameshot-git r1842.001726a5-1
 flex 2.6.4-3
-fwupd 1.8.3-1
+fwupd 1.8.4-1
 fwupd-efi 1.3-1
 garcon 4.16.1-1
 gawk 5.1.1-1
@@ -69,7 +69,7 @@ gpaste 42.1-1
 gpicview 0.2.5-7
 grep 3.7-1
 groff 1.22.4-7
-grub 2:2.06.r322.gd9b4638c5-1
+grub 2:2.06.r322.gd9b4638c5-3
 gvfs 1.50.2-1
 gzip 1.12-1
 hashcat 1:6.2.5-1
@@ -94,9 +94,9 @@ liferea 1.13.9-1
 lightdm 1:1.32.0-1
 lightdm-gtk-greeter 1:2.0.8-2
 lightdm-gtk-greeter-settings 1.2.2-7
-linux 5.19.4.arch1-1
-linux-firmware 20220708.be7798e-1
-linux-headers 5.19.4.arch1-1
+linux 5.19.5.arch1-1
+linux-firmware 20220815.8413c63-1
+linux-headers 5.19.5.arch1-1
 lsd 0.22.0-1
 lxqt-themes 1.1.0-1
 lzop 1.04-3
@@ -118,7 +118,7 @@ network-manager-applet 1.28.0-1
 network-manager-sstp 1.3.0-1
 networkmanager 1.40.0-1
 networkmanager-l2tp 1.20.4-5
-networkmanager-openvpn 1.8.18-2
+networkmanager-openvpn 1.10.0-1
 networkmanager-qt 5.97.0-1
 networkmanager-vpnc 1.2.8-2
 nmap 7.92-1
@@ -128,9 +128,9 @@ noto-fonts 20220607-1
 noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20211101-1
 noto-fonts-extra 20220607-1
-npm 8.18.0-1
+npm 8.19.0-1
 ntfs-3g 2022.5.17-1
-numix-circle-icon-theme-git 22.08.15.r1.g3251198-1
+numix-circle-icon-theme-git 22.08.30.r0.ga633783-1
 obs-studio 27.2.4-2
 opendesktop-fonts 1.4.2-6
 openssh 9.0p1-1
@@ -147,7 +147,7 @@ postgresql 14.5-1
 proxychains-ng 4.16-1
 pulseaudio-bluetooth 16.1-1
 python-pip 22.2.2-2
-qbittorrent 4.4.4-1
+qbittorrent 4.4.5-1
 qqmusic-bin 1.1.4-3
 qterminal 1.1.0-1
 rdesktop 1.9.0-2
@@ -160,7 +160,7 @@ sed 4.8-1
 slack-desktop 4.27.156-1
 socat 1.7.4.3-1
 sqlitebrowser 3.12.2-2
-sqlmap 1.6.2-1
+sqlmap 1.6.8-1
 steam-native-runtime 1.0.0.70-3
 strace 5.19-1
 sudo 1.9.11.p3-1
@@ -180,7 +180,7 @@ uget 2.2.3-5
 unrar 1:6.1.7-1
 unzip 6.0-19
 v2ray 4.45.2-1
-vim 9.0.0246-1
+vim 9.0.0321-1
 virtualbox 6.1.36-1
 virtualbox-ext-oracle 6.1.36-1
 virtualbox-guest-iso 6.1.36-1
