@@ -1219,6 +1219,7 @@ community/rdesktop 1.9.0-2
 extra/re2 1:20220601-1
 extra/re2c 3.0-1
 core/readline 8.1.002-1
+local/red-tldr 0.4.3-1
 community/remmina 1:1.4.27-1
 extra/rest 0.8.1+r4+ge5ee6ef-1
 extra/rhash 1.4.2-1
