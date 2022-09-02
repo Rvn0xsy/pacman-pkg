@@ -104,6 +104,7 @@ diskus 0.7.0-2
 djvulibre 3.5.28-3
 dkms 3.0.6-1
 dmraid 1.0.0.rc16.3-13
+dns-over-https 2.3.1-1
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7

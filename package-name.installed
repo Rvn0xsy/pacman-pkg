@@ -31,6 +31,7 @@ dbus-python 1.2.18-3
 dhcpcd 9.4.1-1
 discord 0.0.19-1
 diskus 0.7.0-2
+dns-over-https 2.3.1-1
 docker 1:20.10.17-1
 docker-compose 2.10.2-1
 dosfstools 4.2-2
