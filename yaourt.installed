@@ -130,7 +130,7 @@ extra/exo 4.16.4-1 (xfce4)
 core/expat 2.4.8-1
 extra/faad2 2.10.0-1
 core/fakeroot 1.29-1 (base-devel)
-community/faudio 22.09-1
+community/faudio 22.09.01-1
 community/fcitx 4.2.9.9-1 (fcitx-im)
 community/fcitx-configtool 0.4.10-4
 community/fcitx-googlepinyin 0.1.6-7
@@ -247,8 +247,8 @@ core/gzip 1.12-1 (base-devel)
 extra/harfbuzz 5.1.0-1
 extra/harfbuzz-icu 5.1.0-1
 community/hashcat 1:6.2.5-1
-community/haskell-aeson 1.5.6.0-131
-community/haskell-aeson-pretty 0.8.9-82
+community/haskell-aeson 1.5.6.0-132
+community/haskell-aeson-pretty 0.8.9-83
 community/haskell-ansi-terminal 0.11.3-17
 community/haskell-appar 0.1.8-13
 community/haskell-asn1-encoding 0.9.6-186
@@ -264,7 +264,7 @@ community/haskell-base16-bytestring 1.0.2.0-38
 community/haskell-base64-bytestring 1.2.1.0-60
 community/haskell-basement 0.0.15-1
 community/haskell-bifunctors 5.5.12-19
-community/haskell-bitvec 1.1.3.0-1
+community/haskell-bitvec 1.1.3.0-2
 community/haskell-blaze-builder 0.4.2.2-2
 community/haskell-blaze-html 0.9.1.2-182
 community/haskell-blaze-markup 0.8.2.8-88
@@ -272,15 +272,15 @@ community/haskell-byteable 0.1.1-25
 community/haskell-byteorder 1.0.4-24
 community/haskell-case-insensitive 1.2.1.0-161
 community/haskell-cereal 0.5.8.3-1
-community/haskell-citeproc 0.7-18
+community/haskell-citeproc 0.7-19
 community/haskell-cmdargs 0.10.21-4
 community/haskell-colour 2.3.6-126
 community/haskell-commonmark 0.2.2-12
 community/haskell-commonmark-extensions 0.2.3.2-10
-community/haskell-commonmark-pandoc 0.2.1.2-72
+community/haskell-commonmark-pandoc 0.2.1.2-73
 community/haskell-comonad 5.0.8-158
-community/haskell-conduit 1.3.4.2-79
-community/haskell-conduit-extra 1.3.6-20
+community/haskell-conduit 1.3.4.2-80
+community/haskell-conduit-extra 1.3.6-21
 community/haskell-connection 0.3.1-214
 community/haskell-cookie 0.4.5-12
 community/haskell-cryptonite 0.30-29
@@ -294,50 +294,50 @@ community/haskell-digest 0.0.1.3-2
 community/haskell-distributive 0.6.2.1-161
 community/haskell-dlist 1.0-180
 community/haskell-doclayout 0.4-9
-community/haskell-doctemplates 0.10.0.2-11
+community/haskell-doctemplates 0.10.0.2-12
 community/haskell-emojis 0.1.2-32
 community/haskell-erf 2.0.0.0-24
 community/haskell-file-embed 0.0.15.0-1
 community/haskell-ghc-bignum-orphans 0.1.1-1
 community/haskell-glob 0.10.2-48
-community/haskell-haddock-library 1.10.0-163
+community/haskell-haddock-library 1.10.0-164
 community/haskell-hashable 1.4.1.0-9
 community/haskell-hourglass 0.2.12-204
-community/haskell-hslua 2.2.0-21
-community/haskell-hslua-aeson 2.2.0.1-11
-community/haskell-hslua-classes 2.2.0-17
-community/haskell-hslua-core 2.2.1-11
-community/haskell-hslua-marshalling 2.2.1-5
-community/haskell-hslua-module-doclayout 1.0.4-44
-community/haskell-hslua-module-path 1.0.3-3
-community/haskell-hslua-module-system 1.0.2-4
-community/haskell-hslua-module-text 1.0.2-6
-community/haskell-hslua-module-version 1.0.2-3
-community/haskell-hslua-objectorientation 2.2.1-1
-community/haskell-hslua-packaging 2.2.0.1-12
+community/haskell-hslua 2.2.0-22
+community/haskell-hslua-aeson 2.2.0.1-12
+community/haskell-hslua-classes 2.2.0-18
+community/haskell-hslua-core 2.2.1-12
+community/haskell-hslua-marshalling 2.2.1-6
+community/haskell-hslua-module-doclayout 1.0.4-45
+community/haskell-hslua-module-path 1.0.3-4
+community/haskell-hslua-module-system 1.0.2-5
+community/haskell-hslua-module-text 1.0.2-7
+community/haskell-hslua-module-version 1.0.3-1
+community/haskell-hslua-objectorientation 2.2.1-2
+community/haskell-hslua-packaging 2.2.0.1-13
 community/haskell-hsyaml 0.2.1.1-16
-community/haskell-http-client 0.7.13.1-4
-community/haskell-http-client-tls 0.3.6.1-48
-community/haskell-http-types 0.12.3-259
+community/haskell-http-client 0.7.13.1-5
+community/haskell-http-client-tls 0.3.6.1-49
+community/haskell-http-types 0.12.3-260
 community/haskell-indexed-traversable 0.1.2-2
 community/haskell-integer-logarithms 1.0.3.1-6
 community/haskell-iproute 1.7.12-36
-community/haskell-ipynb 0.2-41
+community/haskell-ipynb 0.2-42
 community/haskell-jira-wiki-markup 1.4.0-71
 community/haskell-juicypixels 3.3.7-28
 community/haskell-lexer 1.1-11
-community/haskell-libyaml 0.1.2-243
+community/haskell-libyaml 0.1.2-244
 community/haskell-lpeg 1.0.3-7
 community/haskell-lua 2.2.1-8
 community/haskell-memory 0.17.0-25
 community/haskell-mime-types 0.1.0.9-14
-community/haskell-mono-traversable 1.0.15.3-76
+community/haskell-mono-traversable 1.0.15.3-77
 community/haskell-network 3.1.2.7-36
 community/haskell-network-uri 2.6.4.1-94
 community/haskell-old-locale 1.0.0.7-30
 community/haskell-old-time 1.1.0.3-30
-community/haskell-pandoc-lua-marshal 0.1.7-1
-community/haskell-pandoc-types 1.22.2.1-2
+community/haskell-pandoc-lua-marshal 0.1.7-2
+community/haskell-pandoc-types 1.22.2.1-3
 community/haskell-pem 0.2.4-242
 community/haskell-pretty-show 1.10-13
 community/haskell-primitive 0.7.4.0-27
@@ -347,8 +347,8 @@ community/haskell-resourcet 1.2.6-8
 community/haskell-safe 0.3.19-8
 community/haskell-scientific 0.3.7.0-71
 community/haskell-sha 1.6.4.4-19
-community/haskell-skylighting 0.12.3.1-17
-community/haskell-skylighting-core 0.12.3.1-17
+community/haskell-skylighting 0.12.3.1-18
+community/haskell-skylighting-core 0.12.3.1-18
 community/haskell-socks 0.6.1-190
 community/haskell-split 0.2.3.5-4
 community/haskell-splitmix 0.1.0.4-92
@@ -358,7 +358,7 @@ community/haskell-syb 0.7.2.1-161
 community/haskell-tagged 0.8.6.1-5
 community/haskell-tagsoup 0.14.8-184
 community/haskell-temporary 1.3-452
-community/haskell-texmath 0.12.5.2-8
+community/haskell-texmath 0.12.5.2-9
 community/haskell-text-conversions 0.3.1.1-19
 community/haskell-text-icu 0.8.0.2-6
 community/haskell-th-abstraction 0.4.4.0-1
@@ -373,21 +373,21 @@ community/haskell-typed-process 0.2.10.1-12
 community/haskell-unicode-collation 0.1.3.2-20
 community/haskell-unicode-data 0.3.0-25
 community/haskell-unicode-transforms 0.4.0.1-25
-community/haskell-uniplate 1.6.13-146
+community/haskell-uniplate 1.6.13-147
 community/haskell-unliftio-core 0.2.0.1-9
-community/haskell-unordered-containers 0.2.19.1-30
+community/haskell-unordered-containers 0.2.19.1-31
 community/haskell-utf8-string 1.0.2-108
 community/haskell-uuid-types 1.0.5-75
 community/haskell-vector 0.12.3.1-120
-community/haskell-vector-algorithms 0.9.0.1-1
+community/haskell-vector-algorithms 0.9.0.1-2
 community/haskell-x509 1.7.7-15
 community/haskell-x509-store 1.6.9-40
 community/haskell-x509-system 1.6.7-43
 community/haskell-x509-validation 1.6.12-45
 community/haskell-xml 1.3.14-30
-community/haskell-xml-conduit 1.9.1.1-134
+community/haskell-xml-conduit 1.9.1.1-135
 community/haskell-xml-types 0.3.8-8
-community/haskell-yaml 0.11.8.0-51
+community/haskell-yaml 0.11.8.0-52
 community/haskell-zip-archive 0.4.2.1-28
 community/haskell-zlib 0.6.3.0-18
 extra/hicolor-icon-theme 0.17-2
@@ -479,6 +479,7 @@ extra/lame 3.100-4
 extra/lcms2 2.13.1-1
 core/ldns 1.8.3-1
 extra/leafpad 0.8.18.1-9
+community/leptonica 1.82.0-2
 core/less 1:590-1
 multilib/lib32-acl 2.3.1-1
 multilib/lib32-alsa-lib 1.2.7.2-1
@@ -496,7 +497,7 @@ multilib/lib32-dbus 1.14.0-1
 multilib/lib32-dbus-glib 0.112-2
 multilib/lib32-e2fsprogs 1.46.5-1
 multilib/lib32-expat 2.4.8-1
-multilib/lib32-faudio 22.09-1
+multilib/lib32-faudio 22.09.01-1
 multilib/lib32-flac 1.3.4-3
 multilib/lib32-fontconfig 2:2.14.0-1
 multilib/lib32-freeglut 3.2.2-2
@@ -737,6 +738,7 @@ community/libidn11 1.33-2
 core/libidn2 2.3.3-1
 extra/libiec61883 1.2.0-6
 extra/libieee1284 0.2.11-13
+community/libimagequant 4.0.1-1
 extra/libimobiledevice 1.3.0-5
 community/libindicator-gtk2 12.10.1-10
 community/libindicator-gtk3 12.10.1-10
@@ -803,6 +805,7 @@ extra/libpulse 16.1-1
 extra/libpwquality 1.4.4-5
 extra/libqmi 1.30.8-1
 extra/libqrtr-glib 1.2.2-2
+extra/libraqm 0.9.0-1
 extra/libraw1394 2.1.2-3
 extra/librsvg 2:2.54.5-1
 community/librtmp0 2.4-5
@@ -925,7 +928,7 @@ extra/lua53 5.3.6-1
 community/lv2 1.18.8-1
 core/lvm2 2.03.16-2
 community/lxqt-themes 1.1.0-1 (lxqt)
-core/lz4 1:1.9.3-2
+core/lz4 1:1.9.4-1
 core/lzo 2.10-3
 extra/lzop 1.04-3
 core/m4 1.4.19-1 (base-devel)
@@ -987,7 +990,7 @@ extra/noto-fonts 20220607-1
 extra/noto-fonts-cjk 20220126-1
 extra/noto-fonts-emoji 20211101-1
 extra/noto-fonts-extra 20220607-1
-community/npm 8.19.0-1
+community/npm 8.19.1-1
 core/npth 1.6-3
 core/nspr 4.34.1-1
 core/nss 3.82-1
@@ -1022,7 +1025,7 @@ extra/pahole 1:1.23-1
 core/pam 1.5.2-1
 archlinuxcn/pamac-aur 10.4.2-0
 core/pambase 20211210-1
-community/pandoc 2.18-49
+community/pandoc 2.18-51
 extra/pango 1:1.50.9-1
 extra/pangomm 2.46.2-1
 community/pantheon-tasks 6.3.0-1 (pantheon)
@@ -1121,6 +1124,7 @@ community/python-colorama 0.4.5-1
 community/python-commonmark 0.9.1-5
 community/python-contextlib2 21.6.0-1
 extra/python-cryptography 37.0.4-1
+extra/python-cssselect 1.1.0-9
 community/python-distlib 0.3.6-1
 community/python-distro 1.7.0-1
 community/python-docopt 0.6.2-11
@@ -1130,7 +1134,7 @@ community/python-future 0.18.2-7
 extra/python-gobject 3.42.2-1
 community/python-html5lib 1.1-11
 extra/python-idna 3.3-4
-community/python-importlib-metadata 4.8.2-1
+community/python-importlib-metadata 4.8.3-1
 community/python-inflect 6.0.0-1
 community/python-itsdangerous 2.1.2-2
 community/python-jaraco.context 4.1.2-1
@@ -1146,10 +1150,12 @@ extra/python-markupsafe 2.1.1-1
 community/python-more-itertools 8.13.0-2
 community/python-msgpack 1.0.4-1
 extra/python-nspektr 0.4.0-2
+extra/python-opengl 3.1.6-1
 extra/python-ordered-set 4.1.0-1
 extra/python-packaging 21.3-1
 community/python-pcapy 1.0.5-1
 extra/python-pep517 0.13.0-1
+community/python-pillow 9.2.0-1
 extra/python-pip 22.2.2-2
 extra/python-platformdirs 2.5.2-1
 extra/python-ply 3.11-10
@@ -1162,6 +1168,10 @@ community/python-pydantic 1.10.1-1
 community/python-pygments 2.13.0-1
 extra/python-pyopenssl 22.0.0-1
 extra/python-pyparsing 3.0.9-1
+extra/python-pyqt5 5.15.7-1 (pyqt5)
+extra/python-pyqt5-sip 12.11.0-1
+community/python-pyquery 1.4.3-3
+extra/python-pyxdg 0.28-1
 extra/python-requests 2.28.1-1
 extra/python-resolvelib 0.8.1-1
 extra/python-retrying 1.3.3-13
@@ -1174,9 +1184,11 @@ extra/python-tomli 2.0.1-1
 extra/python-trove-classifiers 2022.8.31-1
 community/python-typing_extensions 4.3.0-1
 extra/python-urllib3 1.26.12-1
-extra/python-validate-pyproject 0.10-1
+extra/python-validate-pyproject 0.10.1-1
 community/python-webencodings 0.5.1-9
+community/python-webob 1.8.7-4
 community/python-werkzeug 2.2.2-1
+community/python-xlib 0.31-3
 community/python-yaml 6.0-1
 community/python-zipp 3.8.1-1
 community/qbittorrent 4.4.5-1
@@ -1194,6 +1206,7 @@ extra/qt5-multimedia 5.15.5+kde+r1-1 (qt qt5)
 extra/qt5-networkauth 5.15.5+kde+r0-1 (qt qt5)
 extra/qt5-quickcontrols 5.15.5+kde+r0-1 (qt qt5)
 extra/qt5-quickcontrols2 5.15.5+kde+r6-1 (qt qt5)
+extra/qt5-sensors 5.15.5+kde+r0-1 (qt qt5)
 extra/qt5-speech 5.15.5+kde+r1-1 (qt qt5)
 extra/qt5-svg 5.15.5+kde+r11-1 (qt qt5)
 extra/qt5-tools 5.15.5+kde+r1-3 (qt qt5)
@@ -1201,6 +1214,7 @@ extra/qt5-translations 5.15.5+kde+r2-1 (qt qt5)
 extra/qt5-wayland 5.15.5+kde+r38-3 (qt qt5)
 extra/qt5-webchannel 5.15.5+kde+r3-1 (qt qt5)
 extra/qt5-webengine 5.15.10-2 (qt qt5)
+extra/qt5-webkit 5.212.0alpha4-15
 extra/qt5-x11extras 5.15.5+kde+r0-1 (qt qt5)
 extra/qt6-5compat 6.3.1-1 (qt6)
 extra/qt6-base 6.3.1-1 (qt6)
@@ -1337,6 +1351,11 @@ core/tar 1.34-1
 extra/tcl 8.6.12-3
 extra/tdb 1.4.7-1
 community/telegram-desktop 4.1.1-1
+community/tesseract 5.2.0-1
+community/tesseract-data-chi_sim 2:4.1.0-3 (tesseract-data)
+community/tesseract-data-chi_tra 2:4.1.0-3 (tesseract-data)
+community/tesseract-data-eng 2:4.1.0-3 (tesseract-data)
+community/tesseract-data-osd 2:4.1.0-3
 core/texinfo 6.8-2 (base-devel)
 core/thin-provisioning-tools 0.9.0-1
 extra/thunar 4.16.11-2 (xfce4)
@@ -1367,7 +1386,7 @@ core/usbutils 014-2
 core/util-linux 2.38.1-1
 core/util-linux-libs 2.38.1-1
 community/v2ray 4.45.2-1
-community/v2ray-domain-list-community 20220902063951-1
+community/v2ray-domain-list-community 20220902120816-1
 community/v2ray-geoip 202209010055-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.2-1
@@ -1517,6 +1536,7 @@ community/xxhash 0.8.1-2
 core/xz 5.2.6-1
 extra/yajl 2.1.0-5
 archlinuxcn/yaourt 1.9-1
+local/youdao-dict 6.0.0-4
 extra/zenity 3.43.0-1
 community/zeromq 4.3.4-2
 extra/zimg 3.0.4-1

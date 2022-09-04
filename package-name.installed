@@ -129,7 +129,7 @@ noto-fonts 20220607-1
 noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20211101-1
 noto-fonts-extra 20220607-1
-npm 8.19.0-1
+npm 8.19.1-1
 ntfs-3g 2022.5.17-1
 numix-circle-icon-theme-git 22.08.30.r0.ga633783-1
 obs-studio 27.2.4-2
@@ -277,5 +277,6 @@ xorg-xwininfo 1.1.5-3
 xorg-xwud 1.0.6-1
 xsel 1.2.0.20200527-1
 yaourt 1.9-1
+youdao-dict 6.0.0-4
 zsh 5.9-1
 zsh-completions 0.34.0-2
