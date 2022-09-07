@@ -12,6 +12,7 @@ atril
 autoconf
 automake
 axel
+baidunetdisk-bin
 baobab
 base
 bash-completion
@@ -57,6 +58,7 @@ fwupd-efi
 garcon
 gawk
 gcc
+gdb
 gettext
 gnome-disk-utility
 gnome-font-viewer
