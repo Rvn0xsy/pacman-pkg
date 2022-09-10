@@ -84,8 +84,8 @@ jdk17-openjdk 17.0.4.1.u1-2
 jdk8-openjdk 8.345.u01-1
 jre11-openjdk 11.0.16.1.u1-2
 jre11-openjdk-headless 11.0.16.1.u1-2
-kdenlive 22.08.0-1
-kolourpaint 22.08.0-1
+kdenlive 22.08.1-1
+kolourpaint 22.08.1-1
 leafpad 0.8.18.1-9
 lib32-libpcap 1.10.1-1
 lib32-mesa 22.1.7-1
@@ -113,9 +113,9 @@ mousepad 0.5.10-1
 mtools 1:4.0.40-1
 nasm 2.15.05-1
 neofetch 7.1.0-2
-nerd-fonts-3270 2.2.1-1
-nerd-fonts-agave 2.2.1-1
-nerd-fonts-jetbrains-mono 2.2.1-1
+nerd-fonts-3270 2.2.2-1
+nerd-fonts-agave 2.2.2-1
+nerd-fonts-jetbrains-mono 2.2.2-1
 net-tools 2.10-1
 network-manager-applet 1.28.0-1
 network-manager-sstp 1.3.0-1
@@ -139,12 +139,12 @@ opendesktop-fonts 1.4.2-6
 openssh 9.0p1-1
 os-prober 1.80-1
 pacman 6.0.1-7
-pacman-contrib 1.7.0-1
+pacman-contrib 1.7.1-1
 pamac-aur 10.4.2-0
 pantheon-tasks 6.3.0-1
 papirus-icon-theme 20220808-1
 patch 2.7.6-8
-pavucontrol 1:5.0+r35+g964f298-1
+pavucontrol 1:5.0+r61+gee77d86-2
 pkgconf 1.8.0-1
 postgresql 14.5-1
 proxychains-ng 4.16-1
@@ -196,7 +196,7 @@ vulkan-radeon 22.1.7-1
 wemeet-bin 3.8.0.2-6
 wget 1.21.3-1
 which 2.21-5
-wireshark-qt 3.6.7-1
+wireshark-qt 3.6.8-1
 wqy-bitmapfont 1.0.0RC1-5
 wqy-microhei 0.2.0_beta-11
 wqy-microhei-lite 0.2.0_beta-10

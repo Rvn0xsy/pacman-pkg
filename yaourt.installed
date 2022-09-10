@@ -235,11 +235,11 @@ extra/gst-plugins-base-libs 1.20.3-1
 extra/gst-plugins-good 1.20.3-1
 extra/gstreamer 1.20.3-1
 extra/gtk-doc 1.33.2-1
-extra/gtk-update-icon-cache 1:4.6.7-1
+extra/gtk-update-icon-cache 1:4.8.0-1
 extra/gtk-vnc 1.3.1-1
 extra/gtk2 2.24.33-2
 extra/gtk3 1:3.24.34-1
-extra/gtk4 1:4.6.7-1
+extra/gtk4 1:4.8.0-1
 extra/gtkmm3 3.24.6-1
 extra/gtksourceview4 4.8.3-1
 extra/gts 0.7.6.121130-2
@@ -437,7 +437,7 @@ community/js78 78.15.0-4
 core/json-c 0.16-1
 extra/json-glib 1.6.6-2
 extra/jsoncpp 1.9.5-2
-extra/kaccounts-integration 22.08.0-2
+extra/kaccounts-integration 22.08.1-1
 extra/karchive 5.97.0-1 (kf5)
 extra/kauth 5.97.0-1 (kf5)
 core/kbd 2.5.1-1
@@ -452,7 +452,7 @@ extra/kcrash 5.97.0-1 (kf5)
 extra/kdbusaddons 5.97.0-1 (kf5)
 extra/kdeclarative 5.97.0-1 (kf5)
 extra/kded 5.97.0-1 (kf5)
-extra/kdenlive 22.08.0-1 (kde-applications kde-multimedia)
+extra/kdenlive 22.08.1-1 (kde-applications kde-multimedia)
 core/keyutils 1.6.3-1
 extra/kfilemetadata 5.97.0-1 (kf5)
 extra/kglobalaccel 5.97.0-1 (kf5)
@@ -467,10 +467,10 @@ core/kmod 30-1
 extra/knewstuff 5.97.0-1 (kf5)
 extra/knotifications 5.97.0-1 (kf5)
 extra/knotifyconfig 5.97.0-1 (kf5)
-extra/kolourpaint 22.08.0-1 (kde-applications kde-graphics)
+extra/kolourpaint 22.08.1-1 (kde-applications kde-graphics)
 extra/kpackage 5.97.0-1 (kf5)
 core/krb5 1.19.3-3
-extra/ksanecore 22.08.0-1
+extra/ksanecore 22.08.1-1
 extra/kservice 5.97.0-1 (kf5)
 extra/ktextwidgets 5.97.0-1 (kf5)
 extra/kwallet 5.97.0-4 (kf5)
@@ -536,7 +536,7 @@ multilib/lib32-libcurl-gnutls 7.85.0-1
 multilib/lib32-libdatrie 0.2.13-1
 multilib/lib32-libdbusmenu-glib 16.04.0-5
 multilib/lib32-libdbusmenu-gtk2 16.04.0-5
-multilib/lib32-libdrm 2.4.112-1
+multilib/lib32-libdrm 2.4.113-1
 multilib/lib32-libelf 0.187-1
 multilib/lib32-libepoxy 1.5.10-1
 multilib/lib32-libffi 3.4.2-4
@@ -571,7 +571,7 @@ multilib/lib32-libsm 1.2.3-1
 multilib/lib32-libsndfile 1.1.0-1
 multilib/lib32-libsoup 2.74.2-1
 multilib/lib32-libssh2 1.10.0-1
-multilib/lib32-libtasn1 4.18.0-1
+multilib/lib32-libtasn1 4.19.0-1
 multilib/lib32-libthai 0.1.29-1
 multilib/lib32-libtheora 1.1.1-13
 multilib/lib32-libtiff 4.4.0-4
@@ -642,15 +642,15 @@ multilib/lib32-sdl_image 1.2.12-7
 multilib/lib32-sdl_mixer 1.2.12-4
 multilib/lib32-sdl_ttf 2.0.11-6
 multilib/lib32-smpeg 0.4.5-4
-multilib/lib32-sqlite 3.39.2-2
+multilib/lib32-sqlite 3.39.3-1
 multilib/lib32-systemd 251.4-1.1
 multilib/lib32-tdb 1.4.7-1
 multilib/lib32-util-linux 2.38.1-1
 multilib/lib32-vkd3d 1.4-1
-multilib/lib32-vulkan-icd-loader 1.3.221-1
+multilib/lib32-vulkan-icd-loader 1.3.226-1
 multilib/lib32-vulkan-radeon 22.1.7-1
 multilib/lib32-wayland 1.21.0-1
-multilib/lib32-xz 5.2.5-2
+multilib/lib32-xz 5.2.6-1
 multilib/lib32-zlib 1.2.12-1
 multilib/lib32-zstd 1.5.2-1
 extra/libaccounts-glib 1.26-1
@@ -752,7 +752,7 @@ extra/libjpeg-turbo 2.1.4-2
 community/libjpeg6-turbo 1.5.3-2
 community/libjxl 0.6.1-3
 extra/libkeybinder3 0.3.2-3
-extra/libksane 22.08.0-1
+extra/libksane 22.08.1-1
 core/libksba 1.6.0-1
 extra/libldac 2.0.2.3-1
 core/libldap 2.6.3-1
@@ -779,8 +779,8 @@ core/libnftnl 1.2.3-1
 core/libnghttp2 1.49.0-1
 core/libnl 3.7.0-1
 extra/libnm 1.40.0-1
-extra/libnma 1.8.40-1
-extra/libnma-common 1.8.40-1
+extra/libnma 1.10.0-1
+extra/libnma-common 1.10.0-1
 extra/libnotify 0.8.1-1
 core/libnsl 2.0.0-2
 extra/libnss_nis 3.1-3
@@ -824,7 +824,7 @@ extra/libsoup 2.74.2-2
 extra/libsoup3 3.0.8-1
 extra/libsoxr 0.1.3-2
 extra/libspectre 0.2.10-1
-extra/libssh 0.10.3-1
+extra/libssh 0.10.4-1
 core/libssh2 1.10.0-1
 extra/libstemmer 2.2.0-2
 extra/libsynctex 2022.62885-1
@@ -966,9 +966,9 @@ extra/nasm 2.15.05-1
 core/ncurses 6.3-3
 extra/ndctl 74-1
 community/neofetch 7.1.0-2
-archlinuxcn/nerd-fonts-3270 2.2.1-1
-archlinuxcn/nerd-fonts-agave 2.2.1-1
-archlinuxcn/nerd-fonts-jetbrains-mono 2.2.1-1
+archlinuxcn/nerd-fonts-3270 2.2.2-1
+archlinuxcn/nerd-fonts-agave 2.2.2-1
+archlinuxcn/nerd-fonts-jetbrains-mono 2.2.2-1
 extra/net-snmp 5.9.1-4
 core/net-tools 2.10-1
 extra/netpbm 10.73.37-2
@@ -996,7 +996,7 @@ core/npth 1.6-3
 core/nspr 4.34.1-1
 core/nss 3.82-1
 extra/ntfs-3g 2022.5.17-1
-extra/numactl 2.0.14-3
+extra/numactl 2.0.15-1
 archlinuxcn/numix-circle-icon-theme-git 22.09.04.r0.g5f0530c-1
 community/obs-studio 27.2.4-2
 extra/ocl-icd 2.3.1-1
@@ -1020,7 +1020,7 @@ core/p11-kit 0.24.1-1
 extra/p7zip 1:17.04-3
 archlinuxcn/package-query 1.12-1
 core/pacman 6.0.1-7 (base-devel)
-community/pacman-contrib 1.7.0-1
+community/pacman-contrib 1.7.1-1
 core/pacman-mirrorlist 20220828-1
 extra/pahole 1:1.23-1
 core/pam 1.5.2-1
@@ -1034,7 +1034,7 @@ community/papirus-icon-theme 20220808-1
 extra/parted 3.5-1
 core/patch 2.7.6-8 (base-devel)
 community/patchelf 0.15.0-1
-extra/pavucontrol 1:5.0+r35+g964f298-1
+extra/pavucontrol 1:5.0+r61+gee77d86-2
 core/pciutils 3.8.0-2
 core/pcre 8.45-2
 core/pcre2 10.40-1
@@ -1063,7 +1063,7 @@ extra/perl-http-message 6.37-1
 extra/perl-http-negotiate 6.01-10
 extra/perl-io-html 1.004-3
 extra/perl-io-socket-inet6 2.73-2
-extra/perl-io-socket-ssl 2.074-3
+extra/perl-io-socket-ssl 2.075-1
 community/perl-json 4.09-1
 extra/perl-libwww 6.67-1
 extra/perl-lwp-mediatypes 6.04-2
@@ -1124,7 +1124,7 @@ community/python-click 8.1.3-1
 community/python-colorama 0.4.5-1
 community/python-commonmark 0.9.1-5
 community/python-contextlib2 21.6.0-1
-extra/python-cryptography 37.0.4-1
+extra/python-cryptography 38.0.0-1
 extra/python-cssselect 1.1.0-9
 community/python-distlib 0.3.6-1
 community/python-distro 1.7.0-1
@@ -1199,7 +1199,7 @@ community/qhexedit2 0.8.9-1
 local/qqmusic-bin 1.1.4-3
 extra/qrencode 4.1.1-1
 extra/qscintilla-qt5 2.13.3-1
-extra/qt5-base 5.15.5+kde+r182-1 (qt qt5)
+extra/qt5-base 5.15.5+kde+r184-1 (qt qt5)
 extra/qt5-declarative 5.15.5+kde+r19-1 (qt qt5)
 extra/qt5-graphicaleffects 5.15.5+kde+r0-1 (qt qt5)
 extra/qt5-location 5.15.5+kde+r3-1 (qt qt5)
@@ -1212,7 +1212,7 @@ extra/qt5-speech 5.15.5+kde+r1-1 (qt qt5)
 extra/qt5-svg 5.15.5+kde+r11-1 (qt qt5)
 extra/qt5-tools 5.15.5+kde+r1-3 (qt qt5)
 extra/qt5-translations 5.15.5+kde+r2-1 (qt qt5)
-extra/qt5-wayland 5.15.5+kde+r38-3 (qt qt5)
+extra/qt5-wayland 5.15.5+kde+r38-4 (qt qt5)
 extra/qt5-webchannel 5.15.5+kde+r3-1 (qt qt5)
 extra/qt5-webengine 5.15.10-2 (qt qt5)
 extra/qt5-webkit 5.212.0alpha4-15
@@ -1310,7 +1310,7 @@ community/serd 0.30.14-1
 extra/shaderc 2022.1-4
 core/shadow 4.11.1-1
 extra/shared-mime-info 2.0+155+gf4e7cbc-1
-extra/signon-kwallet-extension 22.08.0-1 (kde-applications kde-network)
+extra/signon-kwallet-extension 22.08.1-1 (kde-applications kde-network)
 extra/signon-plugin-oauth2 0.25-1
 extra/signon-ui 0.17+20171022-3
 extra/signond 8.61-1
@@ -1388,8 +1388,8 @@ core/usbutils 014-2
 core/util-linux 2.38.1-1
 core/util-linux-libs 2.38.1-1
 community/v2ray 4.45.2-1
-community/v2ray-domain-list-community 20220904120706-1
-community/v2ray-geoip 202209010055-1
+community/v2ray-domain-list-community 20220907153354-1
+community/v2ray-geoip 202209080101-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.3-1
 extra/vid.stab 1.1-3
@@ -1409,8 +1409,8 @@ extra/volume_key 0.3.12-7
 extra/vpnc 1:0.5.3.r506.r204-1
 extra/vte-common 0.68.0-2
 extra/vte3 0.68.0-2
-extra/vulkan-headers 1:1.3.221-1 (vulkan-devel)
-extra/vulkan-icd-loader 1.3.221-1
+extra/vulkan-headers 1:1.3.227-1 (vulkan-devel)
+extra/vulkan-icd-loader 1.3.226-1
 extra/vulkan-radeon 22.1.7-1
 extra/wavpack 5.5.0-1
 extra/wayland 1.21.0-1
@@ -1422,8 +1422,8 @@ local/wemeet-bin 3.8.0.2-6
 extra/wget 1.21.3-1
 core/which 2.21-5 (base-devel)
 extra/whois 5.5.13-1
-community/wireshark-cli 3.6.7-1
-community/wireshark-qt 3.6.7-1
+community/wireshark-cli 3.6.8-1
+community/wireshark-qt 3.6.8-1
 extra/woff2 1.0.2-4
 core/wpa_supplicant 2:2.10-5
 extra/wpebackend-fdo 1.12.1-1
