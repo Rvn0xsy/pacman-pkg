@@ -30,7 +30,7 @@ extra/at-spi2-core 2.44.1-1
 extra/atk 2.38.0-1
 extra/atkmm 2.28.3-1
 community/atril 1.26.0-1 (mate-extra)
-extra/attica 5.97.0-1 (kf5)
+extra/attica 5.98.0-1 (kf5)
 core/attr 2.5.1-2
 core/audit 3.0.8-1
 core/autoconf 2.71-1 (base-devel)
@@ -52,11 +52,11 @@ community/bitwarden 2022.8.1-1
 extra/bluedevil 1:5.25.5-1 (plasma)
 extra/bluez 5.65-3
 extra/bluez-libs 5.65-3
-extra/bluez-qt 5.97.0-1 (kf5)
+extra/bluez-qt 5.98.0-1 (kf5)
 extra/bluez-utils 5.65-3
 extra/bogofilter 1.2.5-4
 extra/boost-libs 1.79.0-1
-extra/breeze-icons 5.97.0-1 (kf5)
+extra/breeze-icons 5.98.0-1 (kf5)
 extra/bridge-utils 1.7.1-1
 core/brotli 1.0.9-8
 core/btrfs-progs 5.19-1
@@ -82,7 +82,7 @@ extra/colord 1.4.6-1
 community/confuse 3.3-3
 community/containerd 1.6.8-1
 extra/convertlit 1.8-10
-community/copyq 6.2.0-2
+community/copyq 6.2.0-3
 core/coreutils 9.1-1
 extra/cpio 2.13-2
 core/cracklib 2.9.7-2
@@ -109,7 +109,7 @@ community/dns-over-https 2.3.1-1
 core/dnssec-anchors 20190629-3
 extra/docbook-xml 4.5-9
 extra/docbook-xsl 1.79.2-7
-community/docker 1:20.10.17-1
+community/docker 1:20.10.18-1
 community/docker-compose 2.10.2-1
 core/dosfstools 4.2-2
 extra/double-conversion 3.2.1-1
@@ -135,8 +135,8 @@ core/fakeroot 1.29-1 (base-devel)
 community/fcitx 4.2.9.9-1 (fcitx-im)
 community/fcitx-configtool 0.4.10-4
 community/fcitx-googlepinyin 0.1.6-7
-community/fcitx-qt5 1.2.7-5 (fcitx-im)
-community/fcitx-qt6 1.2.7-5 (fcitx-im)
+community/fcitx-qt5 1.2.7-6 (fcitx-im)
+community/fcitx-qt6 1.2.7-6 (fcitx-im)
 archlinuxcn/feishu-bin 5.14.14-1
 extra/ffmpeg 2:5.1.1-3
 extra/ffmpeg4.4 4.4.2-3
@@ -162,8 +162,8 @@ community/fwupd 1.8.4-1
 community/fwupd-efi 1.3-1
 extra/garcon 4.16.1-1 (xfce4)
 community/gavl 1.4.0-6
-core/gawk 5.1.1-1 (base-devel)
-core/gc 8.2.0-3
+core/gawk 5.2.0-3 (base-devel)
+core/gc 8.2.2-1
 extra/gcab 1.5-1
 core/gcc 12.2.0-1 (base-devel)
 core/gcc-libs 12.2.0-1
@@ -185,7 +185,7 @@ extra/glib-networking 1:2.72.2-1
 extra/glib-perl 1.329.3-3
 core/glib2 2.72.3-3
 core/glib2-docs 2.72.3-3
-core/glibc 2.36-3
+core/glibc 2.36-4
 extra/glibmm 2.66.4-1
 extra/glslang 11.11.0-1
 extra/glu 9.0.2-3
@@ -204,7 +204,7 @@ extra/gnome-themes-extra 3.28+r6+g45b1d457-1
 extra/gnu-netcat 0.7.1-8
 core/gnupg 2.2.39-1
 core/gnutls 3.7.7-3
-community/go 2:1.19-1
+community/go 2:1.19.1-1
 extra/gobject-introspection 1.72.0-1
 extra/gobject-introspection-runtime 1.72.0-1
 archlinuxcn/goland 2022.2.2-1
@@ -220,7 +220,7 @@ community/granite 6.2.0-2 (pantheon)
 extra/graphene 1.10.8-1
 extra/graphite 1:1.3.14-2
 extra/graphviz 5.0.1-1
-core/grep 3.7-1 (base-devel)
+core/grep 3.8-2 (base-devel)
 core/groff 1.22.4-7 (base-devel)
 core/grub 2:2.06.r322.gd9b4638c5-4
 extra/gsettings-desktop-schemas 42.0-1
@@ -249,15 +249,15 @@ extra/gvfs 1.50.2-1 (gnome)
 core/gzip 1.12-1 (base-devel)
 extra/harfbuzz 5.1.0-1
 extra/harfbuzz-icu 5.1.0-1
-community/hashcat 1:6.2.5-1
-community/haskell-aeson 1.5.6.0-133
-community/haskell-aeson-pretty 0.8.9-84
+community/hashcat 1:6.2.6-1
+community/haskell-aeson 1.5.6.0-135
+community/haskell-aeson-pretty 0.8.9-86
 community/haskell-ansi-terminal 0.11.3-19
 community/haskell-appar 0.1.8-13
 community/haskell-asn1-encoding 0.9.6-187
 community/haskell-asn1-parse 0.9.5-187
 community/haskell-asn1-types 0.3.4-166
-community/haskell-assoc 1.0.2-156
+community/haskell-assoc 1.0.2-157
 community/haskell-async 2.2.4-105
 community/haskell-attoparsec 0.14.4-33
 community/haskell-base-compat 0.12.2-1
@@ -266,8 +266,8 @@ community/haskell-base-orphans 0.8.7-11
 community/haskell-base16-bytestring 1.0.2.0-39
 community/haskell-base64-bytestring 1.2.1.0-61
 community/haskell-basement 0.0.15-1
-community/haskell-bifunctors 5.5.12-20
-community/haskell-bitvec 1.1.3.0-3
+community/haskell-bifunctors 5.5.12-21
+community/haskell-bitvec 1.1.3.0-5
 community/haskell-blaze-builder 0.4.2.2-2
 community/haskell-blaze-html 0.9.1.2-183
 community/haskell-blaze-markup 0.8.2.8-89
@@ -275,15 +275,15 @@ community/haskell-byteable 0.1.1-25
 community/haskell-byteorder 1.0.4-24
 community/haskell-case-insensitive 1.2.1.0-162
 community/haskell-cereal 0.5.8.3-1
-community/haskell-citeproc 0.7-20
+community/haskell-citeproc 0.7-22
 community/haskell-cmdargs 0.10.21-4
 community/haskell-colour 2.3.6-128
 community/haskell-commonmark 0.2.2-13
 community/haskell-commonmark-extensions 0.2.3.2-11
-community/haskell-commonmark-pandoc 0.2.1.2-74
-community/haskell-comonad 5.0.8-159
-community/haskell-conduit 1.3.4.2-81
-community/haskell-conduit-extra 1.3.6-22
+community/haskell-commonmark-pandoc 0.2.1.2-76
+community/haskell-comonad 5.0.8-160
+community/haskell-conduit 1.3.4.2-83
+community/haskell-conduit-extra 1.3.6-24
 community/haskell-connection 0.3.1-215
 community/haskell-cookie 0.4.5-12
 community/haskell-cryptonite 0.30-30
@@ -294,53 +294,53 @@ community/haskell-data-default-instances-dlist 0.0.1-259
 community/haskell-data-default-instances-old-locale 0.0.1-36
 community/haskell-data-fix 0.3.2-61
 community/haskell-digest 0.0.1.3-2
-community/haskell-distributive 0.6.2.1-162
+community/haskell-distributive 0.6.2.1-163
 community/haskell-dlist 1.0-181
 community/haskell-doclayout 0.4-10
-community/haskell-doctemplates 0.10.0.2-13
+community/haskell-doctemplates 0.10.0.2-15
 community/haskell-emojis 0.1.2-33
 community/haskell-erf 2.0.0.0-24
 community/haskell-file-embed 0.0.15.0-1
 community/haskell-ghc-bignum-orphans 0.1.1-1
 community/haskell-glob 0.10.2-49
-community/haskell-haddock-library 1.10.0-165
+community/haskell-haddock-library 1.10.0-167
 community/haskell-hashable 1.4.1.0-12
 community/haskell-hourglass 0.2.12-205
-community/haskell-hslua 2.2.0-23
-community/haskell-hslua-aeson 2.2.0.1-13
-community/haskell-hslua-classes 2.2.0-19
-community/haskell-hslua-core 2.2.1-13
-community/haskell-hslua-marshalling 2.2.1-7
-community/haskell-hslua-module-doclayout 1.0.4-46
-community/haskell-hslua-module-path 1.0.3-5
-community/haskell-hslua-module-system 1.0.2-6
-community/haskell-hslua-module-text 1.0.2-8
-community/haskell-hslua-module-version 1.0.3-2
-community/haskell-hslua-objectorientation 2.2.1-3
-community/haskell-hslua-packaging 2.2.0.1-14
+community/haskell-hslua 2.2.0-27
+community/haskell-hslua-aeson 2.2.1-2
+community/haskell-hslua-classes 2.2.0-21
+community/haskell-hslua-core 2.2.1-15
+community/haskell-hslua-marshalling 2.2.1-9
+community/haskell-hslua-module-doclayout 1.0.4-50
+community/haskell-hslua-module-path 1.0.3-9
+community/haskell-hslua-module-system 1.0.2-9
+community/haskell-hslua-module-text 1.0.2-11
+community/haskell-hslua-module-version 1.0.3-6
+community/haskell-hslua-objectorientation 2.2.1-5
+community/haskell-hslua-packaging 2.2.1-1
 community/haskell-hsyaml 0.2.1.1-17
-community/haskell-http-client 0.7.13.1-6
-community/haskell-http-client-tls 0.3.6.1-50
-community/haskell-http-types 0.12.3-261
+community/haskell-http-client 0.7.13.1-8
+community/haskell-http-client-tls 0.3.6.1-52
+community/haskell-http-types 0.12.3-263
 community/haskell-indexed-traversable 0.1.2-2
 community/haskell-integer-logarithms 1.0.3.1-6
 community/haskell-iproute 1.7.12-37
-community/haskell-ipynb 0.2-43
+community/haskell-ipynb 0.2-45
 community/haskell-jira-wiki-markup 1.4.0-72
 community/haskell-juicypixels 3.3.7-29
 community/haskell-lexer 1.1-11
-community/haskell-libyaml 0.1.2-245
+community/haskell-libyaml 0.1.2-247
 community/haskell-lpeg 1.0.3-8
 community/haskell-lua 2.2.1-9
 community/haskell-memory 0.17.0-26
 community/haskell-mime-types 0.1.0.9-14
-community/haskell-mono-traversable 1.0.15.3-78
+community/haskell-mono-traversable 1.0.15.3-80
 community/haskell-network 3.1.2.7-37
 community/haskell-network-uri 2.6.4.1-95
 community/haskell-old-locale 1.0.0.7-30
 community/haskell-old-time 1.1.0.3-30
-community/haskell-pandoc-lua-marshal 0.1.7-3
-community/haskell-pandoc-types 1.22.2.1-4
+community/haskell-pandoc-lua-marshal 0.1.7-7
+community/haskell-pandoc-types 1.22.2.1-6
 community/haskell-pem 0.2.4-243
 community/haskell-pretty-show 1.10-13
 community/haskell-primitive 0.7.4.0-29
@@ -350,25 +350,25 @@ community/haskell-resourcet 1.2.6-9
 community/haskell-safe 0.3.19-8
 community/haskell-scientific 0.3.7.0-72
 community/haskell-sha 1.6.4.4-19
-community/haskell-skylighting 0.12.3.1-19
-community/haskell-skylighting-core 0.12.3.1-19
+community/haskell-skylighting 0.12.3.1-21
+community/haskell-skylighting-core 0.12.3.1-21
 community/haskell-socks 0.6.1-191
 community/haskell-split 0.2.3.5-5
 community/haskell-splitmix 0.1.0.4-94
 community/haskell-streaming-commons 0.2.2.4-33
-community/haskell-strict 0.4.0.1-130
+community/haskell-strict 0.4.0.1-131
 community/haskell-syb 0.7.2.1-163
 community/haskell-tagged 0.8.6.1-5
 community/haskell-tagsoup 0.14.8-185
 community/haskell-temporary 1.3-455
-community/haskell-texmath 0.12.5.2-10
+community/haskell-texmath 0.12.5.2-12
 community/haskell-text-conversions 0.3.1.1-20
 community/haskell-text-icu 0.8.0.2-7
 community/haskell-th-abstraction 0.4.4.0-1
 community/haskell-th-compat 0.1.4-2
 community/haskell-th-lift 0.8.2-12
 community/haskell-th-lift-instances 0.1.20-3
-community/haskell-these 1.1.1.1-157
+community/haskell-these 1.1.1.1-158
 community/haskell-time-compat 1.9.6.1-56
 community/haskell-tls 1.6.0-13
 community/haskell-transformers-compat 0.7.2-1
@@ -376,21 +376,21 @@ community/haskell-typed-process 0.2.10.1-13
 community/haskell-unicode-collation 0.1.3.2-21
 community/haskell-unicode-data 0.3.0-26
 community/haskell-unicode-transforms 0.4.0.1-26
-community/haskell-uniplate 1.6.13-148
+community/haskell-uniplate 1.6.13-150
 community/haskell-unliftio-core 0.2.0.1-9
-community/haskell-unordered-containers 0.2.19.1-32
+community/haskell-unordered-containers 0.2.19.1-34
 community/haskell-utf8-string 1.0.2-109
 community/haskell-uuid-types 1.0.5-76
 community/haskell-vector 0.12.3.1-122
-community/haskell-vector-algorithms 0.9.0.1-3
+community/haskell-vector-algorithms 0.9.0.1-5
 community/haskell-x509 1.7.7-16
 community/haskell-x509-store 1.6.9-41
 community/haskell-x509-system 1.6.7-44
 community/haskell-x509-validation 1.6.12-46
 community/haskell-xml 1.3.14-30
-community/haskell-xml-conduit 1.9.1.1-136
+community/haskell-xml-conduit 1.9.1.1-138
 community/haskell-xml-types 0.3.8-8
-community/haskell-yaml 0.11.8.0-53
+community/haskell-yaml 0.11.8.0-55
 community/haskell-zip-archive 0.4.2.1-29
 community/haskell-zlib 0.6.3.0-19
 extra/hicolor-icon-theme 0.17-2
@@ -399,7 +399,7 @@ community/highlight 4.2-1
 extra/htop 3.2.1-1
 extra/http-parser 2.9.4-1
 extra/hunspell 1.7.1-1
-core/hwdata 0.361-1
+core/hwdata 0.362-1
 extra/hwloc 2.8.0-1
 extra/hyphen 2.8.8-4
 core/iana-etc 20220715-1
@@ -438,45 +438,45 @@ core/json-c 0.16-1
 extra/json-glib 1.6.6-2
 extra/jsoncpp 1.9.5-2
 extra/kaccounts-integration 22.08.1-1
-extra/karchive 5.97.0-1 (kf5)
-extra/kauth 5.97.0-1 (kf5)
+extra/karchive 5.98.0-1 (kf5)
+extra/kauth 5.98.0-1 (kf5)
 core/kbd 2.5.1-1
-extra/kbookmarks 5.97.0-1 (kf5)
-extra/kcmutils 5.97.0-1 (kf5)
-extra/kcodecs 5.97.0-1 (kf5)
-extra/kcompletion 5.97.0-1 (kf5)
-extra/kconfig 5.97.0-1 (kf5)
-extra/kconfigwidgets 5.97.0-1 (kf5)
-extra/kcoreaddons 5.97.0-1 (kf5)
-extra/kcrash 5.97.0-1 (kf5)
-extra/kdbusaddons 5.97.0-1 (kf5)
-extra/kdeclarative 5.97.0-1 (kf5)
-extra/kded 5.97.0-1 (kf5)
+extra/kbookmarks 5.98.0-1 (kf5)
+extra/kcmutils 5.98.0-1 (kf5)
+extra/kcodecs 5.98.0-1 (kf5)
+extra/kcompletion 5.98.0-1 (kf5)
+extra/kconfig 5.98.0-1 (kf5)
+extra/kconfigwidgets 5.98.0-1 (kf5)
+extra/kcoreaddons 5.98.0-1 (kf5)
+extra/kcrash 5.98.0-1 (kf5)
+extra/kdbusaddons 5.98.0-1 (kf5)
+extra/kdeclarative 5.98.0-1 (kf5)
+extra/kded 5.98.0-1 (kf5)
 extra/kdenlive 22.08.1-1 (kde-applications kde-multimedia)
 core/keyutils 1.6.3-1
-extra/kfilemetadata 5.97.0-1 (kf5)
-extra/kglobalaccel 5.97.0-1 (kf5)
-extra/kguiaddons 5.97.0-1 (kf5)
-extra/ki18n 5.97.0-1 (kf5)
-extra/kiconthemes 5.97.0-1 (kf5)
-extra/kio 5.97.0-1 (kf5)
-extra/kirigami2 5.97.0-1 (kf5)
-extra/kitemviews 5.97.0-1 (kf5)
-extra/kjobwidgets 5.97.0-1 (kf5)
+extra/kfilemetadata 5.98.0-1 (kf5)
+extra/kglobalaccel 5.98.0-1 (kf5)
+extra/kguiaddons 5.98.0-1 (kf5)
+extra/ki18n 5.98.0-1 (kf5)
+extra/kiconthemes 5.98.0-1 (kf5)
+extra/kio 5.98.0-1 (kf5)
+extra/kirigami2 5.98.0-1 (kf5)
+extra/kitemviews 5.98.0-1 (kf5)
+extra/kjobwidgets 5.98.0-1 (kf5)
 core/kmod 30-1
-extra/knewstuff 5.97.0-1 (kf5)
-extra/knotifications 5.97.0-1 (kf5)
-extra/knotifyconfig 5.97.0-1 (kf5)
+extra/knewstuff 5.98.0-1 (kf5)
+extra/knotifications 5.98.0-1 (kf5)
+extra/knotifyconfig 5.98.0-1 (kf5)
 extra/kolourpaint 22.08.1-1 (kde-applications kde-graphics)
-extra/kpackage 5.97.0-1 (kf5)
+extra/kpackage 5.98.0-1 (kf5)
 core/krb5 1.19.3-3
 extra/ksanecore 22.08.1-1
-extra/kservice 5.97.0-1 (kf5)
-extra/ktextwidgets 5.97.0-1 (kf5)
-extra/kwallet 5.97.0-4 (kf5)
-extra/kwidgetsaddons 5.97.0-1 (kf5)
-extra/kwindowsystem 5.97.0-1 (kf5)
-extra/kxmlgui 5.97.0-1 (kf5)
+extra/kservice 5.98.0-1 (kf5)
+extra/ktextwidgets 5.98.0-1 (kf5)
+extra/kwallet 5.98.0-1 (kf5)
+extra/kwidgetsaddons 5.98.0-1 (kf5)
+extra/kwindowsystem 5.98.0-1 (kf5)
+extra/kxmlgui 5.98.0-1 (kf5)
 extra/l-smash 2.14.5-2
 extra/lame 3.100-4
 extra/lcms2 2.13.1-1
@@ -510,7 +510,7 @@ multilib/lib32-giflib 5.2.1-1
 multilib/lib32-glew1.10 1.10.0-5
 multilib/lib32-glib-networking 2.72.2-1
 multilib/lib32-glib2 2.72.3-1
-core/lib32-glibc 2.36-3
+core/lib32-glibc 2.36-4
 multilib/lib32-glu 9.0.2-3
 multilib/lib32-gmp 6.2.1-1
 multilib/lib32-gnutls 3.7.7-1
@@ -542,7 +542,7 @@ multilib/lib32-libepoxy 1.5.10-1
 multilib/lib32-libffi 3.4.2-4
 multilib/lib32-libgcrypt 1.10.1-1
 multilib/lib32-libgcrypt15 1.5.6-7
-multilib/lib32-libglvnd 1.4.0-3
+multilib/lib32-libglvnd 1.5.0-1
 multilib/lib32-libgpg-error 1.45-1
 multilib/lib32-libice 1.0.10-1
 multilib/lib32-libidn11 1.33-2
@@ -719,7 +719,7 @@ core/libgcrypt 1.10.1-1
 community/libgcrypt15 1.5.6-6
 extra/libgdata 0.18.1-2
 extra/libgee 0.20.5-2
-extra/libglvnd 1.4.0-3
+extra/libglvnd 1.5.0-1
 community/libgooglepinyin 0.1.2-5
 core/libgpg-error 1.45-2
 extra/libgphoto2 2.5.30-1
@@ -727,7 +727,7 @@ extra/libgsf 1.14.50-1
 core/libgssglue 0.5-1
 extra/libgtop 2.40.0+2+g31db82ef-2
 extra/libgudev 237-2
-extra/libgusb 0.3.10-2
+extra/libgusb 0.4.0-1
 extra/libgweather-4 4.0.0-1
 extra/libgxps 0.3.2-1
 extra/libhandy 1.6.3-1
@@ -779,8 +779,8 @@ core/libnftnl 1.2.3-1
 core/libnghttp2 1.49.0-1
 core/libnl 3.7.0-1
 extra/libnm 1.40.0-1
-extra/libnma 1.10.0-1
-extra/libnma-common 1.10.0-1
+extra/libnma 1.10.2-1
+extra/libnma-common 1.10.2-1
 extra/libnotify 0.8.1-1
 core/libnsl 2.0.0-2
 extra/libnss_nis 3.1-3
@@ -879,7 +879,7 @@ extra/libxfce4ui 4.16.1-1
 extra/libxfce4util 4.16.0-1
 extra/libxfixes 6.0.0-1
 extra/libxfont2 2.0.6-1
-extra/libxft 2.3.5-1
+extra/libxft 2.3.6-1
 extra/libxi 1.8-1
 extra/libxinerama 1.1.4-4
 extra/libxkbcommon 1.4.1-1
@@ -910,7 +910,7 @@ extra/liferea 1.13.9-1
 extra/lightdm 1:1.32.0-4
 extra/lightdm-gtk-greeter 1:2.0.8-3
 community/lightdm-gtk-greeter-settings 1.2.2-7
-community/lilv 0.24.18-1
+community/lilv 0.24.20-1
 core/linux 5.19.7.arch1-1
 core/linux-api-headers 5.18.15-1
 core/linux-firmware 20220815.8413c63-1
@@ -926,7 +926,7 @@ extra/lua 5.4.4-2
 extra/lua-lpeg 1.0.2-4
 extra/lua52 5.2.4-5
 extra/lua53 5.3.6-1
-community/lv2 1.18.8-1
+community/lv2 1.18.10-1
 core/lvm2 2.03.16-2
 community/lxqt-themes 1.1.0-1 (lxqt)
 core/lz4 1:1.9.4-1
@@ -945,7 +945,7 @@ extra/media-player-info 24-2
 extra/mesa 22.1.7-1
 extra/mesa-utils 8.5.0-2
 extra/meson 0.63.2-1
-community/metasploit 6.2.13-2
+community/metasploit 6.2.17-1
 community/mingw-w64-binutils 2.38-3 (mingw-w64-toolchain mingw-w64)
 community/mingw-w64-crt 10.0.0-1 (mingw-w64-toolchain mingw-w64)
 community/mingw-w64-gcc 12.2.0-1 (mingw-w64-toolchain mingw-w64)
@@ -978,13 +978,13 @@ community/network-manager-sstp 1.3.0-1
 extra/networkmanager 1.40.0-1
 community/networkmanager-l2tp 1.20.4-5
 extra/networkmanager-openvpn 1.10.0-1
-extra/networkmanager-qt 5.97.0-1 (kf5)
+extra/networkmanager-qt 5.98.0-1 (kf5)
 extra/networkmanager-vpnc 1.2.8-2
 community/ninja 1.11.1-1
 extra/nm-connection-editor 1.28.0-1
 extra/nmap 7.92-1
 community/node-gyp 9.1.0-1
-community/nodejs 18.8.0-1
+community/nodejs 18.9.0-1
 community/nodejs-nopt 6.0.0-1
 archlinuxcn/notion-app-enhanced 2.0.18-1
 extra/noto-fonts 20220607-1
@@ -997,7 +997,7 @@ core/nspr 4.34.1-1
 core/nss 3.82-1
 extra/ntfs-3g 2022.5.17-1
 extra/numactl 2.0.15-1
-archlinuxcn/numix-circle-icon-theme-git 22.09.04.r0.g5f0530c-1
+archlinuxcn/numix-circle-icon-theme-git 22.09.12.r0.g3d1068a-1
 community/obs-studio 27.2.4-2
 extra/ocl-icd 2.3.1-1
 extra/openal 1.22.2-1
@@ -1026,11 +1026,11 @@ extra/pahole 1:1.23-1
 core/pam 1.5.2-1
 archlinuxcn/pamac-aur 10.4.2-0
 core/pambase 20211210-1
-community/pandoc 2.18-52
+community/pandoc 2.18-56
 extra/pango 1:1.50.9-1
 extra/pangomm 2.46.2-1
 community/pantheon-tasks 6.3.0-1 (pantheon)
-community/papirus-icon-theme 20220808-1
+community/papirus-icon-theme 20220910-1
 extra/parted 3.5-1
 core/patch 2.7.6-8 (base-devel)
 community/patchelf 0.15.0-1
@@ -1038,7 +1038,7 @@ extra/pavucontrol 1:5.0+r61+gee77d86-2
 core/pciutils 3.8.0-2
 core/pcre 8.45-2
 core/pcre2 10.40-1
-community/pcsclite 1.9.8-1
+community/pcsclite 1.9.9-1
 core/perl 5.36.0-1
 extra/perl-bytes-random-secure 0.29-10
 extra/perl-clone 0.45-4
@@ -1109,22 +1109,22 @@ community/proxychains-ng 4.16-1
 core/psmisc 23.5-1
 extra/pulseaudio 16.1-1
 extra/pulseaudio-bluetooth 16.1-1
-extra/purpose 5.97.0-1 (kf5)
-core/python 3.10.6-1
+extra/purpose 5.98.0-1 (kf5)
+core/python 3.10.7-1
 extra/python-anytree 2.8.0-5
 extra/python-appdirs 1.4.4-7
 community/python-autocommand 2.2.1-1
 extra/python-beaker 1.11.0-8
 community/python-cachecontrol 1:0.12.11-1
 extra/python-cairo 1.21.0-1
-community/python-certifi 2022.06.15-1
+community/python-certifi 2022.06.15.1-1
 extra/python-cffi 1.15.1-1
 extra/python-chardet 5.0.0-1
 community/python-click 8.1.3-1
 community/python-colorama 0.4.5-1
 community/python-commonmark 0.9.1-5
 community/python-contextlib2 21.6.0-1
-extra/python-cryptography 38.0.0-1
+extra/python-cryptography 38.0.1-1
 extra/python-cssselect 1.1.0-9
 community/python-distlib 0.3.6-1
 community/python-distro 1.7.0-1
@@ -1199,35 +1199,35 @@ community/qhexedit2 0.8.9-1
 local/qqmusic-bin 1.1.4-3
 extra/qrencode 4.1.1-1
 extra/qscintilla-qt5 2.13.3-1
-extra/qt5-base 5.15.5+kde+r184-1 (qt qt5)
-extra/qt5-declarative 5.15.5+kde+r19-1 (qt qt5)
-extra/qt5-graphicaleffects 5.15.5+kde+r0-1 (qt qt5)
-extra/qt5-location 5.15.5+kde+r3-1 (qt qt5)
-extra/qt5-multimedia 5.15.5+kde+r1-1 (qt qt5)
-extra/qt5-networkauth 5.15.5+kde+r0-1 (qt qt5)
-extra/qt5-quickcontrols 5.15.5+kde+r0-1 (qt qt5)
-extra/qt5-quickcontrols2 5.15.5+kde+r6-1 (qt qt5)
-extra/qt5-sensors 5.15.5+kde+r0-1 (qt qt5)
-extra/qt5-speech 5.15.5+kde+r1-1 (qt qt5)
-extra/qt5-svg 5.15.5+kde+r11-1 (qt qt5)
-extra/qt5-tools 5.15.5+kde+r1-3 (qt qt5)
-extra/qt5-translations 5.15.5+kde+r2-1 (qt qt5)
-extra/qt5-wayland 5.15.5+kde+r38-4 (qt qt5)
-extra/qt5-webchannel 5.15.5+kde+r3-1 (qt qt5)
-extra/qt5-webengine 5.15.10-2 (qt qt5)
-extra/qt5-webkit 5.212.0alpha4-15
-extra/qt5-x11extras 5.15.5+kde+r0-1 (qt qt5)
-extra/qt6-5compat 6.3.1-1 (qt6)
-extra/qt6-base 6.3.1-1 (qt6)
-extra/qt6-declarative 6.3.1-1 (qt6)
-extra/qt6-imageformats 6.3.1-1 (qt6)
-extra/qt6-multimedia 6.3.1-1 (qt6)
-extra/qt6-positioning 6.3.1-1 (qt6)
-extra/qt6-svg 6.3.1-1 (qt6)
-extra/qt6-translations 6.3.1-1 (qt6)
-extra/qt6-wayland 6.3.1-1 (qt6)
-extra/qt6-webchannel 6.3.1-1 (qt6)
-extra/qt6-webengine 6.3.1-1 (qt6)
+extra/qt5-base 5.15.6+kde+r167-1 (qt qt5)
+extra/qt5-declarative 5.15.6+kde+r20-1 (qt qt5)
+extra/qt5-graphicaleffects 5.15.6+kde+r0-1 (qt qt5)
+extra/qt5-location 5.15.6+kde+r3-1 (qt qt5)
+extra/qt5-multimedia 5.15.6+kde+r1-1 (qt qt5)
+extra/qt5-networkauth 5.15.6+kde+r0-1 (qt qt5)
+extra/qt5-quickcontrols 5.15.6+kde+r0-1 (qt qt5)
+extra/qt5-quickcontrols2 5.15.6+kde+r5-1 (qt qt5)
+extra/qt5-sensors 5.15.6+kde+r0-1 (qt qt5)
+extra/qt5-speech 5.15.6+kde+r1-1 (qt qt5)
+extra/qt5-svg 5.15.6+kde+r9-1 (qt qt5)
+extra/qt5-tools 5.15.6+kde+r1-1 (qt qt5)
+extra/qt5-translations 5.15.6+kde+r2-1 (qt qt5)
+extra/qt5-wayland 5.15.6+kde+r43-2 (qt qt5)
+extra/qt5-webchannel 5.15.6+kde+r3-1 (qt qt5)
+extra/qt5-webengine 5.15.10-3 (qt qt5)
+extra/qt5-webkit 5.212.0alpha4-16
+extra/qt5-x11extras 5.15.6+kde+r0-1 (qt qt5)
+extra/qt6-5compat 6.3.2-1 (qt6)
+extra/qt6-base 6.3.2-1 (qt6)
+extra/qt6-declarative 6.3.2-1 (qt6)
+extra/qt6-imageformats 6.3.2-1 (qt6)
+extra/qt6-multimedia 6.3.2-1 (qt6)
+extra/qt6-positioning 6.3.2-1 (qt6)
+extra/qt6-svg 6.3.2-1 (qt6)
+extra/qt6-translations 6.3.2-1 (qt6)
+extra/qt6-wayland 6.3.2-1 (qt6)
+extra/qt6-webchannel 6.3.2-1 (qt6)
+extra/qt6-webengine 6.3.2-1 (qt6)
 community/qterminal 1.1.0-1 (lxqt)
 community/qtermwidget 1.1.0-1
 extra/rav1e 0.5.1-2
@@ -1249,7 +1249,7 @@ community/ruby-base64 0.1.1-1
 community/ruby-benchmark 0.2.0-1
 community/ruby-bigdecimal 3.1.2-1
 community/ruby-bundledgems 3.0.4-9
-community/ruby-bundler 2.3.19-1
+community/ruby-bundler 2.3.22-1
 community/ruby-cgi 0.3.2-1
 community/ruby-csv 3.2.5-1
 community/ruby-date 3.2.2-1
@@ -1297,7 +1297,7 @@ extra/sane 1.1.1-1
 extra/sbc 2.0-1
 community/screenkey 1.5-2
 community/sdl12-compat 1.2.52-2
-extra/sdl2 2.24.0-1
+extra/sdl2 2.24.0-2
 extra/sdl2_image 2.6.2-1
 extra/sdl2_mixer 2.6.2-1
 extra/sdl2_ttf 2.20.1-1
@@ -1306,7 +1306,7 @@ community/sdl_mixer 1.2.12-11
 community/sdl_ttf 2.0.11-6
 core/sed 4.8-1 (base-devel)
 community/semver 7.3.7-1
-community/serd 0.30.14-1
+community/serd 0.30.16-1
 extra/shaderc 2022.1-4
 core/shadow 4.11.1-1
 extra/shared-mime-info 2.0+155+gf4e7cbc-1
@@ -1319,9 +1319,9 @@ extra/slang 2.3.3-1
 community/smpeg 0.4.5-5
 extra/snappy 1.1.9-2
 extra/socat 1.7.4.3-1
-extra/solid 5.97.0-1 (kf5)
-extra/sonnet 5.97.0-1 (kf5)
-community/sord 0.16.12-3
+extra/solid 5.98.0-1 (kf5)
+extra/sonnet 5.98.0-1 (kf5)
+community/sord 0.16.14-1
 extra/sound-theme-freedesktop 0.8-5
 extra/source-highlight 3.1.9-8
 extra/spamassassin 3.4.6-3
@@ -1334,7 +1334,7 @@ community/sqlcipher 4.5.1-2
 core/sqlite 3.39.3-1
 community/sqlitebrowser 3.12.2-2
 community/sqlmap 1.6.8-1
-community/sratom 0.6.12-1
+community/sratom 0.6.14-1
 extra/srt 1.5.0-1
 community/sstp-client 1:1.0.17-1
 extra/startup-notification 0.12-7
@@ -1343,7 +1343,7 @@ multilib/steam-native-runtime 1.0.0.70-3
 extra/strace 5.19-1
 core/sudo 1.9.11.p3-1 (base-devel)
 extra/svt-av1 1.2.1-1
-extra/syndication 5.97.0-1 (kf5)
+extra/syndication 5.98.0-1 (kf5)
 core/sysfsutils 2.1.1-1
 core/systemd 251.4-1
 core/systemd-libs 251.4-1
@@ -1365,7 +1365,7 @@ extra/thunar-archive-plugin 0.5.0-2 (xfce4-goodies)
 extra/thunar-volman 4.16.0-1 (xfce4)
 core/tpm2-tss 3.2.0-1
 extra/tracker3 3.3.3-1
-extra/tree 2.0.2-2
+extra/tree 2.0.4-1
 extra/tslib 1.22-1
 community/ttf-arphic-ukai 0.2.20080216.2-1
 community/ttf-arphic-uming 0.2.20080216.2-1
@@ -1388,7 +1388,7 @@ core/usbutils 014-2
 core/util-linux 2.38.1-1
 core/util-linux-libs 2.38.1-1
 community/v2ray 4.45.2-1
-community/v2ray-domain-list-community 20220907153354-1
+community/v2ray-domain-list-community 20220908131416-1
 community/v2ray-geoip 202209080101-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.3-1
