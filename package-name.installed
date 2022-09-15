@@ -97,10 +97,10 @@ liferea 1.13.9-1
 lightdm 1:1.32.0-4
 lightdm-gtk-greeter 1:2.0.8-3
 lightdm-gtk-greeter-settings 1.2.2-7
-linux 5.19.7.arch1-1
+linux 5.19.8.arch1-1
 linux-firmware 20220815.8413c63-1
-linux-headers 5.19.7.arch1-1
-lsd 0.23.0-1
+linux-headers 5.19.8.arch1-1
+lsd 0.23.1-1
 lxqt-themes 1.1.0-1
 lzop 1.04-3
 m4 1.4.19-1
@@ -131,7 +131,7 @@ noto-fonts 20220607-1
 noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20211101-1
 noto-fonts-extra 20220607-1
-npm 8.19.1-1
+npm 8.19.2-1
 ntfs-3g 2022.5.17-1
 numix-circle-icon-theme-git 22.09.12.r0.g3d1068a-1
 obs-studio 27.2.4-2
