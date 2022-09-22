@@ -107,6 +107,7 @@ lzop
 m4
 make
 masscan
+maven
 mesa-utils
 metasploit
 mingw-w64-gcc
