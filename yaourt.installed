@@ -475,6 +475,7 @@ extra/jdk11-openjdk 11.0.16.1.u1-2
 extra/jdk17-openjdk 17.0.4.1.u1-2
 extra/jdk8-openjdk 8.345.u01-1
 extra/jemalloc 1:5.3.0-1
+community/jq 1.6-4
 archlinuxcn/jre 19-1
 extra/jre11-openjdk 11.0.16.1.u1-2
 extra/jre11-openjdk-headless 11.0.16.1.u1-2
@@ -1051,6 +1052,7 @@ extra/numactl 2.0.15-1
 archlinuxcn/numix-circle-icon-theme-git 22.09.24.r0.g3263aab-1
 community/obs-studio 27.2.4-2
 extra/ocl-icd 2.3.1-1
+community/oniguruma 6.9.8-1
 extra/openal 1.22.2-1
 extra/opencore-amr 0.1.6-1
 community/opendesktop-fonts 1.4.2-6

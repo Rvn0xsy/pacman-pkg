@@ -475,6 +475,7 @@ jdk11-openjdk 11.0.16.1.u1-2
 jdk17-openjdk 17.0.4.1.u1-2
 jdk8-openjdk 8.345.u01-1
 jemalloc 1:5.3.0-1
+jq 1.6-4
 jre 19-1
 jre11-openjdk 11.0.16.1.u1-2
 jre11-openjdk-headless 11.0.16.1.u1-2
@@ -1051,6 +1052,7 @@ numactl 2.0.15-1
 numix-circle-icon-theme-git 22.09.24.r0.g3263aab-1
 obs-studio 27.2.4-2
 ocl-icd 2.3.1-1
+oniguruma 6.9.8-1
 openal 1.22.2-1
 opencore-amr 0.1.6-1
 opendesktop-fonts 1.4.2-6
