@@ -20,7 +20,7 @@ extra/appstream-glib 0.8.1-1
 community/arc-gtk-theme 20220405-1
 community/arc-icon-theme 20161122-3
 extra/archlinux-appstream-data 20220830-1
-core/archlinux-keyring 20220831-1 (base-devel)
+core/archlinux-keyring 20220927-1 (base-devel)
 archlinuxcn/archlinuxcn-keyring 20220716-1
 core/argon2 20190702-4
 community/aria2 1.36.0-1
