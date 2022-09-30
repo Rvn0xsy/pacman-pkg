@@ -160,7 +160,7 @@ rdesktop 1.9.0-2
 red-tldr 0.4.3-1
 remmina 1:1.4.27-1
 rofi 1.7.5-1
-rssguard 4.2.4-1
+rssguard 4.2.5-1
 rubygems 3.3.21-1
 screenkey 1.5-2
 sed 4.8-1
@@ -171,7 +171,7 @@ sqlmap 1.6.8-1
 steam-native-runtime 1.0.0.70-3
 strace 5.19-1
 sudo 1.9.11.p3-1
-telegram-desktop 4.2.0-1
+telegram-desktop 4.2.4-1
 texinfo 6.8-2
 thunar 4.16.11-2
 thunar-archive-plugin 0.5.0-2
@@ -200,6 +200,7 @@ wemeet-bin 3.8.0.2-6
 wget 1.21.3-1
 which 2.21-5
 wireshark-qt 3.6.8-1
+wps-office-cn 11.1.0.11664-2
 wqy-bitmapfont 1.0.0RC1-5
 wqy-microhei 0.2.0_beta-11
 wqy-microhei-lite 0.2.0_beta-10
