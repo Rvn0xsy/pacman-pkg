@@ -181,6 +181,7 @@ ttf-arphic-ukai
 ttf-arphic-uming
 ttf-dejavu
 ttf-hannom
+ttf-wps-fonts
 tumbler
 udiskie
 uget
@@ -201,6 +202,8 @@ wget
 which
 wireshark-qt
 wps-office-cn
+wps-office-fonts
+wps-office-mui-zh-cn
 wqy-bitmapfont
 wqy-microhei
 wqy-microhei-lite

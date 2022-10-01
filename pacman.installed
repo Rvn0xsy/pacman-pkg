@@ -1430,6 +1430,7 @@ ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-hannom 2005-6
 ttf-liberation 2.1.5-1
 ttf-opensans 1.101-2
+ttf-wps-fonts 1.0-5
 tumbler 4.16.1-1
 twolame 0.4.0-2
 tzdata 2022d-1
@@ -1485,6 +1486,8 @@ woff2 1.0.2-4
 wpa_supplicant 2:2.10-5
 wpebackend-fdo 1.14.0-1
 wps-office-cn 11.1.0.11664-2
+wps-office-fonts 1.0-2
+wps-office-mui-zh-cn 11.1.0.11664-2
 wqy-bitmapfont 1.0.0RC1-5
 wqy-microhei 0.2.0_beta-11
 wqy-microhei-lite 0.2.0_beta-10
