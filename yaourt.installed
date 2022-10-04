@@ -65,7 +65,7 @@ core/ca-certificates 20220905-1
 core/ca-certificates-mozilla 3.83-1
 core/ca-certificates-utils 20220905-1
 extra/cairo 1.17.6-2
-extra/cairomm 1.14.3-2
+extra/cairomm 1.14.4-1
 extra/cantarell-fonts 1:0.303.1-1
 extra/cdparanoia 10.2-8
 community/chrpath 0.16-3
@@ -144,7 +144,7 @@ core/filesystem 2021.12.07-1
 core/findutils 4.9.0-1 (base-devel)
 extra/firefox 105.0.1-1
 extra/flac 1.4.1-1
-archlinuxcn/flameshot-git r1846.5f67ab50-1
+archlinuxcn/flameshot-git r1848.d2b38f96-1
 community/flashrom 1.2-4
 core/flex 2.6.4-3 (base-devel)
 extra/fontconfig 2:2.14.0-1
@@ -225,7 +225,7 @@ extra/gsettings-desktop-schemas 42.0-1
 extra/gsfonts 20200910-2
 extra/gsl 2.7.1-1
 extra/gsm 1.0.22-1
-extra/gspell 1.10.0-2
+extra/gspell 1.12.0-1
 extra/gst-libav 1.20.3-2
 extra/gst-plugin-gtk 1.20.3-2
 extra/gst-plugins-bad-libs 1.20.3-2
@@ -681,7 +681,7 @@ multilib/lib32-opus 1.3.1-2
 multilib/lib32-orc 0.4.32-2
 multilib/lib32-p11-kit 0.24.1-1
 multilib/lib32-pam 1.5.2-1
-multilib/lib32-pango 1:1.50.10-1
+multilib/lib32-pango 1:1.50.11-1
 multilib/lib32-pcre 8.45-3
 multilib/lib32-pcre2 10.40-3
 multilib/lib32-pipewire 1:0.3.58-1
@@ -698,14 +698,14 @@ multilib/lib32-sdl_mixer 1.2.12-4
 multilib/lib32-sdl_ttf 2.0.11-6
 multilib/lib32-smpeg 0.4.5-4
 multilib/lib32-sqlite 3.39.3-1
-multilib/lib32-systemd 251.4-1.1
+multilib/lib32-systemd 251.5-1
 multilib/lib32-tdb 1.4.7-1
 multilib/lib32-util-linux 2.38.1-1
 multilib/lib32-vkd3d 1.4-1
 multilib/lib32-vulkan-icd-loader 1.3.226-1
 multilib/lib32-vulkan-radeon 22.1.7-1
 multilib/lib32-wayland 1.21.0-1
-multilib/lib32-xz 5.2.6-1
+multilib/lib32-xz 5.2.7-1
 multilib/lib32-zlib 1.2.12-1
 multilib/lib32-zstd 1.5.2-1
 extra/libaccounts-glib 1.26-1
@@ -1084,8 +1084,8 @@ core/pam 1.5.2-1
 archlinuxcn/pamac-aur 10.4.2-0
 core/pambase 20211210-1
 community/pandoc 2.19.2-5
-extra/pango 1:1.50.10-1
-extra/pangomm 2.46.2-1
+extra/pango 1:1.50.11-1
+extra/pangomm 2.46.3-1
 community/pantheon-tasks 6.3.0-1 (pantheon)
 community/papirus-icon-theme 20220910-1
 extra/parted 3.5-1
@@ -1403,9 +1403,9 @@ core/sudo 1.9.11.p3-1 (base-devel)
 extra/svt-av1 1.2.1-1
 extra/syndication 5.98.0-1 (kf5)
 core/sysfsutils 2.1.1-1
-core/systemd 251.4-1
-core/systemd-libs 251.4-1
-core/systemd-sysvcompat 251.4-1
+core/systemd 251.5-1
+core/systemd-libs 251.5-1
+core/systemd-sysvcompat 251.5-1
 extra/taglib 1.12-2
 core/tar 1.34-1
 extra/tcl 8.6.12-3
@@ -1597,7 +1597,7 @@ extra/xorgproto 2022.2-1
 community/xsel 1.2.0.20200527-1
 extra/xvidcore 1.3.7-2
 community/xxhash 0.8.1-2
-core/xz 5.2.6-1
+core/xz 5.2.7-1
 extra/yajl 2.1.0-5
 archlinuxcn/yaourt 1.9-1
 local/youdao-dict 6.0.0-4

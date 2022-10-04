@@ -65,7 +65,7 @@ ca-certificates 20220905-1
 ca-certificates-mozilla 3.83-1
 ca-certificates-utils 20220905-1
 cairo 1.17.6-2
-cairomm 1.14.3-2
+cairomm 1.14.4-1
 cantarell-fonts 1:0.303.1-1
 cdparanoia 10.2-8
 chrpath 0.16-3
@@ -144,7 +144,7 @@ filesystem 2021.12.07-1
 findutils 4.9.0-1
 firefox 105.0.1-1
 flac 1.4.1-1
-flameshot-git r1846.5f67ab50-1
+flameshot-git r1848.d2b38f96-1
 flashrom 1.2-4
 flex 2.6.4-3
 fontconfig 2:2.14.0-1
@@ -225,7 +225,7 @@ gsettings-desktop-schemas 42.0-1
 gsfonts 20200910-2
 gsl 2.7.1-1
 gsm 1.0.22-1
-gspell 1.10.0-2
+gspell 1.12.0-1
 gst-libav 1.20.3-2
 gst-plugin-gtk 1.20.3-2
 gst-plugins-bad-libs 1.20.3-2
@@ -681,7 +681,7 @@ lib32-opus 1.3.1-2
 lib32-orc 0.4.32-2
 lib32-p11-kit 0.24.1-1
 lib32-pam 1.5.2-1
-lib32-pango 1:1.50.10-1
+lib32-pango 1:1.50.11-1
 lib32-pcre 8.45-3
 lib32-pcre2 10.40-3
 lib32-pipewire 1:0.3.58-1
@@ -698,14 +698,14 @@ lib32-sdl_mixer 1.2.12-4
 lib32-sdl_ttf 2.0.11-6
 lib32-smpeg 0.4.5-4
 lib32-sqlite 3.39.3-1
-lib32-systemd 251.4-1.1
+lib32-systemd 251.5-1
 lib32-tdb 1.4.7-1
 lib32-util-linux 2.38.1-1
 lib32-vkd3d 1.4-1
 lib32-vulkan-icd-loader 1.3.226-1
 lib32-vulkan-radeon 22.1.7-1
 lib32-wayland 1.21.0-1
-lib32-xz 5.2.6-1
+lib32-xz 5.2.7-1
 lib32-zlib 1.2.12-1
 lib32-zstd 1.5.2-1
 libaccounts-glib 1.26-1
@@ -1084,8 +1084,8 @@ pam 1.5.2-1
 pamac-aur 10.4.2-0
 pambase 20211210-1
 pandoc 2.19.2-5
-pango 1:1.50.10-1
-pangomm 2.46.2-1
+pango 1:1.50.11-1
+pangomm 2.46.3-1
 pantheon-tasks 6.3.0-1
 papirus-icon-theme 20220910-1
 parted 3.5-1
@@ -1403,9 +1403,9 @@ sudo 1.9.11.p3-1
 svt-av1 1.2.1-1
 syndication 5.98.0-1
 sysfsutils 2.1.1-1
-systemd 251.4-1
-systemd-libs 251.4-1
-systemd-sysvcompat 251.4-1
+systemd 251.5-1
+systemd-libs 251.5-1
+systemd-sysvcompat 251.5-1
 taglib 1.12-2
 tar 1.34-1
 tcl 8.6.12-3
@@ -1597,7 +1597,7 @@ xorgproto 2022.2-1
 xsel 1.2.0.20200527-1
 xvidcore 1.3.7-2
 xxhash 0.8.1-2
-xz 5.2.6-1
+xz 5.2.7-1
 yajl 2.1.0-5
 yaourt 1.9-1
 youdao-dict 6.0.0-4
