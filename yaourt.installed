@@ -10,7 +10,7 @@ extra/adobe-source-sans-fonts 3.046-1
 extra/adobe-source-serif-fonts 4.004-2
 extra/adwaita-icon-theme 42.0+r1+gc144c3d75-1
 extra/alacarte 1:3.44.2-1
-extra/alsa-card-profiles 1:0.3.59-1
+extra/alsa-card-profiles 1:0.3.59-2
 extra/alsa-lib 1.2.7.2-1
 extra/alsa-plugins 1:1.2.7.1-1
 extra/alsa-topology-conf 1.2.5.1-1
@@ -683,7 +683,7 @@ multilib/lib32-pam 1.5.2-1
 multilib/lib32-pango 1:1.50.11-1
 multilib/lib32-pcre 8.45-3
 multilib/lib32-pcre2 10.40-3
-multilib/lib32-pipewire 1:0.3.59-1
+multilib/lib32-pipewire 1:0.3.59-2
 multilib/lib32-pixman 0.40.0-1
 multilib/lib32-readline 8.1.002-1
 multilib/lib32-rest 0.8.1-4
@@ -786,7 +786,7 @@ extra/libgweather-4 4.0.0-1
 extra/libgxps 0.3.2-2
 extra/libhandy 1.8.0-1
 extra/libheif 1.13.0-2
-extra/libical 3.0.14-3
+extra/libical 3.0.15-1
 extra/libice 1.0.10-4
 extra/libidn 1.41-1
 community/libidn11 1.33-2
@@ -1115,7 +1115,7 @@ extra/perl-html-tagset 3.20-12
 extra/perl-http-cookies 6.10-3
 extra/perl-http-daemon 6.14-2
 extra/perl-http-date 6.05-5
-extra/perl-http-message 6.37-1
+extra/perl-http-message 6.38-1
 extra/perl-http-negotiate 6.01-10
 extra/perl-io-html 1.004-3
 extra/perl-io-socket-inet6 2.73-2
@@ -1139,12 +1139,12 @@ community/perl-path-class 0.37-8
 extra/perl-socket6 0.29-7
 extra/perl-timedate 2.33-4
 extra/perl-try-tiny 0.31-2
-extra/perl-uri 5.12-1
+extra/perl-uri 5.13-1
 extra/perl-www-robotrules 6.02-10
 extra/perl-xml-parser 2.46-4
 community/phodav 2.5-2
 core/pinentry 1.2.1-1
-extra/pipewire 1:0.3.59-1
+extra/pipewire 1:0.3.59-2
 extra/pixman 0.40.0-2
 extra/pkcs11-helper 1.29.0-1
 core/pkgconf 1.8.0-1 (base-devel)
@@ -1344,7 +1344,7 @@ community/ruby-rexml 3.2.5-1
 community/ruby-ruby2_keywords 0.0.5-1
 community/ruby-stdlib 3.0.4-18
 community/ruby-stringio 3.0.2-4
-community/ruby-test-unit 3.5.4-1
+community/ruby-test-unit 3.5.5-1
 community/ruby-time 0.2.0-4
 community/ruby-tmpdir 0.1.2-3
 community/ruby-uri 0.11.0-5
@@ -1447,7 +1447,7 @@ core/usbutils 014-2
 core/util-linux 2.38.1-1
 core/util-linux-libs 2.38.1-1
 community/v2ray 5.1.0-2
-community/v2ray-domain-list-community 20221005015401-1
+community/v2ray-domain-list-community 20221008040018-1
 community/v2ray-geoip 202210060105-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.3-1
