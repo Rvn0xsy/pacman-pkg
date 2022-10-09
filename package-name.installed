@@ -67,7 +67,7 @@ gnu-netcat 0.7.1-8
 go 2:1.19.2-1
 goland 2022.2.3-1
 google-chrome 104.0.5112.101-1
-goreleaser 1.10.3-1
+goreleaser 1.11.5-1
 gpaste 42.1-1
 gpicview 0.2.5-7
 grep 3.8-2

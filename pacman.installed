@@ -143,7 +143,7 @@ file 5.43-1
 filesystem 2021.12.07-1
 findutils 4.9.0-1
 firefox 105.0.3-1
-flac 1.4.1-1
+flac 1.4.1-2
 flameshot-git r1853.134117b5-1
 flashrom 1.2-4
 flex 2.6.4-3
@@ -207,7 +207,7 @@ gobject-introspection 1.74.0-1
 gobject-introspection-runtime 1.74.0-1
 goland 2022.2.3-1
 google-chrome 104.0.5112.101-1
-goreleaser 1.10.3-1
+goreleaser 1.11.5-1
 gpaste 42.1-1
 gperftools 2.10-1
 gpgme 1.18.0-1
@@ -552,7 +552,7 @@ lib32-dbus 1.14.2-1
 lib32-dbus-glib 0.112-2
 lib32-e2fsprogs 1.46.5-1
 lib32-expat 2.4.9-1
-lib32-flac 1.4.1-1
+lib32-flac 1.4.1-2
 lib32-fontconfig 2:2.14.0-1
 lib32-freeglut 3.2.2-2
 lib32-freetype2 2.12.1-1
@@ -775,7 +775,7 @@ libgdata 0.18.1-2
 libgee 0.20.6-1
 libglvnd 1.5.0-1
 libgooglepinyin 0.1.2-5
-libgpg-error 1.45-2
+libgpg-error 1.46-1
 libgphoto2 2.5.30-1
 libgsf 1.14.50-1
 libgssglue 0.5-1
@@ -1115,7 +1115,7 @@ perl-html-tagset 3.20-12
 perl-http-cookies 6.10-3
 perl-http-daemon 6.14-2
 perl-http-date 6.05-5
-perl-http-message 6.38-1
+perl-http-message 6.39-1
 perl-http-negotiate 6.01-10
 perl-io-html 1.004-3
 perl-io-socket-inet6 2.73-2
@@ -1151,9 +1151,9 @@ pkgconf 1.8.0-1
 polkit 121-1
 polkit-gnome 0.105-9
 polkit-qt5 0.114.0-1
-poppler 22.09.0-1
-poppler-glib 22.09.0-1
-poppler-qt5 22.09.0-1
+poppler 22.10.0-1
+poppler-glib 22.10.0-1
+poppler-qt5 22.10.0-1
 popt 1.18-3
 postgresql 14.5-1
 postgresql-libs 14.5-1
@@ -1204,7 +1204,7 @@ python-lxml 4.9.1-1
 python-mako 1.2.3-1
 python-markdown 3.4.1-1
 python-markupsafe 2.1.1-1
-python-more-itertools 8.13.0-2
+python-more-itertools 8.14.0-1
 python-msgpack 1.0.4-1
 python-nspektr 0.4.0-2
 python-opengl 3.1.6-1
@@ -1447,7 +1447,7 @@ usbutils 014-2
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 v2ray 5.1.0-2
-v2ray-domain-list-community 20221008040018-1
+v2ray-domain-list-community 20221009021259-1
 v2ray-geoip 202210060105-1
 v4l-utils 1.22.1-1
 vala 0.56.3-1

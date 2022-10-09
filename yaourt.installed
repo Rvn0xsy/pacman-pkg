@@ -143,7 +143,7 @@ core/file 5.43-1 (base-devel)
 core/filesystem 2021.12.07-1
 core/findutils 4.9.0-1 (base-devel)
 extra/firefox 105.0.3-1
-extra/flac 1.4.1-1
+extra/flac 1.4.1-2
 archlinuxcn/flameshot-git r1853.134117b5-1
 community/flashrom 1.2-4
 core/flex 2.6.4-3 (base-devel)
@@ -207,7 +207,7 @@ extra/gobject-introspection 1.74.0-1
 extra/gobject-introspection-runtime 1.74.0-1
 archlinuxcn/goland 2022.2.3-1
 local/google-chrome 104.0.5112.101-1
-community/goreleaser 1.10.3-1
+community/goreleaser 1.11.5-1
 extra/gpaste 42.1-1
 extra/gperftools 2.10-1
 core/gpgme 1.18.0-1
@@ -552,7 +552,7 @@ multilib/lib32-dbus 1.14.2-1
 multilib/lib32-dbus-glib 0.112-2
 multilib/lib32-e2fsprogs 1.46.5-1
 multilib/lib32-expat 2.4.9-1
-multilib/lib32-flac 1.4.1-1
+multilib/lib32-flac 1.4.1-2
 multilib/lib32-fontconfig 2:2.14.0-1
 multilib/lib32-freeglut 3.2.2-2
 multilib/lib32-freetype2 2.12.1-1
@@ -775,7 +775,7 @@ extra/libgdata 0.18.1-2
 extra/libgee 0.20.6-1
 extra/libglvnd 1.5.0-1
 community/libgooglepinyin 0.1.2-5
-core/libgpg-error 1.45-2
+core/libgpg-error 1.46-1
 extra/libgphoto2 2.5.30-1
 extra/libgsf 1.14.50-1
 core/libgssglue 0.5-1
@@ -1115,7 +1115,7 @@ extra/perl-html-tagset 3.20-12
 extra/perl-http-cookies 6.10-3
 extra/perl-http-daemon 6.14-2
 extra/perl-http-date 6.05-5
-extra/perl-http-message 6.38-1
+extra/perl-http-message 6.39-1
 extra/perl-http-negotiate 6.01-10
 extra/perl-io-html 1.004-3
 extra/perl-io-socket-inet6 2.73-2
@@ -1151,9 +1151,9 @@ core/pkgconf 1.8.0-1 (base-devel)
 extra/polkit 121-1
 community/polkit-gnome 0.105-9
 extra/polkit-qt5 0.114.0-1
-extra/poppler 22.09.0-1
-extra/poppler-glib 22.09.0-1
-extra/poppler-qt5 22.09.0-1
+extra/poppler 22.10.0-1
+extra/poppler-glib 22.10.0-1
+extra/poppler-qt5 22.10.0-1
 core/popt 1.18-3
 extra/postgresql 14.5-1
 extra/postgresql-libs 14.5-1
@@ -1204,7 +1204,7 @@ extra/python-lxml 4.9.1-1
 extra/python-mako 1.2.3-1
 community/python-markdown 3.4.1-1
 extra/python-markupsafe 2.1.1-1
-community/python-more-itertools 8.13.0-2
+community/python-more-itertools 8.14.0-1
 community/python-msgpack 1.0.4-1
 extra/python-nspektr 0.4.0-2
 extra/python-opengl 3.1.6-1
@@ -1447,7 +1447,7 @@ core/usbutils 014-2
 core/util-linux 2.38.1-1
 core/util-linux-libs 2.38.1-1
 community/v2ray 5.1.0-2
-community/v2ray-domain-list-community 20221008040018-1
+community/v2ray-domain-list-community 20221009021259-1
 community/v2ray-geoip 202210060105-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.3-1
