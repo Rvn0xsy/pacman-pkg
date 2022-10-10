@@ -151,6 +151,7 @@ pkgconf
 postgresql
 proxychains-ng
 pulseaudio-bluetooth
+pyenv
 python-pip
 qbittorrent
 qqmusic-bin

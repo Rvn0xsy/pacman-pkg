@@ -1167,6 +1167,7 @@ psmisc 23.5-1
 pulseaudio 16.1-1
 pulseaudio-bluetooth 16.1-1
 purpose 5.98.0-1
+pyenv 2.3.4-1
 python 3.10.7-1
 python-anytree 2.8.0-5
 python-appdirs 1.4.4-7

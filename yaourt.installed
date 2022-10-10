@@ -1167,6 +1167,7 @@ core/psmisc 23.5-1
 extra/pulseaudio 16.1-1
 extra/pulseaudio-bluetooth 16.1-1
 extra/purpose 5.98.0-1 (kf5)
+community/pyenv 2.3.4-1
 core/python 3.10.7-1
 extra/python-anytree 2.8.0-5
 extra/python-appdirs 1.4.4-7
