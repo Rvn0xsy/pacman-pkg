@@ -402,7 +402,7 @@ community/haskell-syb 0.7.2.2-4
 community/haskell-tagged 0.8.6.1-5
 community/haskell-tagsoup 0.14.8-189
 community/haskell-temporary 1.3-469
-community/haskell-texmath 0.12.5.3-2
+community/haskell-texmath 0.12.5.4-1
 community/haskell-text-conversions 0.3.1.1-24
 community/haskell-text-icu 0.8.0.2-11
 community/haskell-text-short 0.1.5-42
@@ -690,7 +690,7 @@ multilib/lib32-pixman 0.40.0-1
 multilib/lib32-readline 8.1.002-1
 multilib/lib32-rest 0.8.1-4
 multilib/lib32-sdl12-compat 1.2.56-1
-multilib/lib32-sdl2 2.0.22-1
+multilib/lib32-sdl2 2.24.1-1
 multilib/lib32-sdl2_image 2.6.1-1
 multilib/lib32-sdl2_mixer 2.6.1-1
 multilib/lib32-sdl2_ttf 2.20.0-1
@@ -758,7 +758,7 @@ extra/libdrm 2.4.113-3
 extra/libdv 1.0.0-9
 extra/libdvbpsi 1:1.3.3-2
 extra/libdvdread 6.1.3-1
-extra/libebml 1.4.3-1
+extra/libebml 1.4.4-1
 extra/libebur128 1.2.6-1
 core/libedit 20210910_3.1-1
 core/libelf 0.187-2
@@ -783,7 +783,7 @@ extra/libgsf 1.14.50-1
 core/libgssglue 0.5-1
 extra/libgtop 2.40.0+2+g31db82ef-2
 extra/libgudev 237-2
-extra/libgusb 0.4.0-1
+extra/libgusb 0.4.1-1
 extra/libgweather-4 4.0.0-1
 extra/libgxps 0.3.2-2
 extra/libhandy 1.8.0-1
@@ -814,7 +814,7 @@ extra/libldac 2.0.2.3-1
 core/libldap 2.6.3-1
 extra/libmad 0.15.1b-9
 community/libmanette 0.2.6-3
-extra/libmatroska 1.7.0-1
+extra/libmatroska 1.7.1-1
 community/libmaxminddb 1.7.1-1
 extra/libmbim 1.26.4-1
 community/libmfx 22.4.4-1
@@ -1083,7 +1083,7 @@ extra/pahole 1:1.23-1
 core/pam 1.5.2-1
 archlinuxcn/pamac-aur 10.4.2-0
 core/pambase 20211210-1
-community/pandoc 2.19.2-11
+community/pandoc 2.19.2-12
 extra/pango 1:1.50.11-1
 extra/pangomm 2.46.3-1
 community/pantheon-tasks 6.3.0-1 (pantheon)
@@ -1203,7 +1203,7 @@ community/python-keyutils 0.6-8
 community/python-ldap3 2.9.1-3
 extra/python-lxml 4.9.1-1
 extra/python-mako 1.2.3-1
-community/python-markdown 3.4.1-1
+community/python-markdown 3.4.1-2
 extra/python-markupsafe 2.1.1-1
 community/python-more-itertools 8.14.0-1
 community/python-msgpack 1.0.4-1
@@ -1234,7 +1234,7 @@ extra/python-requests 2.28.1-1
 extra/python-resolvelib 0.8.1-1
 extra/python-retrying 1.3.3-13
 community/python-rich 12.6.0-1
-extra/python-setuptools 1:63.2.0-1
+extra/python-setuptools 1:63.3.0-1
 extra/python-six 1.16.0-6
 community/python-tenacity 8.1.0-1
 community/python-toml 0.10.2-8
@@ -1248,7 +1248,7 @@ community/python-webob 1.8.7-4
 community/python-werkzeug 2.2.2-1
 community/python-xlib 0.31-3
 community/python-yaml 6.0-1
-community/python-zipp 3.8.1-1
+community/python-zipp 3.9.0-1
 community/qbittorrent 4.4.5-1
 extra/qca-qt5 2.3.4-3
 community/qcustomplot 2.1.0-1
@@ -1274,7 +1274,7 @@ extra/qt5-webchannel 5.15.6+kde+r3-1 (qt qt5)
 extra/qt5-webengine 5.15.10-3 (qt qt5)
 extra/qt5-webkit 5.212.0alpha4-16
 extra/qt5-x11extras 5.15.6+kde+r0-1 (qt qt5)
-extra/qt6-5compat 6.4.0-1 (qt6)
+extra/qt6-5compat 6.4.0-2 (qt6)
 extra/qt6-base 6.4.0-1 (qt6)
 extra/qt6-declarative 6.4.0-2 (qt6)
 extra/qt6-imageformats 6.4.0-1 (qt6)
@@ -1307,8 +1307,8 @@ community/ruby-base64 0.1.1-3
 community/ruby-benchmark 0.2.0-3
 community/ruby-bigdecimal 3.1.2-3
 community/ruby-bundledgems 3.0.4-18
-community/ruby-bundler 2.3.22-2
-community/ruby-cgi 0.3.2-9
+community/ruby-bundler 2.3.23-1
+community/ruby-cgi 0.3.3-1
 community/ruby-csv 3.2.5-3
 community/ruby-date 3.2.2-3
 community/ruby-delegate 0.2.0-3
@@ -1328,7 +1328,7 @@ community/ruby-io-console 0.5.11-2
 community/ruby-io-nonblock 0.1.0-2
 community/ruby-io-wait 0.2.3-3
 community/ruby-ipaddr 1.2.4-2
-community/ruby-irb 1.4.1-2
+community/ruby-irb 1.4.2-1
 community/ruby-json 2.6.2-2
 community/ruby-logger 1.5.1-2
 community/ruby-minitest 5.16.3-1
@@ -1336,7 +1336,7 @@ community/ruby-mutex_m 0.1.1-2
 community/ruby-net-http 0.2.2-2
 community/ruby-open-uri 0.2.0-3
 community/ruby-power_assert 2.0.1-1
-community/ruby-psych 4.0.4-4
+community/ruby-psych 4.0.6-1
 community/ruby-racc 1.6.0-3
 community/ruby-rake 13.0.6-1
 community/ruby-rdoc 6.4.0-4
@@ -1349,7 +1349,7 @@ community/ruby-test-unit 3.5.5-1
 community/ruby-time 0.2.0-4
 community/ruby-tmpdir 0.1.2-3
 community/ruby-uri 0.11.0-5
-community/rubygems 3.3.21-2
+community/rubygems 3.3.23-1
 core/run-parts 5.5-1
 community/runc 1.1.4-1
 extra/sane 1.1.1-1
@@ -1461,7 +1461,7 @@ community/virtualbox-guest-iso 6.1.38-1
 community/virtualbox-guest-utils 6.1.38-1
 community/virtualbox-host-dkms 6.1.38-1
 local/visual-studio-code-bin 1.68.1-1
-extra/vlc 3.0.17.4-9
+extra/vlc 3.0.17.4-10
 community/vmaf 2.3.1-1
 archlinuxcn/vmware-keymaps 16.2.4-1
 archlinuxcn/vmware-workstation 16.2.4-1

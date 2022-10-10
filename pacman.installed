@@ -402,7 +402,7 @@ haskell-syb 0.7.2.2-4
 haskell-tagged 0.8.6.1-5
 haskell-tagsoup 0.14.8-189
 haskell-temporary 1.3-469
-haskell-texmath 0.12.5.3-2
+haskell-texmath 0.12.5.4-1
 haskell-text-conversions 0.3.1.1-24
 haskell-text-icu 0.8.0.2-11
 haskell-text-short 0.1.5-42
@@ -690,7 +690,7 @@ lib32-pixman 0.40.0-1
 lib32-readline 8.1.002-1
 lib32-rest 0.8.1-4
 lib32-sdl12-compat 1.2.56-1
-lib32-sdl2 2.0.22-1
+lib32-sdl2 2.24.1-1
 lib32-sdl2_image 2.6.1-1
 lib32-sdl2_mixer 2.6.1-1
 lib32-sdl2_ttf 2.20.0-1
@@ -758,7 +758,7 @@ libdrm 2.4.113-3
 libdv 1.0.0-9
 libdvbpsi 1:1.3.3-2
 libdvdread 6.1.3-1
-libebml 1.4.3-1
+libebml 1.4.4-1
 libebur128 1.2.6-1
 libedit 20210910_3.1-1
 libelf 0.187-2
@@ -783,7 +783,7 @@ libgsf 1.14.50-1
 libgssglue 0.5-1
 libgtop 2.40.0+2+g31db82ef-2
 libgudev 237-2
-libgusb 0.4.0-1
+libgusb 0.4.1-1
 libgweather-4 4.0.0-1
 libgxps 0.3.2-2
 libhandy 1.8.0-1
@@ -814,7 +814,7 @@ libldac 2.0.2.3-1
 libldap 2.6.3-1
 libmad 0.15.1b-9
 libmanette 0.2.6-3
-libmatroska 1.7.0-1
+libmatroska 1.7.1-1
 libmaxminddb 1.7.1-1
 libmbim 1.26.4-1
 libmfx 22.4.4-1
@@ -1083,7 +1083,7 @@ pahole 1:1.23-1
 pam 1.5.2-1
 pamac-aur 10.4.2-0
 pambase 20211210-1
-pandoc 2.19.2-11
+pandoc 2.19.2-12
 pango 1:1.50.11-1
 pangomm 2.46.3-1
 pantheon-tasks 6.3.0-1
@@ -1203,7 +1203,7 @@ python-keyutils 0.6-8
 python-ldap3 2.9.1-3
 python-lxml 4.9.1-1
 python-mako 1.2.3-1
-python-markdown 3.4.1-1
+python-markdown 3.4.1-2
 python-markupsafe 2.1.1-1
 python-more-itertools 8.14.0-1
 python-msgpack 1.0.4-1
@@ -1234,7 +1234,7 @@ python-requests 2.28.1-1
 python-resolvelib 0.8.1-1
 python-retrying 1.3.3-13
 python-rich 12.6.0-1
-python-setuptools 1:63.2.0-1
+python-setuptools 1:63.3.0-1
 python-six 1.16.0-6
 python-tenacity 8.1.0-1
 python-toml 0.10.2-8
@@ -1248,7 +1248,7 @@ python-webob 1.8.7-4
 python-werkzeug 2.2.2-1
 python-xlib 0.31-3
 python-yaml 6.0-1
-python-zipp 3.8.1-1
+python-zipp 3.9.0-1
 qbittorrent 4.4.5-1
 qca-qt5 2.3.4-3
 qcustomplot 2.1.0-1
@@ -1274,7 +1274,7 @@ qt5-webchannel 5.15.6+kde+r3-1
 qt5-webengine 5.15.10-3
 qt5-webkit 5.212.0alpha4-16
 qt5-x11extras 5.15.6+kde+r0-1
-qt6-5compat 6.4.0-1
+qt6-5compat 6.4.0-2
 qt6-base 6.4.0-1
 qt6-declarative 6.4.0-2
 qt6-imageformats 6.4.0-1
@@ -1307,8 +1307,8 @@ ruby-base64 0.1.1-3
 ruby-benchmark 0.2.0-3
 ruby-bigdecimal 3.1.2-3
 ruby-bundledgems 3.0.4-18
-ruby-bundler 2.3.22-2
-ruby-cgi 0.3.2-9
+ruby-bundler 2.3.23-1
+ruby-cgi 0.3.3-1
 ruby-csv 3.2.5-3
 ruby-date 3.2.2-3
 ruby-delegate 0.2.0-3
@@ -1328,7 +1328,7 @@ ruby-io-console 0.5.11-2
 ruby-io-nonblock 0.1.0-2
 ruby-io-wait 0.2.3-3
 ruby-ipaddr 1.2.4-2
-ruby-irb 1.4.1-2
+ruby-irb 1.4.2-1
 ruby-json 2.6.2-2
 ruby-logger 1.5.1-2
 ruby-minitest 5.16.3-1
@@ -1336,7 +1336,7 @@ ruby-mutex_m 0.1.1-2
 ruby-net-http 0.2.2-2
 ruby-open-uri 0.2.0-3
 ruby-power_assert 2.0.1-1
-ruby-psych 4.0.4-4
+ruby-psych 4.0.6-1
 ruby-racc 1.6.0-3
 ruby-rake 13.0.6-1
 ruby-rdoc 6.4.0-4
@@ -1349,7 +1349,7 @@ ruby-test-unit 3.5.5-1
 ruby-time 0.2.0-4
 ruby-tmpdir 0.1.2-3
 ruby-uri 0.11.0-5
-rubygems 3.3.21-2
+rubygems 3.3.23-1
 run-parts 5.5-1
 runc 1.1.4-1
 sane 1.1.1-1
@@ -1461,7 +1461,7 @@ virtualbox-guest-iso 6.1.38-1
 virtualbox-guest-utils 6.1.38-1
 virtualbox-host-dkms 6.1.38-1
 visual-studio-code-bin 1.68.1-1
-vlc 3.0.17.4-9
+vlc 3.0.17.4-10
 vmaf 2.3.1-1
 vmware-keymaps 16.2.4-1
 vmware-workstation 16.2.4-1
