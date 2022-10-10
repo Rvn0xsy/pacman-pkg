@@ -454,7 +454,6 @@ community/hidapi 0.12.0-1
 community/highlight 4.2-1
 community/highway 1.0.1-1
 extra/htop 3.2.1-1
-extra/http-parser 2.9.4-1
 extra/hunspell 1.7.1-1
 core/hwdata 0.363-1
 extra/hwloc 2.8.0-1
@@ -1044,7 +1043,6 @@ extra/nmap 7.92-1
 community/node-gyp 9.1.0-1
 community/nodejs 18.10.0-1
 community/nodejs-nopt 6.0.0-1
-archlinuxcn/notion-app-enhanced 2.0.18-1
 extra/noto-fonts 20220810-1
 extra/noto-fonts-cjk 20220126-1
 extra/noto-fonts-emoji 20220920-1
