@@ -1167,7 +1167,7 @@ psmisc 23.5-1
 pulseaudio 16.1-1
 pulseaudio-bluetooth 16.1-1
 purpose 5.98.0-1
-pyenv 2.3.4-1
+pyenv 2.3.5-1
 python 3.10.7-1
 python-anytree 2.8.0-5
 python-appdirs 1.4.4-7
@@ -1357,7 +1357,7 @@ sane 1.1.1-1
 sbc 2.0-1
 screenkey 1.5-2
 sdl12-compat 1.2.56-1
-sdl2 2.24.0-2
+sdl2 2.24.1-1
 sdl2_image 2.6.2-2
 sdl2_mixer 2.6.2-1
 sdl2_ttf 2.20.1-1

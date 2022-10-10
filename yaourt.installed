@@ -1167,7 +1167,7 @@ core/psmisc 23.5-1
 extra/pulseaudio 16.1-1
 extra/pulseaudio-bluetooth 16.1-1
 extra/purpose 5.98.0-1 (kf5)
-community/pyenv 2.3.4-1
+community/pyenv 2.3.5-1
 core/python 3.10.7-1
 extra/python-anytree 2.8.0-5
 extra/python-appdirs 1.4.4-7
@@ -1357,7 +1357,7 @@ extra/sane 1.1.1-1
 extra/sbc 2.0-1
 community/screenkey 1.5-2
 community/sdl12-compat 1.2.56-1
-extra/sdl2 2.24.0-2
+extra/sdl2 2.24.1-1
 extra/sdl2_image 2.6.2-2
 extra/sdl2_mixer 2.6.2-1
 extra/sdl2_ttf 2.20.1-1
