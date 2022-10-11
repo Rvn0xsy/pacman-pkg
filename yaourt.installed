@@ -28,7 +28,7 @@ community/arj 3.10.22-13
 extra/at-spi2-core 2.46.0-2
 extra/atkmm 2.28.3-1
 community/atril 1.26.0-2 (mate-extra)
-extra/attica 5.98.0-1 (kf5)
+extra/attica 5.99.0-1 (kf5)
 core/attr 2.5.1-2
 core/audit 3.0.8-1
 core/autoconf 2.71-1 (base-devel)
@@ -50,11 +50,11 @@ community/bitwarden 2022.9.1-1
 extra/bluedevil 1:5.25.5-1 (plasma)
 extra/bluez 5.65-3
 extra/bluez-libs 5.65-3
-extra/bluez-qt 5.98.0-1 (kf5)
+extra/bluez-qt 5.99.0-1 (kf5)
 extra/bluez-utils 5.65-3
 extra/bogofilter 1.2.5-4
 extra/boost-libs 1.80.0-2
-extra/breeze-icons 5.98.0-1 (kf5)
+extra/breeze-icons 5.99.0-1 (kf5)
 extra/bridge-utils 1.7.1-1
 core/brotli 1.0.9-8
 core/btrfs-progs 5.19.1-1
@@ -496,45 +496,45 @@ core/json-c 0.16-1
 extra/json-glib 1.6.6-2
 extra/jsoncpp 1.9.5-2
 extra/kaccounts-integration 22.08.1-1
-extra/karchive 5.98.0-1 (kf5)
-extra/kauth 5.98.0-1 (kf5)
+extra/karchive 5.99.0-1 (kf5)
+extra/kauth 5.99.0-1 (kf5)
 core/kbd 2.5.1-1
-extra/kbookmarks 5.98.0-1 (kf5)
-extra/kcmutils 5.98.0-1 (kf5)
-extra/kcodecs 5.98.0-1 (kf5)
-extra/kcompletion 5.98.0-1 (kf5)
-extra/kconfig 5.98.0-1 (kf5)
-extra/kconfigwidgets 5.98.0-1 (kf5)
-extra/kcoreaddons 5.98.0-1 (kf5)
-extra/kcrash 5.98.0-1 (kf5)
-extra/kdbusaddons 5.98.0-1 (kf5)
-extra/kdeclarative 5.98.0-1 (kf5)
-extra/kded 5.98.0-1 (kf5)
+extra/kbookmarks 5.99.0-1 (kf5)
+extra/kcmutils 5.99.0-1 (kf5)
+extra/kcodecs 5.99.0-1 (kf5)
+extra/kcompletion 5.99.0-1 (kf5)
+extra/kconfig 5.99.0-1 (kf5)
+extra/kconfigwidgets 5.99.0-1 (kf5)
+extra/kcoreaddons 5.99.0-1 (kf5)
+extra/kcrash 5.99.0-1 (kf5)
+extra/kdbusaddons 5.99.0-1 (kf5)
+extra/kdeclarative 5.99.0-1 (kf5)
+extra/kded 5.99.0-1 (kf5)
 extra/kdenlive 22.08.1-1 (kde-applications kde-multimedia)
 core/keyutils 1.6.3-1
-extra/kfilemetadata 5.98.0-1 (kf5)
-extra/kglobalaccel 5.98.0-1 (kf5)
-extra/kguiaddons 5.98.0-1 (kf5)
-extra/ki18n 5.98.0-1 (kf5)
-extra/kiconthemes 5.98.0-1 (kf5)
-extra/kio 5.98.0-1 (kf5)
-extra/kirigami2 5.98.0-1 (kf5)
-extra/kitemviews 5.98.0-1 (kf5)
-extra/kjobwidgets 5.98.0-1 (kf5)
+extra/kfilemetadata 5.99.0-1 (kf5)
+extra/kglobalaccel 5.99.0-1 (kf5)
+extra/kguiaddons 5.99.0-1 (kf5)
+extra/ki18n 5.99.0-1 (kf5)
+extra/kiconthemes 5.99.0-1 (kf5)
+extra/kio 5.99.0-1 (kf5)
+extra/kirigami2 5.99.0-1 (kf5)
+extra/kitemviews 5.99.0-1 (kf5)
+extra/kjobwidgets 5.99.0-1 (kf5)
 core/kmod 30-1
-extra/knewstuff 5.98.0-1 (kf5)
-extra/knotifications 5.98.0-1 (kf5)
-extra/knotifyconfig 5.98.0-1 (kf5)
+extra/knewstuff 5.99.0-1 (kf5)
+extra/knotifications 5.99.0-1 (kf5)
+extra/knotifyconfig 5.99.0-1 (kf5)
 extra/kolourpaint 22.08.1-1 (kde-applications kde-graphics)
-extra/kpackage 5.98.0-1 (kf5)
+extra/kpackage 5.99.0-1 (kf5)
 core/krb5 1.20-1
 extra/ksanecore 22.08.1-1
-extra/kservice 5.98.0-1 (kf5)
-extra/ktextwidgets 5.98.0-1 (kf5)
-extra/kwallet 5.98.0-1 (kf5)
-extra/kwidgetsaddons 5.98.0-1 (kf5)
-extra/kwindowsystem 5.98.0-1 (kf5)
-extra/kxmlgui 5.98.0-1 (kf5)
+extra/kservice 5.99.0-1 (kf5)
+extra/ktextwidgets 5.99.0-1 (kf5)
+extra/kwallet 5.99.0-1 (kf5)
+extra/kwidgetsaddons 5.99.0-1 (kf5)
+extra/kwindowsystem 5.99.0-1 (kf5)
+extra/kxmlgui 5.99.0-1 (kf5)
 extra/l-smash 2.14.5-2
 extra/lame 3.100-4
 extra/lcms2 2.13.1-1
@@ -781,7 +781,7 @@ community/libgooglepinyin 0.1.2-5
 core/libgpg-error 1.46-1
 extra/libgphoto2 2.5.30-1
 extra/libgsf 1.14.50-1
-core/libgssglue 0.5-1
+core/libgssglue 0.7-1
 extra/libgtop 2.40.0+2+g31db82ef-2
 extra/libgudev 237-2
 extra/libgusb 0.4.1-1
@@ -810,7 +810,7 @@ community/libjpeg6-turbo 1.5.3-2
 community/libjxl 0.7.0-3
 extra/libkeybinder3 0.3.2-3
 extra/libksane 22.08.1-1
-core/libksba 1.6.0-1
+core/libksba 1.6.2-1
 extra/libldac 2.0.2.3-1
 core/libldap 2.6.3-1
 extra/libmad 0.15.1b-9
@@ -1036,7 +1036,7 @@ community/network-manager-sstp 1.3.0-1
 extra/networkmanager 1.40.0-1
 community/networkmanager-l2tp 1.20.4-5
 extra/networkmanager-openvpn 1.10.0-1
-extra/networkmanager-qt 5.98.0-1 (kf5)
+extra/networkmanager-qt 5.99.0-1 (kf5)
 extra/networkmanager-vpnc 1.2.8-2
 community/ninja 1.11.1-1
 extra/nm-connection-editor 1.28.0-1
@@ -1167,7 +1167,8 @@ community/proxychains-ng 4.16-2
 core/psmisc 23.5-1
 extra/pulseaudio 16.1-1
 extra/pulseaudio-bluetooth 16.1-1
-extra/purpose 5.98.0-1 (kf5)
+extra/purpose 5.99.0-1 (kf5)
+community/pycharm-community-edition 2022.2.2-2
 community/pyenv 2.3.5-1
 core/python 3.10.7-1
 extra/python-anytree 2.8.0-5
@@ -1380,8 +1381,8 @@ extra/slang 2.3.3-1
 community/smpeg 0.4.5-5
 extra/snappy 1.1.9-2
 extra/socat 1.7.4.3-1
-extra/solid 5.98.0-1 (kf5)
-extra/sonnet 5.98.0-1 (kf5)
+extra/solid 5.99.0-1 (kf5)
+extra/sonnet 5.99.0-1 (kf5)
 community/sord 0.16.14-1
 extra/sound-theme-freedesktop 0.8-5
 extra/source-highlight 3.1.9-9
@@ -1404,7 +1405,7 @@ multilib/steam-native-runtime 1.0.0.70-3
 extra/strace 5.19-1
 core/sudo 1.9.11.p3-1 (base-devel)
 extra/svt-av1 1.2.1-1
-extra/syndication 5.98.0-1 (kf5)
+extra/syndication 5.99.0-1 (kf5)
 core/sysfsutils 2.1.1-1
 core/systemd 251.5-1
 core/systemd-libs 251.5-1
