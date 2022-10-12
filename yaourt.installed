@@ -1065,7 +1065,7 @@ extra/openexr 3.1.5-1
 extra/openjpeg2 2.5.0-1
 extra/openmpi 4.1.4-2
 extra/openpmix 4.2.1-1
-core/openssh 9.0p1-1
+core/openssh 9.1p1-1
 core/openssl 1.1.1.q-1
 core/openssl-1.0 1.0.2.u-1
 extra/openvpn 2.5.7-1
@@ -1141,7 +1141,7 @@ community/perl-path-class 0.37-8
 extra/perl-socket6 0.29-7
 extra/perl-timedate 2.33-4
 extra/perl-try-tiny 0.31-2
-extra/perl-uri 5.13-1
+extra/perl-uri 5.14-1
 extra/perl-www-robotrules 6.02-10
 extra/perl-xml-parser 2.46-4
 community/phodav 2.5-2
@@ -1451,7 +1451,7 @@ core/usbutils 014-2
 core/util-linux 2.38.1-1
 core/util-linux-libs 2.38.1-1
 community/v2ray 5.1.0-2
-community/v2ray-domain-list-community 20221009021259-1
+community/v2ray-domain-list-community 20221011015242-1
 community/v2ray-geoip 202210060105-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.3-1

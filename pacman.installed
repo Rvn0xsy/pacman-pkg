@@ -1065,7 +1065,7 @@ openexr 3.1.5-1
 openjpeg2 2.5.0-1
 openmpi 4.1.4-2
 openpmix 4.2.1-1
-openssh 9.0p1-1
+openssh 9.1p1-1
 openssl 1.1.1.q-1
 openssl-1.0 1.0.2.u-1
 openvpn 2.5.7-1
@@ -1141,7 +1141,7 @@ perl-path-class 0.37-8
 perl-socket6 0.29-7
 perl-timedate 2.33-4
 perl-try-tiny 0.31-2
-perl-uri 5.13-1
+perl-uri 5.14-1
 perl-www-robotrules 6.02-10
 perl-xml-parser 2.46-4
 phodav 2.5-2
@@ -1451,7 +1451,7 @@ usbutils 014-2
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 v2ray 5.1.0-2
-v2ray-domain-list-community 20221009021259-1
+v2ray-domain-list-community 20221011015242-1
 v2ray-geoip 202210060105-1
 v4l-utils 1.22.1-1
 vala 0.56.3-1
