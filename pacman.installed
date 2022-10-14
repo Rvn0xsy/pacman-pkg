@@ -57,7 +57,7 @@ boost-libs 1.80.0-2
 breeze-icons 5.99.0-1
 bridge-utils 1.7.1-1
 brotli 1.0.9-8
-btrfs-progs 5.19.1-1
+btrfs-progs 6.0-1
 bubblewrap 0.6.2-1
 bzip2 1.0.8-4
 c-ares 1.18.1-1
@@ -90,7 +90,7 @@ curl 7.85.0-2
 cython 0.29.32-2
 dav1d 1.0.0-1
 db 5.3.28-5
-dbeaver 22.2.0-1
+dbeaver 22.2.2-1
 dbus 1.14.4-1
 dbus-glib 0.112-2
 dbus-python 1.2.18-3
@@ -146,7 +146,7 @@ filesystem 2021.12.07-1
 findutils 4.9.0-1
 firefox 105.0.3-1
 flac 1.4.1-2
-flameshot-git r1853.134117b5-1
+flameshot-git r1854.f3577a00-1
 flashrom 1.2-4
 flex 2.6.4-3
 fontconfig 2:2.14.0-1
@@ -175,7 +175,7 @@ gdbm 1.23-1
 gdk-pixbuf2 2.42.9-1
 geoclue 2.6.0-2
 geocode-glib 3.26.4-1
-gettext 0.21-2
+gettext 0.21.1-1
 ghc-libs 9.0.2-1
 ghostscript 10.0.0-1
 giflib 5.2.1-2
@@ -501,7 +501,7 @@ karchive 5.99.0-1
 kauth 5.99.0-1
 kbd 2.5.1-1
 kbookmarks 5.99.0-1
-kcmutils 5.99.0-1
+kcmutils 5.99.0-2
 kcodecs 5.99.0-1
 kcompletion 5.99.0-1
 kconfig 5.99.0-1
@@ -969,11 +969,11 @@ lightdm 1:1.32.0-4
 lightdm-gtk-greeter 1:2.0.8-3
 lightdm-gtk-greeter-settings 1.2.2-7
 lilv 0.24.20-1
-linux 5.19.13.arch1-1
+linux 6.0.1.arch1-1
 linux-api-headers 5.18.15-1
 linux-firmware 20220913.f09bebf-1
 linux-firmware-whence 20220913.f09bebf-1
-linux-headers 5.19.13.arch1-1
+linux-headers 6.0.1.arch1-1
 llvm-libs 14.0.6-3
 lm_sensors 1:3.6.0.r41.g31d1f125-1
 lmdb 0.9.29-1
@@ -1010,7 +1010,7 @@ mingw-w64-crt 10.0.0-1
 mingw-w64-gcc 12.2.0-1
 mingw-w64-headers 10.0.0-1
 mingw-w64-winpthreads 10.0.0-1
-minizip 1:1.2.12-2
+minizip 1:1.2.12-3
 mkinitcpio 31-3
 mkinitcpio-busybox 1.35.0-1
 mlocate 0.26.git.20170220-7
@@ -1043,7 +1043,7 @@ ninja 1.11.1-1
 nm-connection-editor 1.28.0-1
 nmap 7.92-1
 node-gyp 9.2.0-1
-nodejs 18.10.0-1
+nodejs 18.11.0-1
 nodejs-nopt 6.0.0-1
 noto-fonts 20220810-1
 noto-fonts-cjk 20220126-1
@@ -1081,7 +1081,7 @@ package-query 1.12-1
 pacman 6.0.1-8
 pacman-contrib 1.7.1-1
 pacman-mirrorlist 20220828-1
-pahole 1:1.23-1
+pahole 1:1.24-1
 pam 1.5.2-1
 pamac-aur 10.4.2-0
 pambase 20211210-1
@@ -1238,7 +1238,7 @@ python-requests 2.28.1-1
 python-resolvelib 0.8.1-1
 python-retrying 1.3.3-13
 python-rich 12.6.0-1
-python-setuptools 1:63.3.0-1
+python-setuptools 1:63.4.0-1
 python-six 1.16.0-6
 python-tenacity 8.1.0-1
 python-toml 0.10.2-8
@@ -1439,7 +1439,7 @@ ttf-opensans 1.101-2
 ttf-wps-fonts 1.0-5
 tumbler 4.16.1-1
 twolame 0.4.0-2
-tzdata 2022d-1
+tzdata 2022e-1
 udiskie 2.4.2-1
 udisks2 2.9.4-1
 uget 2.2.3-5
@@ -1452,8 +1452,8 @@ usbutils 014-2
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 v2ray 5.1.0-2
-v2ray-domain-list-community 20221011015242-1
-v2ray-geoip 202210060105-1
+v2ray-domain-list-community 20221013135753-1
+v2ray-geoip 202210130107-1
 v4l-utils 1.22.1-1
 vala 0.56.3-1
 vid.stab 1.1-3
@@ -1478,7 +1478,7 @@ vulkan-icd-loader 1.3.226-1
 vulkan-radeon 22.1.7-1
 wavpack 5.5.0-1
 wayland 1.21.0-1
-wayland-protocols 1.26-1
+wayland-protocols 1.27-1
 webkit2gtk 2.38.0-2
 webkit2gtk-4.1 2.38.0-2
 webrtc-audio-processing 0.3.1-3
@@ -1610,7 +1610,7 @@ zenity 3.43.0-1
 zeromq 4.3.4-2
 zimg 3.0.4-1
 zip 3.0-10
-zlib 1:1.2.12-2
+zlib 1:1.2.12-3
 zsh 5.9-1
 zsh-completions 0.34.0-2
 zstd 1.5.2-7
