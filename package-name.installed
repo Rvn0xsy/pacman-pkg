@@ -91,8 +91,8 @@ kdenlive 22.08.2-1
 kolourpaint 22.08.2-1
 leafpad 0.8.18.1-9
 lib32-libpcap 1.10.1-1
-lib32-mesa 22.1.7-1
-lib32-vulkan-radeon 22.1.7-1
+lib32-mesa 22.2.1-1
+lib32-vulkan-radeon 22.2.1-1
 libtool 2.4.7-5
 libxfce4ui 4.16.1-1
 libxfce4util 4.16.0-1
@@ -100,9 +100,9 @@ liferea 1.13.9-1
 lightdm 1:1.32.0-4
 lightdm-gtk-greeter 1:2.0.8-3
 lightdm-gtk-greeter-settings 1.2.2-7
-linux 6.0.1.arch1-1
+linux 6.0.1.arch2-1
 linux-firmware 20220913.f09bebf-1
-linux-headers 6.0.1.arch1-1
+linux-headers 6.0.1.arch2-1
 lsd 0.23.1-1
 lxqt-themes 1.1.0-1
 lzop 1.04-3
@@ -198,7 +198,7 @@ virtualbox-guest-utils 6.1.38-1
 visual-studio-code-bin 1.68.1-1
 vlc 3.0.17.4-10
 vmware-workstation 16.2.4-1
-vulkan-radeon 22.1.7-1
+vulkan-radeon 22.2.1-1
 wemeet-bin 3.8.0.2-6
 wget 1.21.3-1
 which 2.21-5
