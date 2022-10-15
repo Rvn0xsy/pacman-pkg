@@ -34,9 +34,12 @@ dhcpcd 9.4.1-1
 discord 0.0.20-1
 diskus 0.7.0-2
 dns-over-https 2.3.2-1
+dnsmasq 2.87-1
 docker 1:20.10.18-1
 docker-compose 2.11.2-1
 dosfstools 4.2-2
+ebtables 2.0.10_4-8
+edk2-ovmf 202208-1
 efibootmgr 18-1
 engrampa 1.26.0-1
 evolution 3.44.4-2
@@ -64,7 +67,6 @@ gettext 0.21.1-1
 gnome-disk-utility 42.0-1
 gnome-font-viewer 42.0-1
 gnome-nettool 42.0-1
-gnu-netcat 0.7.1-8
 go 2:1.19.2-1
 goland 2022.2.4-1
 google-chrome 104.0.5112.101-1
@@ -93,7 +95,9 @@ leafpad 0.8.18.1-9
 lib32-libpcap 1.10.1-1
 lib32-mesa 22.2.1-1
 lib32-vulkan-radeon 22.2.1-1
+libguestfs 1.48.4-2
 libtool 2.4.7-5
+libvirt 1:8.8.0-1
 libxfce4ui 4.16.1-1
 libxfce4util 4.16.0-1
 liferea 1.13.9-1
@@ -138,6 +142,7 @@ npm 8.19.2-1
 ntfs-3g 2022.5.17-1
 numix-circle-icon-theme-git 22.10.05.r0.gbf62747-1
 obs-studio 28.0.3-1
+openbsd-netcat 1.218_5-1
 opendesktop-fonts 1.4.2-6
 openssh 9.1p1-1
 os-prober 1.81-1
@@ -156,6 +161,7 @@ pycharm-community-edition 2022.2.3-1
 pyenv 2.3.5-1
 python-pip 22.2.2-2
 qbittorrent 4.4.5-1
+qemu-base 7.1.0-9
 qqmusic-bin 1.1.4-3
 qterminal 1.1.0-1
 rdesktop 1.9.0-2
@@ -190,7 +196,10 @@ uget 2.2.3-5
 unrar 1:6.1.7-1
 unzip 6.0-19
 v2ray 5.1.0-2
+vde2 2.3.3-3
 vim 9.0.0354-1
+virt-manager 4.1.0-1
+virt-viewer 11.0-1
 virtualbox 6.1.38-1
 virtualbox-ext-oracle 6.1.38-1
 virtualbox-guest-iso 6.1.38-1

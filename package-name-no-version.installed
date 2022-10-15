@@ -34,9 +34,12 @@ dhcpcd
 discord
 diskus
 dns-over-https
+dnsmasq
 docker
 docker-compose
 dosfstools
+ebtables
+edk2-ovmf
 efibootmgr
 engrampa
 evolution
@@ -64,7 +67,6 @@ gettext
 gnome-disk-utility
 gnome-font-viewer
 gnome-nettool
-gnu-netcat
 go
 goland
 google-chrome
@@ -93,7 +95,9 @@ leafpad
 lib32-libpcap
 lib32-mesa
 lib32-vulkan-radeon
+libguestfs
 libtool
+libvirt
 libxfce4ui
 libxfce4util
 liferea
@@ -138,6 +142,7 @@ npm
 ntfs-3g
 numix-circle-icon-theme-git
 obs-studio
+openbsd-netcat
 opendesktop-fonts
 openssh
 os-prober
@@ -156,6 +161,7 @@ pycharm-community-edition
 pyenv
 python-pip
 qbittorrent
+qemu-base
 qqmusic-bin
 qterminal
 rdesktop
@@ -190,7 +196,10 @@ uget
 unrar
 unzip
 v2ray
+vde2
 vim
+virt-manager
+virt-viewer
 virtualbox
 virtualbox-ext-oracle
 virtualbox-guest-iso
