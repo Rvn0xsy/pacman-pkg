@@ -176,6 +176,7 @@ gc 8.2.2-1
 gcab 1.5-1
 gcc 12.2.0-1
 gcc-libs 12.2.0-1
+gconf 3.2.6+11+g07808097-11
 gcr 3.41.1-2
 gd 2.3.3-4
 gdb 12.1-1
@@ -472,6 +473,7 @@ hwloc 2.8.0-1
 hyphen 2.8.8-4
 iana-etc 20220915-1
 icu 71.1-1
+iease-music 1.3.4-1
 ijs 0.35-4
 imath 3.1.5-3
 imlib2 1.9.1-2

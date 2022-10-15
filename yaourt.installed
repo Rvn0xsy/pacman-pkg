@@ -176,6 +176,7 @@ core/gc 8.2.2-1
 extra/gcab 1.5-1
 core/gcc 12.2.0-1 (base-devel)
 core/gcc-libs 12.2.0-1
+archlinuxcn/gconf 3.2.6+11+g07808097-11
 extra/gcr 3.41.1-2
 extra/gd 2.3.3-4
 extra/gdb 12.1-1
@@ -472,6 +473,7 @@ extra/hwloc 2.8.0-1
 extra/hyphen 2.8.8-4
 core/iana-etc 20220915-1
 core/icu 71.1-1
+archlinuxcn/iease-music 1.3.4-1
 extra/ijs 0.35-4
 extra/imath 3.1.5-3
 extra/imlib2 1.9.1-2
