@@ -847,6 +847,7 @@ core/libmnl 1.0.5-1
 extra/libmodplug 0.8.9.0-3
 core/libmpc 1.2.1-2
 extra/libmpcdec 1:0.1+r475-3
+extra/libmpd 11.8.17-5
 extra/libmpeg2 0.5.1-7
 extra/libndp 1.8-1
 extra/libnet 1:1.1.6-1
@@ -1123,6 +1124,7 @@ extra/pango 1:1.50.11-1
 extra/pangomm 2.46.3-1
 community/pantheon-tasks 6.3.0-1 (pantheon)
 community/papirus-icon-theme 20220910-1
+community/parole 4.16.0-1 (xfce4-goodies)
 extra/parted 3.5-1
 core/patch 2.7.6-8 (base-devel)
 community/patchelf 0.15.0-1
@@ -1366,6 +1368,7 @@ core/reiserfsprogs 3.6.27-3
 community/remmina 1:1.4.27-1
 extra/rest 0.8.1+r4+ge5ee6ef-1
 extra/rhash 1.4.2-1
+extra/ristretto 0.12.3-1 (xfce4-goodies)
 community/rnnoise 0.4.1-1
 community/rofi 1.7.5-1
 community/rofimoji 5.6.0-1
@@ -1498,6 +1501,7 @@ core/texinfo 6.8-2 (base-devel)
 core/thin-provisioning-tools 0.9.0-1
 extra/thunar 4.16.11-2 (xfce4)
 extra/thunar-archive-plugin 0.5.0-2 (xfce4-goodies)
+extra/thunar-media-tags-plugin 0.3.0-2 (xfce4-goodies)
 extra/thunar-volman 4.16.0-1 (xfce4)
 core/tpm2-tss 3.2.0-1
 extra/tracker3 3.4.0-1
@@ -1598,14 +1602,22 @@ extra/xf86-video-vmware 13.3.0-4 (xorg-drivers)
 extra/xfburn 0.6.2-1 (xfce4-goodies)
 local/xfce4-alsa-plugin 0.3.0-1
 extra/xfce4-appfinder 4.16.1-2 (xfce4)
+extra/xfce4-artwork 0.1.1a_git20110420-6 (xfce4-goodies)
 extra/xfce4-battery-plugin 1.1.4-1 (xfce4-goodies)
 local/xfce4-calculator-plugin 0.7.1-1
 extra/xfce4-clipman-plugin 1.6.2-1 (xfce4-goodies)
+extra/xfce4-cpufreq-plugin 1.2.7-1 (xfce4-goodies)
 extra/xfce4-cpugraph-plugin 1.2.6-1 (xfce4-goodies)
 extra/xfce4-datetime-plugin 0.8.2-1 (xfce4-goodies)
 extra/xfce4-dev-tools 4.16.0-1
+extra/xfce4-dict 0.8.4-1 (xfce4-goodies)
 extra/xfce4-diskperf-plugin 2.7.0-1 (xfce4-goodies)
 extra/xfce4-eyes-plugin 4.6.0-1 (xfce4-goodies)
+extra/xfce4-fsguard-plugin 1.1.2-1 (xfce4-goodies)
+extra/xfce4-genmon-plugin 4.1.1-1 (xfce4-goodies)
+extra/xfce4-mailwatch-plugin 1.3.0-1 (xfce4-goodies)
+extra/xfce4-mount-plugin 1.1.5-1 (xfce4-goodies)
+extra/xfce4-mpc-plugin 0.5.2-2 (xfce4-goodies)
 extra/xfce4-netload-plugin 1.4.0-1 (xfce4-goodies)
 extra/xfce4-notes-plugin 1.9.0-1 (xfce4-goodies)
 extra/xfce4-notifyd 0.6.4-2 (xfce4-goodies)
@@ -1614,10 +1626,20 @@ extra/xfce4-power-manager 4.16.0-3 (xfce4)
 extra/xfce4-pulseaudio-plugin 0.4.5-1 (xfce4-goodies)
 extra/xfce4-screensaver 4.16.0-1 (xfce4-goodies)
 extra/xfce4-screenshooter 1.9.11-1 (xfce4-goodies)
+extra/xfce4-sensors-plugin 1.4.3-1 (xfce4-goodies)
 extra/xfce4-session 4.16.0-2 (xfce4)
 extra/xfce4-settings 4.16.3-1 (xfce4)
+extra/xfce4-smartbookmark-plugin 0.5.2-1 (xfce4-goodies)
+extra/xfce4-systemload-plugin 1.3.1-1 (xfce4-goodies)
 extra/xfce4-taskmanager 1.5.4-1 (xfce4-goodies)
 extra/xfce4-terminal 1.0.4-1 (xfce4)
+extra/xfce4-time-out-plugin 1.1.2-1 (xfce4-goodies)
+extra/xfce4-timer-plugin 1.7.1-1 (xfce4-goodies)
+extra/xfce4-verve-plugin 2.0.1-1 (xfce4-goodies)
+extra/xfce4-wavelan-plugin 0.6.3-1 (xfce4-goodies)
+extra/xfce4-weather-plugin 0.11.0-1 (xfce4-goodies)
+community/xfce4-whiskermenu-plugin 2.7.1-1 (xfce4-goodies)
+extra/xfce4-xkb-plugin 0.8.3-1 (xfce4-goodies)
 extra/xfconf 4.16.0-2 (xfce4)
 extra/xfdesktop 4.16.1-1 (xfce4)
 core/xfsprogs 5.19.0-1
