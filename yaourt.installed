@@ -107,8 +107,7 @@ community/discord 0.0.20-1
 community/diskus 0.7.0-2
 extra/djvulibre 3.5.28-3
 extra/dkms 3.0.7-1
-core/dmraid 1.0.0.rc16.3-13
-community/dns-over-https 2.3.2-1
+core/dmraid 1.0.0.rc16.3-14
 extra/dnsmasq 2.87-1
 core/dnssec-anchors 20190629-3
 extra/docbook-xml 4.5-9
@@ -217,7 +216,7 @@ community/go 2:1.19.2-1
 extra/gobject-introspection 1.74.0-1
 extra/gobject-introspection-runtime 1.74.0-1
 archlinuxcn/goland 2022.2.4-1
-local/google-chrome 104.0.5112.101-1
+local/google-chrome 106.0.5249.119-1
 community/goreleaser 1.11.5-1
 extra/gpaste 42.1-1
 extra/gperftools 2.10-1
@@ -294,12 +293,12 @@ community/haskell-byteorder 1.0.4-24
 community/haskell-call-stack 0.4.0-113
 community/haskell-case-insensitive 1.2.1.0-167
 community/haskell-cereal 0.5.8.3-1
-community/haskell-citeproc 0.8.0.1-12
+community/haskell-citeproc 0.8.0.1-13
 community/haskell-cmdargs 0.10.21-4
 community/haskell-colour 2.3.6-138
-community/haskell-commonmark 0.2.2-19
-community/haskell-commonmark-extensions 0.2.3.3-2
-community/haskell-commonmark-pandoc 0.2.1.2-88
+community/haskell-commonmark 0.2.2-20
+community/haskell-commonmark-extensions 0.2.3.3-3
+community/haskell-commonmark-pandoc 0.2.1.2-89
 community/haskell-comonad 5.0.8-166
 community/haskell-conduit 1.3.4.3-4
 community/haskell-conduit-extra 1.3.6-35
@@ -429,9 +428,9 @@ community/haskell-transformers-base 0.4.6-66
 community/haskell-transformers-compat 0.7.2-1
 community/haskell-type-equality 1-12
 community/haskell-typed-process 0.2.10.1-18
-community/haskell-unicode-collation 0.1.3.3-2
-community/haskell-unicode-data 0.3.1-3
-community/haskell-unicode-transforms 0.4.0.1-32
+community/haskell-unicode-collation 0.1.3.3-3
+community/haskell-unicode-data 0.4.0-1
+community/haskell-unicode-transforms 0.4.0.1-33
 community/haskell-uniplate 1.6.13-157
 community/haskell-unix-compat 0.6-34
 community/haskell-unix-time 0.4.8-6
@@ -714,7 +713,7 @@ multilib/lib32-sdl_mixer 1.2.12-4
 multilib/lib32-sdl_ttf 2.0.11-6
 multilib/lib32-smpeg 0.4.5-4
 multilib/lib32-sqlite 3.39.3-1
-multilib/lib32-systemd 251.5-1
+multilib/lib32-systemd 251.6-1
 multilib/lib32-tdb 1.4.7-1
 multilib/lib32-util-linux 2.38.1-1
 multilib/lib32-vkd3d 1.4-1
@@ -1119,7 +1118,7 @@ extra/pahole 1:1.24-1
 core/pam 1.5.2-1
 archlinuxcn/pamac-aur 10.4.2-0
 core/pambase 20211210-1
-community/pandoc 2.19.2-15
+community/pandoc 2.19.2-16
 extra/pango 1:1.50.11-1
 extra/pangomm 2.46.3-1
 community/pantheon-tasks 6.3.0-1 (pantheon)
@@ -1219,6 +1218,7 @@ extra/python-chardet 5.0.0-1
 community/python-click 8.1.3-1
 community/python-colorama 0.4.5-1
 community/python-commonmark 0.9.1-5
+community/python-configargparse 1.5.2-1
 community/python-contextlib2 21.6.0-1
 extra/python-cryptography 38.0.1-1
 extra/python-cssselect 1.1.0-9
@@ -1368,6 +1368,7 @@ extra/rest 0.8.1+r4+ge5ee6ef-1
 extra/rhash 1.4.2-1
 community/rnnoise 0.4.1-1
 community/rofi 1.7.5-1
+community/rofimoji 5.6.0-1
 community/rssguard 4.2.5-1
 extra/rsync 3.2.6-2
 extra/rtkit 0.13-2
@@ -1480,9 +1481,9 @@ extra/svt-av1 1.2.1-1
 extra/syndication 5.99.0-1 (kf5)
 core/sysfsutils 2.1.1-1
 core/syslinux 6.04.pre2.r11.gbf6db5b4-3
-core/systemd 251.5-1
-core/systemd-libs 251.5-1
-core/systemd-sysvcompat 251.5-1
+core/systemd 251.6-1
+core/systemd-libs 251.6-1
+core/systemd-sysvcompat 251.6-1
 extra/taglib 1.12-2
 core/tar 1.34-1
 extra/tcl 8.6.12-3
@@ -1536,11 +1537,11 @@ extra/virglrenderer 0.9.1-1
 community/virt-install 4.1.0-1
 community/virt-manager 4.1.0-1
 community/virt-viewer 11.0-1
-community/virtualbox 6.1.38-1
-archlinuxcn/virtualbox-ext-oracle 6.1.38-1
-community/virtualbox-guest-iso 6.1.38-1
-community/virtualbox-guest-utils 6.1.38-1
-community/virtualbox-host-dkms 6.1.38-1
+community/virtualbox 6.1.40-1
+archlinuxcn/virtualbox-ext-oracle 6.1.40-1
+community/virtualbox-guest-iso 6.1.40-1
+community/virtualbox-guest-utils 6.1.40-1
+community/virtualbox-host-dkms 6.1.40-1
 local/visual-studio-code-bin 1.68.1-1
 extra/vlc 3.0.17.4-10
 community/vmaf 2.3.1-1
@@ -1596,6 +1597,7 @@ extra/xf86-video-vesa 2.5.0-3 (xorg-drivers xorg)
 extra/xf86-video-vmware 13.3.0-4 (xorg-drivers)
 extra/xfburn 0.6.2-1 (xfce4-goodies)
 local/xfce4-alsa-plugin 0.3.0-1
+extra/xfce4-appfinder 4.16.1-2 (xfce4)
 extra/xfce4-battery-plugin 1.1.4-1 (xfce4-goodies)
 local/xfce4-calculator-plugin 0.7.1-1
 extra/xfce4-clipman-plugin 1.6.2-1 (xfce4-goodies)

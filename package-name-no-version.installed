@@ -33,7 +33,6 @@ dbus-python
 dhcpcd
 discord
 diskus
-dns-over-https
 dnsmasq
 docker
 docker-compose
@@ -169,6 +168,7 @@ rdesktop
 red-tldr
 remmina
 rofi
+rofimoji
 rssguard
 rubygems
 screenkey
@@ -226,6 +226,7 @@ xf86-video-amdgpu
 xf86-video-vesa
 xfburn
 xfce4-alsa-plugin
+xfce4-appfinder
 xfce4-battery-plugin
 xfce4-calculator-plugin
 xfce4-clipman-plugin

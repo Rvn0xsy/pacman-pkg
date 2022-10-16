@@ -33,7 +33,6 @@ dbus-python 1.2.18-3
 dhcpcd 9.4.1-1
 discord 0.0.20-1
 diskus 0.7.0-2
-dns-over-https 2.3.2-1
 dnsmasq 2.87-1
 docker 1:20.10.18-1
 docker-compose 2.11.2-1
@@ -69,7 +68,7 @@ gnome-font-viewer 42.0-1
 gnome-nettool 42.0-1
 go 2:1.19.2-1
 goland 2022.2.4-1
-google-chrome 104.0.5112.101-1
+google-chrome 106.0.5249.119-1
 goreleaser 1.11.5-1
 gpaste 42.1-1
 gpicview 0.2.5-7
@@ -169,6 +168,7 @@ rdesktop 1.9.0-2
 red-tldr 0.4.3-1
 remmina 1:1.4.27-1
 rofi 1.7.5-1
+rofimoji 5.6.0-1
 rssguard 4.2.5-1
 rubygems 3.3.23-1
 screenkey 1.5-2
@@ -201,10 +201,10 @@ vde2 2.3.3-3
 vim 9.0.0354-1
 virt-manager 4.1.0-1
 virt-viewer 11.0-1
-virtualbox 6.1.38-1
-virtualbox-ext-oracle 6.1.38-1
-virtualbox-guest-iso 6.1.38-1
-virtualbox-guest-utils 6.1.38-1
+virtualbox 6.1.40-1
+virtualbox-ext-oracle 6.1.40-1
+virtualbox-guest-iso 6.1.40-1
+virtualbox-guest-utils 6.1.40-1
 visual-studio-code-bin 1.68.1-1
 vlc 3.0.17.4-10
 vmware-workstation 16.2.4-1
@@ -226,6 +226,7 @@ xf86-video-amdgpu 22.0.0-1
 xf86-video-vesa 2.5.0-3
 xfburn 0.6.2-1
 xfce4-alsa-plugin 0.3.0-1
+xfce4-appfinder 4.16.1-2
 xfce4-battery-plugin 1.1.4-1
 xfce4-calculator-plugin 0.7.1-1
 xfce4-clipman-plugin 1.6.2-1
