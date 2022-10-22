@@ -152,7 +152,6 @@ fftw 3.3.10-3
 file 5.43-1
 filesystem 2021.12.07-1
 findutils 4.9.0-1
-firefox 105.0.3-1
 flac 1.4.1-2
 flameshot-git r1854.f3577a00-1
 flashrom 1.2-4
@@ -1023,7 +1022,6 @@ lz4 1:1.9.4-1
 lzo 2.10-3
 lzop 1.04-3
 m4 1.4.19-1
-mailcap 2.1.53-1
 make 4.3-3
 man-db 2.10.2-1
 masscan 1.3.2-1

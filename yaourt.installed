@@ -152,7 +152,6 @@ extra/fftw 3.3.10-3
 core/file 5.43-1 (base-devel)
 core/filesystem 2021.12.07-1
 core/findutils 4.9.0-1 (base-devel)
-extra/firefox 105.0.3-1
 extra/flac 1.4.1-2
 archlinuxcn/flameshot-git r1854.f3577a00-1
 community/flashrom 1.2-4
@@ -1023,7 +1022,6 @@ core/lz4 1:1.9.4-1
 core/lzo 2.10-3
 extra/lzop 1.04-3
 core/m4 1.4.19-1 (base-devel)
-extra/mailcap 2.1.53-1
 core/make 4.3-3 (base-devel)
 core/man-db 2.10.2-1
 community/masscan 1.3.2-1
