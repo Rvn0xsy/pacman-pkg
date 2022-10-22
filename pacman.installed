@@ -1323,7 +1323,7 @@ qemu-ui-spice-app 7.1.0-9
 qemu-ui-spice-core 7.1.0-9
 qemu-virtiofsd 7.1.0-9
 qhexedit2 0.8.9-1
-qqmusic-bin 1.1.4-3
+qqmusic-bin 1.1.5-1
 qrencode 4.1.1-1
 qscintilla-qt5 2.13.3-1
 qt5-base 5.15.6+kde+r180-1
@@ -1564,7 +1564,7 @@ wayland-protocols 1.27-1
 webkit2gtk 2.38.0-2
 webkit2gtk-4.1 2.38.0-2
 webrtc-audio-processing 0.3.1-3
-wemeet-bin 3.8.0.2-6
+wemeet-bin 3.10.0.401-1
 wget 1.21.3-1
 which 2.21-5
 whois 5.5.13-2

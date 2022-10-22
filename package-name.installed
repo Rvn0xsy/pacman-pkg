@@ -163,7 +163,7 @@ pyenv 2.3.5-1
 python-pip 22.2.2-2
 qbittorrent 4.4.5-1
 qemu-base 7.1.0-9
-qqmusic-bin 1.1.4-3
+qqmusic-bin 1.1.5-1
 qterminal 1.1.0-1
 rdesktop 1.9.0-2
 red-tldr 0.4.3-1
@@ -212,7 +212,7 @@ visual-studio-code-bin 1.68.1-1
 vlc 3.0.17.4-10
 vmware-workstation 16.2.4-1
 vulkan-radeon 22.2.1-1
-wemeet-bin 3.8.0.2-6
+wemeet-bin 3.10.0.401-1
 wget 1.21.3-1
 which 2.21-5
 wireshark-qt 4.0.0-1
