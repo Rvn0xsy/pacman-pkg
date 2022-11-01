@@ -139,6 +139,7 @@ extra/exo 4.16.4-1 (xfce4)
 core/expat 2.5.0-1
 extra/f2fs-tools 1.15.0-2
 extra/faad2 2.10.1-1
+extra/fakechroot 2.20.1-2
 core/fakeroot 1.29-1 (base-devel)
 community/fcitx 4.2.9.9-1 (fcitx-im)
 community/fcitx-configtool 0.4.10-4
