@@ -1193,6 +1193,7 @@ pipewire 1:0.3.59-2
 pixman 0.42.0-1
 pkcs11-helper 1.29.0-1
 pkgconf 1.8.0-1
+pnpm 7.14.1-1
 polkit 121-1
 polkit-gnome 0.105-9
 polkit-qt5 0.114.0-1

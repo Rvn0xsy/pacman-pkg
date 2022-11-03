@@ -1193,6 +1193,7 @@ extra/pipewire 1:0.3.59-2
 extra/pixman 0.42.0-1
 extra/pkcs11-helper 1.29.0-1
 core/pkgconf 1.8.0-1 (base-devel)
+archlinuxcn/pnpm 7.14.1-1
 extra/polkit 121-1
 community/polkit-gnome 0.105-9
 extra/polkit-qt5 0.114.0-1

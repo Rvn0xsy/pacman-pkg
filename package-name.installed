@@ -156,6 +156,7 @@ parole 4.16.0-1
 patch 2.7.6-8
 pavucontrol 1:5.0+r61+gee77d86-2
 pkgconf 1.8.0-1
+pnpm 7.14.1-1
 postgresql 14.5-2
 proxychains-ng 4.16-2
 pulseaudio-bluetooth 16.1-1
