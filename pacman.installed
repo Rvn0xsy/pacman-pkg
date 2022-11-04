@@ -1212,6 +1212,7 @@ psmisc 23.5-1
 pulseaudio 16.1-1
 pulseaudio-bluetooth 16.1-1
 purpose 5.99.0-1
+pwgen 2.08-2
 pycharm-community-edition 2022.2.3-1
 pyenv 2.3.5-1
 python 3.10.8-2

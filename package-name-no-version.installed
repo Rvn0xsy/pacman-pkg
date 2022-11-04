@@ -160,6 +160,7 @@ pnpm
 postgresql
 proxychains-ng
 pulseaudio-bluetooth
+pwgen
 pycharm-community-edition
 pyenv
 python-pip
