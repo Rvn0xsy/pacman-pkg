@@ -1499,6 +1499,7 @@ extra/strace 6.0-1
 core/sudo 1.9.12.p1-1 (base-devel)
 community/supermin 5.3.2-1
 extra/svt-av1 1.3.0-1
+community/swaks 20201014.0-1
 extra/syndication 5.99.0-1 (kf5)
 core/sysfsutils 2.1.1-1
 core/syslinux 6.04.pre2.r11.gbf6db5b4-3
