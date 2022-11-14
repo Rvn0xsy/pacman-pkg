@@ -219,8 +219,9 @@ wemeet-bin
 wget
 which
 wireshark-qt
-wps-office-cn
+wps-office
 wps-office-fonts
+wps-office-mime
 wps-office-mui-zh-cn
 wqy-bitmapfont
 wqy-microhei
