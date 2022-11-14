@@ -1022,6 +1022,7 @@ lsb-release 2.0.r48.3cf5103-1
 lsd 0.23.1-1
 lsof 4.96.4-1
 lsscsi 0.32-1
+lttng-ust 2.13.3-1
 lua 5.4.4-2
 lua-lpeg 1.0.2-4
 lua52 5.2.4-5
@@ -1211,6 +1212,7 @@ poppler-qt5 22.11.0-1
 popt 1.19-1
 postgresql 14.5-4
 postgresql-libs 14.5-4
+powershell-bin 7.3.0-1
 ppp 2.4.9-3
 procps-ng 3.3.17-1
 protobuf 21.9-1
