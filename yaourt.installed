@@ -11,7 +11,7 @@ extra/adobe-source-sans-fonts 3.046-1
 extra/adobe-source-serif-fonts 4.004-2
 extra/adwaita-icon-theme 43-1
 extra/alacarte 1:3.44.2-1
-extra/alsa-card-profiles 1:0.3.59-5
+extra/alsa-card-profiles 1:0.3.60-1
 extra/alsa-lib 1.2.8-1
 extra/alsa-plugins 1:1.2.7.1-1
 extra/alsa-topology-conf 1.2.5.1-1
@@ -71,7 +71,7 @@ extra/cairomm 1.14.4-1
 extra/cantarell-fonts 1:0.303.1-1
 community/capstone 4.0.2-6
 extra/cdparanoia 10.2-8
-community/chrpath 0.16-3
+community/chrpath 0.16-4
 community/clash 1.11.12-1
 archlinuxcn/clash-dashboard-git 0.3.0.r184.g23db9ed-1
 extra/clutter 1.26.4-2
@@ -615,7 +615,7 @@ multilib/lib32-libdrm 2.4.114-1
 multilib/lib32-libelf 0.187-1
 multilib/lib32-libepoxy 1.5.10-1
 multilib/lib32-libffi 3.4.4-1
-multilib/lib32-libgcrypt 1.10.1-1
+multilib/lib32-libgcrypt 1.10.1-2
 multilib/lib32-libgcrypt15 1.5.6-7
 multilib/lib32-libglvnd 1.5.0-1
 multilib/lib32-libgpg-error 1.46-1
@@ -663,7 +663,7 @@ multilib/lib32-libvpx1.3 1.3.0-3
 multilib/lib32-libwebp 1.2.4-1
 multilib/lib32-libwrap 7.6.31-4
 multilib/lib32-libx11 1.8.2-1
-multilib/lib32-libxau 1.0.10-1
+multilib/lib32-libxau 1.0.10-2
 multilib/lib32-libxcb 1.15-1
 multilib/lib32-libxcomposite 0.4.5-2
 multilib/lib32-libxcrypt 4.4.30-1
@@ -706,9 +706,9 @@ multilib/lib32-pam 1.5.2-1
 multilib/lib32-pango 1:1.50.11-1
 multilib/lib32-pcre 8.45-3
 multilib/lib32-pcre2 10.40-3
-multilib/lib32-pipewire 1:0.3.59-2
+multilib/lib32-pipewire 1:0.3.60-1
 multilib/lib32-pixman 0.42.2-1
-multilib/lib32-readline 8.2.001-1
+multilib/lib32-readline 8.2.001-2
 multilib/lib32-rest 0.8.1-4
 multilib/lib32-sdl12-compat 1.2.60-1
 multilib/lib32-sdl2 2.24.2-1
@@ -1085,11 +1085,11 @@ extra/networkmanager-qt 5.99.0-1 (kf5)
 extra/networkmanager-vpnc 1.2.8-2
 extra/nftables 1:1.0.5-1
 core/nilfs-utils 2.2.9-1
-community/ninja 1.11.1-1
+community/ninja 1.11.1-2
 extra/nm-connection-editor 1.30.0-1
 extra/nmap 7.93-1
 community/node-gyp 9.3.0-1
-community/nodejs 19.0.1-1
+community/nodejs 19.1.0-1
 community/nodejs-nopt 7.0.0-1
 extra/noto-fonts 20220810-1
 extra/noto-fonts-cjk 20220126-1
@@ -1167,11 +1167,11 @@ extra/perl-html-tagset 3.20-12
 extra/perl-http-cookies 6.10-3
 extra/perl-http-daemon 6.14-2
 extra/perl-http-date 6.05-5
-extra/perl-http-message 6.42-1
+extra/perl-http-message 6.43-1
 extra/perl-http-negotiate 6.01-10
 extra/perl-io-html 1.004-3
 extra/perl-io-socket-inet6 2.73-2
-extra/perl-io-socket-ssl 2.075-1
+extra/perl-io-socket-ssl 2.076-1
 community/perl-json 4.10-1
 extra/perl-libintl-perl 1.32-3
 extra/perl-libwww 6.67-1
@@ -1197,11 +1197,11 @@ extra/perl-www-robotrules 6.02-10
 extra/perl-xml-parser 2.46-4
 community/phodav 3.0-1
 core/pinentry 1.2.1-1
-extra/pipewire 1:0.3.59-5
+extra/pipewire 1:0.3.60-1
 extra/pixman 0.42.2-1
 extra/pkcs11-helper 1.29.0-2
 core/pkgconf 1.8.0-1 (base-devel)
-archlinuxcn/pnpm 7.15.0-1
+archlinuxcn/pnpm 7.16.0-1
 extra/polkit 122-1
 community/polkit-gnome 0.105-9
 extra/polkit-qt5 0.114.0-1
@@ -1294,7 +1294,7 @@ extra/python-requests 2.28.1-1
 extra/python-resolvelib 0.8.1-1
 extra/python-retrying 1.3.3-13
 community/python-rich 12.6.0-2
-extra/python-setuptools 1:65.1.1-1
+extra/python-setuptools 1:65.2.0-1
 extra/python-six 1.16.0-6
 community/python-tenacity 8.1.0-1
 community/python-toml 0.10.2-8
@@ -1306,7 +1306,7 @@ extra/python-validate-pyproject 0.10.1-1
 community/python-webencodings 0.5.1-9
 community/python-webob 1.8.7-4
 community/python-werkzeug 2.2.2-1
-community/python-wheel 0.38.2-1
+community/python-wheel 0.38.3-1
 community/python-xlib 0.31-3
 community/python-yaml 6.0-1
 community/python-zipp 3.10.0-1
@@ -1346,8 +1346,8 @@ community/qhexedit2 0.8.9-1
 local/qqmusic-bin 1.1.5-1
 extra/qrencode 4.1.1-1
 extra/qscintilla-qt5 2.13.3-1
-extra/qt5-base 5.15.7+kde+r173-1 (qt qt5)
-extra/qt5-declarative 5.15.7+kde+r21-1 (qt qt5)
+extra/qt5-base 5.15.7+kde+r174-1 (qt qt5)
+extra/qt5-declarative 5.15.7+kde+r22-1 (qt qt5)
 extra/qt5-graphicaleffects 5.15.7-1 (qt qt5)
 extra/qt5-location 5.15.7+kde+r3-1 (qt qt5)
 extra/qt5-multimedia 5.15.7+kde+r1-1 (qt qt5)
@@ -1359,7 +1359,7 @@ extra/qt5-speech 5.15.7+kde+r1-1 (qt qt5)
 extra/qt5-svg 5.15.7+kde+r9-1 (qt qt5)
 extra/qt5-tools 5.15.7+kde+r1-2 (qt qt5)
 extra/qt5-translations 5.15.7-1 (qt qt5)
-extra/qt5-wayland 5.15.7+kde+r49-1 (qt qt5)
+extra/qt5-wayland 5.15.7+kde+r52-1 (qt qt5)
 extra/qt5-webchannel 5.15.7+kde+r3-1 (qt qt5)
 extra/qt5-webengine 5.15.11-2 (qt qt5)
 extra/qt5-webkit 5.212.0alpha4-18
@@ -1705,11 +1705,11 @@ extra/xorg-xhost 1.0.8-3 (xorg-apps xorg)
 extra/xorg-xinit 1.4.1-3
 extra/xorg-xinput 1.6.3-3 (xorg-apps xorg)
 extra/xorg-xkbcomp 1.4.5-1 (xorg-apps xorg)
-extra/xorg-xkbevd 1.1.4-4 (xorg-apps xorg)
+extra/xorg-xkbevd 1.1.5-1 (xorg-apps xorg)
 extra/xorg-xkbutils 1.0.5-1 (xorg-apps xorg)
-extra/xorg-xkill 1.0.5-3 (xorg-apps xorg)
-extra/xorg-xlsatoms 1.1.3-3 (xorg-apps xorg)
-extra/xorg-xlsclients 1.1.4-3 (xorg-apps xorg)
+extra/xorg-xkill 1.0.6-1 (xorg-apps xorg)
+extra/xorg-xlsatoms 1.1.4-1 (xorg-apps xorg)
+extra/xorg-xlsclients 1.1.5-1 (xorg-apps xorg)
 extra/xorg-xmodmap 1.0.11-1 (xorg-apps xorg)
 extra/xorg-xpr 1.1.0-1 (xorg-apps xorg)
 extra/xorg-xprop 1.2.5-1 (xorg-apps xorg)
