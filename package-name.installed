@@ -26,7 +26,7 @@ bluedevil 1:5.26.3-1
 bluez 5.66-1
 bluez-utils 5.66-1
 clash 1.11.12-1
-clash-dashboard-git 0.3.0.r184.g23db9ed-1
+clash-dashboard-git 0.3.0.r185.gaf47fa3-1
 copyq 6.3.2-1
 cronie 1.6.1-1
 dbeaver 22.2.3-1
@@ -256,7 +256,7 @@ xfce4-panel 4.16.5-1
 xfce4-power-manager 4.16.0-3
 xfce4-pulseaudio-plugin 0.4.5-1
 xfce4-screensaver 4.16.0-1
-xfce4-screenshooter 1.9.11-1
+xfce4-screenshooter 1.10.0-1
 xfce4-sensors-plugin 1.4.3-1
 xfce4-session 4.16.0-2
 xfce4-settings 4.16.5-1
@@ -279,8 +279,8 @@ xmind 12.0.3.202206261857-1
 xorg-bdftopcf 1.1.1-1
 xorg-docs 1.7.2-1
 xorg-font-util 1.3.3-1
-xorg-fonts-100dpi 1.0.3-7
-xorg-fonts-75dpi 1.0.3-7
+xorg-fonts-100dpi 1.0.3-8
+xorg-fonts-75dpi 1.0.3-8
 xorg-fonts-encodings 1.0.6-1
 xorg-iceauth 1.0.9-1
 xorg-mkfontscale 1.2.2-1
