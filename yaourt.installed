@@ -62,6 +62,7 @@ extra/bridge-utils 1.7.1-1
 core/brotli 1.0.9-8
 core/btrfs-progs 6.0.1-1
 extra/bubblewrap 0.7.0-1
+local/burpsuite-pro 2022.11.1-1
 core/bzip2 1.0.8-4
 extra/c-ares 1.18.1-1
 core/ca-certificates 20220905-1
