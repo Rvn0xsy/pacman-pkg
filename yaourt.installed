@@ -85,14 +85,14 @@ extra/cogl 1.22.8-2
 extra/colord 1.4.6-1
 community/confuse 3.3-3
 community/containerd 1.6.9-1
-extra/convertlit 1.8-10
+extra/convertlit 1.8-11
 community/copyq 6.3.2-1
 core/coreutils 9.1-3
 extra/cpio 2.13-2
 core/cracklib 2.9.8-1
 core/cronie 1.6.1-1
 core/cryptsetup 2.5.0-4
-core/curl 7.86.0-3
+core/curl 7.86.0-4
 community/cython 0.29.32-2
 extra/dav1d 1.0.0-1
 core/db 5.3.28-5
@@ -164,7 +164,7 @@ community/flashrom 1.2-4
 core/flex 2.6.4-3 (base-devel)
 extra/fontconfig 2:2.14.1-2
 extra/freeglut 3.4.0-1
-community/freerdp 2:2.8.1-3
+community/freerdp 2:2.9.0-1
 extra/freetype2 2.12.1-1
 community/frei0r-plugins 1.8.0-2
 extra/fribidi 1.0.12-1
@@ -240,7 +240,7 @@ core/grep 3.8-2 (base-devel)
 core/groff 1.22.4-7 (base-devel)
 community/grpc 1.50.1-2
 community/grpc-cli 1.50.1-2
-core/grub 2:2.06.r334.g340377470-1
+core/grub 2:2.06.r380.g151467888-1
 extra/gsettings-desktop-schemas 43.0-1
 extra/gsfonts 20200910-2
 extra/gsl 2.7.1-1
@@ -670,7 +670,7 @@ multilib/lib32-libx11 1.8.2-1
 multilib/lib32-libxau 1.0.10-2
 multilib/lib32-libxcb 1.15-1
 multilib/lib32-libxcomposite 0.4.5-2
-multilib/lib32-libxcrypt 4.4.30-1
+multilib/lib32-libxcrypt 4.4.31-1
 multilib/lib32-libxcursor 1.2.1-1
 multilib/lib32-libxdamage 1.1.5-2
 multilib/lib32-libxdmcp 1.1.3-1
@@ -731,7 +731,7 @@ multilib/lib32-vkd3d 1.5-1
 multilib/lib32-vulkan-icd-loader 1.3.226-1
 multilib/lib32-vulkan-radeon 22.2.3-1
 multilib/lib32-wayland 1.21.0-1
-multilib/lib32-xz 5.2.7-1
+multilib/lib32-xz 5.2.8-1
 multilib/lib32-zlib 1.2.13-1
 multilib/lib32-zstd 1.5.2-1
 extra/libaccounts-glib 1.26-1
@@ -771,8 +771,8 @@ extra/libcolord 1.4.6-1
 community/libconfig 1.7.3-1
 extra/libcryptui 1:3.12.2+r71+ged4f890e-1
 extra/libcups 1:2.4.2-3
-core/libcurl-compat 7.86.0-3
-core/libcurl-gnutls 7.86.0-3
+core/libcurl-compat 7.86.0-4
+core/libcurl-gnutls 7.86.0-4
 extra/libdaemon 0.14-5
 extra/libdatrie 0.2.13-1
 community/libdbusmenu-glib 16.04.0-5
@@ -800,13 +800,13 @@ core/libffi 3.4.4-1
 extra/libfontenc 1.1.6-1
 extra/libfreeaptx 0.1.1-1
 community/libftdi 1.5-4
-core/libgcrypt 1.10.1-1
+core/libgcrypt 1.10.1-2
 community/libgcrypt15 1.5.6-6
 extra/libgdata 0.18.1-2
 extra/libglvnd 1.5.0-1
 community/libgooglepinyin 0.1.2-5
 community/libgovirt 2:0.3.9-1
-core/libgpg-error 1.46-1
+core/libgpg-error 1.46-2
 extra/libgphoto2 2.5.30-1
 extra/libgsf 1.14.50-1
 core/libgssglue 0.7-1
@@ -888,7 +888,7 @@ extra/libpciaccess 0.17-1
 extra/libpeas 1.34.0-1
 community/libpgm 5.3.128-2
 extra/libphonenumber 1:8.13.0-1
-core/libpipeline 1.5.6-1
+core/libpipeline 1.5.7-1
 extra/libplacebo 4.208.0-1
 extra/libplist 2.2.0-5
 extra/libpng 1.6.38-1
@@ -933,7 +933,7 @@ extra/libthai 0.1.29-1
 extra/libtheora 1.1.1-5
 extra/libtiff 4.4.0-4
 community/libtiff4 3.9.7-5
-core/libtirpc 1.3.3-1
+core/libtirpc 1.3.3-2
 extra/libtommath 1.2.0-3
 core/libtool 2.4.7-5 (base-devel)
 extra/libtorrent-rasterbar 1:2.0.8-2
@@ -969,8 +969,8 @@ extra/libxau 1.0.10-1
 extra/libxaw 1.0.14-1
 extra/libxcb 1.15-1
 extra/libxcomposite 0.4.5-4
-core/libxcrypt 4.4.30-1
-core/libxcrypt-compat 4.4.30-1
+core/libxcrypt 4.4.31-1
+core/libxcrypt-compat 4.4.31-1
 extra/libxcursor 1.2.1-1
 extra/libxcvt 0.1.2-1
 extra/libxdamage 1.1.5-4
@@ -981,11 +981,11 @@ extra/libxfce4ui 4.16.1-1
 extra/libxfce4util 4.16.0-1
 extra/libxfixes 6.0.0-1
 extra/libxfont2 2.0.6-1
-extra/libxft 2.3.6-1
+extra/libxft 2.3.7-1
 extra/libxi 1.8-1
 extra/libxinerama 1.1.5-1
-extra/libxkbcommon 1.4.1-1
-extra/libxkbcommon-x11 1.4.1-1
+extra/libxkbcommon 1.4.1-2
+extra/libxkbcommon-x11 1.4.1-2
 extra/libxkbfile 1.1.1-1
 extra/libxklavier 5.4-3
 core/libxml2 2.10.3-2
@@ -1039,7 +1039,7 @@ core/lzo 2.10-3
 extra/lzop 1.04-3
 core/m4 1.4.19-1 (base-devel)
 core/make 4.3-5 (base-devel)
-core/man-db 2.11.0-1
+core/man-db 2.11.1-1
 community/masscan 1.3.2-1
 community/mathjax2 2.7.9-1
 community/maven 3.8.6-1
@@ -1084,7 +1084,7 @@ extra/network-manager-applet 1.30.0-1
 community/network-manager-sstp 1.3.1-1
 extra/networkmanager 1.40.2-1
 community/networkmanager-l2tp 1.20.6-2
-extra/networkmanager-openvpn 1.10.0-1
+extra/networkmanager-openvpn 1.10.2-1
 extra/networkmanager-qt 5.99.0-1 (kf5)
 extra/networkmanager-vpnc 1.2.8-2
 extra/nftables 1:1.0.5-1
@@ -1171,7 +1171,7 @@ extra/perl-html-tagset 3.20-12
 extra/perl-http-cookies 6.10-3
 extra/perl-http-daemon 6.14-2
 extra/perl-http-date 6.05-5
-extra/perl-http-message 6.43-1
+extra/perl-http-message 6.44-1
 extra/perl-http-negotiate 6.01-10
 extra/perl-io-html 1.004-3
 extra/perl-io-socket-inet6 2.73-2
@@ -1205,12 +1205,12 @@ extra/pipewire 1:0.3.60-2
 extra/pixman 0.42.2-1
 extra/pkcs11-helper 1.29.0-2
 core/pkgconf 1.8.0-1 (base-devel)
-archlinuxcn/pnpm 7.16.0-1
+archlinuxcn/pnpm 7.16.1-1
 extra/polkit 122-1
 community/polkit-gnome 0.105-9
 extra/polkit-qt5 0.114.0-1
 extra/poppler 22.11.0-1
-extra/poppler-data 0.4.11-2
+extra/poppler-data 0.4.11-3
 extra/poppler-glib 22.11.0-1
 extra/poppler-qt5 22.11.0-1
 core/popt 1.19-1
@@ -1242,7 +1242,7 @@ extra/python-cffi 1.15.1-1
 extra/python-chardet 5.0.0-1
 community/python-click 8.1.3-1
 community/python-colorama 0.4.6-1
-community/python-commonmark 0.9.1-5
+community/python-commonmark 0.9.1-6
 community/python-configargparse 1.5.3-2
 community/python-contextlib2 21.6.0-1
 extra/python-cryptography 38.0.3-1
@@ -1266,7 +1266,7 @@ community/python-jinja 1:3.1.2-2
 community/python-keyutils 0.6-8
 community/python-ldap3 2.9.1-3
 extra/python-lxml 4.9.1-1
-extra/python-mako 1.2.3-1
+extra/python-mako 1.2.4-1
 community/python-markdown 3.4.1-2
 extra/python-markupsafe 2.1.1-1
 community/python-more-itertools 9.0.0-1
@@ -1284,7 +1284,7 @@ extra/python-ply 3.11-10
 community/python-progress 1.6-5
 extra/python-pyasn1 0.4.8-7
 extra/python-pycparser 2.21-3
-community/python-pycryptodome 3.15.0-2
+community/python-pycryptodome 3.15.0-3
 community/python-pycryptodomex 3.12.0-1
 community/python-pydantic 1.10.2-1
 community/python-pygments 2.13.0-1
@@ -1295,10 +1295,10 @@ extra/python-pyqt5-sip 12.11.0-1
 community/python-pyquery 1.4.3-3
 extra/python-pyxdg 0.28-1
 extra/python-requests 2.28.1-1
-extra/python-resolvelib 0.8.1-1
+extra/python-resolvelib 0.9.0-1
 extra/python-retrying 1.3.3-13
 community/python-rich 12.6.0-2
-extra/python-setuptools 1:65.2.0-1
+extra/python-setuptools 1:65.4.0-1
 extra/python-six 1.16.0-6
 community/python-tenacity 8.1.0-1
 community/python-toml 0.10.2-8
@@ -1368,18 +1368,18 @@ extra/qt5-webchannel 5.15.7+kde+r3-1 (qt qt5)
 extra/qt5-webengine 5.15.11-2 (qt qt5)
 extra/qt5-webkit 5.212.0alpha4-18
 extra/qt5-x11extras 5.15.7-1 (qt qt5)
-extra/qt6-5compat 6.4.0-3 (qt6)
-extra/qt6-base 6.4.0-3 (qt6)
-extra/qt6-declarative 6.4.0-2 (qt6)
-extra/qt6-imageformats 6.4.0-1 (qt6)
-extra/qt6-multimedia 6.4.0-2 (qt6)
-extra/qt6-multimedia-ffmpeg 6.4.0-2
-extra/qt6-positioning 6.4.0-1 (qt6)
-extra/qt6-svg 6.4.0-1 (qt6)
-extra/qt6-translations 6.4.0-1 (qt6)
-extra/qt6-wayland 6.4.0-1 (qt6)
-extra/qt6-webchannel 6.4.0-1 (qt6)
-extra/qt6-webengine 6.4.0-5 (qt6)
+extra/qt6-5compat 6.4.1-1 (qt6)
+extra/qt6-base 6.4.1-1 (qt6)
+extra/qt6-declarative 6.4.1-1 (qt6)
+extra/qt6-imageformats 6.4.1-1 (qt6)
+extra/qt6-multimedia 6.4.1-1 (qt6)
+extra/qt6-multimedia-ffmpeg 6.4.1-1
+extra/qt6-positioning 6.4.1-1 (qt6)
+extra/qt6-svg 6.4.1-1 (qt6)
+extra/qt6-translations 6.4.1-1 (qt6)
+extra/qt6-wayland 6.4.1-1 (qt6)
+extra/qt6-webchannel 6.4.1-1 (qt6)
+extra/qt6-webengine 6.4.1-1 (qt6)
 community/qterminal 1.2.0-1 (lxqt)
 community/qtermwidget 1.2.0-1
 extra/rav1e 0.5.1-2
@@ -1555,7 +1555,7 @@ core/usbutils 015-1
 core/util-linux 2.38.1-1
 core/util-linux-libs 2.38.1-1
 community/v2ray 5.1.0-2
-community/v2ray-domain-list-community 20221110023640-1
+community/v2ray-domain-list-community 20221116131929-1
 community/v2ray-geoip 202211100058-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.3-1
@@ -1732,7 +1732,7 @@ extra/xorgproto 2022.2-1
 community/xsel 1.2.0.20200527-2
 extra/xvidcore 1.3.7-2
 community/xxhash 0.8.1-2
-core/xz 5.2.7-1
+core/xz 5.2.8-1
 extra/yajl 2.1.0-5
 archlinuxcn/yaourt 1.9-1
 community/yara 4.2.3-2
@@ -1743,5 +1743,5 @@ extra/zimg 3.0.4-1
 extra/zip 3.0-10
 core/zlib 1:1.2.13-1
 extra/zsh 5.9-1
-community/zsh-completions 0.34.0-2
+community/zsh-completions 0.34.0-3
 core/zstd 1.5.2-7
