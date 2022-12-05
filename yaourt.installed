@@ -1367,7 +1367,7 @@ extra/qt5-translations 5.15.7-1 (qt qt5)
 extra/qt5-wayland 5.15.7+kde+r52-1 (qt qt5)
 extra/qt5-webchannel 5.15.7+kde+r3-1 (qt qt5)
 extra/qt5-webengine 5.15.11-2 (qt qt5)
-extra/qt5-webkit 5.212.0alpha4-18
+local/qt5-webkit 5.212.0alpha4-18
 extra/qt5-x11extras 5.15.7-1 (qt qt5)
 extra/qt6-5compat 6.4.1-1 (qt6)
 extra/qt6-base 6.4.1-1 (qt6)
