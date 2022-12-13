@@ -67,7 +67,7 @@ burpsuite-pro 2022.11.1-1
 bzip2 1.0.8-5
 c-ares 1.18.1-1
 ca-certificates 20220905-1
-ca-certificates-mozilla 3.85-1
+ca-certificates-mozilla 3.86-1
 ca-certificates-utils 20220905-1
 cairo 1.17.6-2
 cairomm 1.14.4-1
@@ -113,7 +113,7 @@ diffutils 3.8-1
 discord 0.0.22-1
 diskus 0.7.0-2
 djvulibre 3.5.28-3
-dkms 3.0.8-1
+dkms 3.0.9-1
 dmraid 1.0.0.rc16.3-14
 dnsmasq 2.88-1
 dnssec-anchors 20190629-3
@@ -199,7 +199,7 @@ gettext 0.21.1-2
 ghc-libs 9.0.2-1
 ghostscript 10.0.0-2
 giflib 5.2.1-2
-git 2.38.1-2
+git 2.39.0-1
 glew1.10 1.10.0-3
 glib-networking 1:2.74.0-1
 glib-perl 1.329.3-3
@@ -701,7 +701,7 @@ lib32-mpg123 1.31.1-1
 lib32-ncurses 6.3-1
 lib32-nettle 3.8.1-1
 lib32-nspr 4.35-1
-lib32-nss 3.85-1
+lib32-nss 3.86-1
 lib32-ocl-icd 2.3.1-1
 lib32-openal 1.22.2-1
 lib32-openssl 1:3.0.7-1
@@ -744,7 +744,7 @@ libadwaita 1:1.2.0-1
 libaio 0.3.113-1
 libao 1.2.2-5
 libappindicator-gtk3 12.10.0.r298-1
-libarchive 3.6.1-5
+libarchive 3.6.2-2
 libass 0.17.0-1
 libassuan 2.5.5-1
 libasyncns 1:0.8+r3+g68cd5af-2
@@ -1107,7 +1107,7 @@ noto-fonts-extra 20220810-1
 npm 8.19.2-1
 npth 1.6-3
 nspr 4.35-1
-nss 3.85-1
+nss 3.86-1
 ntfs-3g 2022.10.3-1
 numactl 2.0.16-1
 numix-circle-icon-theme-git 22.11.26.r0.g186d7e0-1
@@ -1210,7 +1210,7 @@ pipewire 1:0.3.61-1
 pixman 0.42.2-1
 pkcs11-helper 1.29.0-2
 pkgconf 1.8.0-1
-pnpm 7.18.1-1
+pnpm 7.18.2-1
 polkit 122-1
 polkit-gnome 0.105-9
 polkit-qt5 0.114.0-1
@@ -1521,7 +1521,7 @@ taglib 1.13-1
 tar 1.34-1
 tcl 8.6.13-1
 tdb 1.4.7-1
-telegram-desktop 4.4.1-2
+telegram-desktop 4.4.1-3
 tesseract 5.2.0-2
 tesseract-data-chi_sim 2:4.1.0-3
 tesseract-data-chi_tra 2:4.1.0-3
@@ -1560,7 +1560,7 @@ usbutils 015-2
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 v2ray 5.1.0-2
-v2ray-domain-list-community 20221210024426-1
+v2ray-domain-list-community 20221212022004-1
 v2ray-geoip 202212080044-1
 v4l-utils 1.22.1-1
 vala 0.56.3-1
