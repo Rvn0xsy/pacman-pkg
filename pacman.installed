@@ -1224,7 +1224,7 @@ postgresql-libs 14.6-1
 powershell-bin 7.3.0-1
 ppp 2.4.9-3
 procps-ng 3.3.17-1
-protobuf 21.11-1
+protobuf 21.12-1
 protobuf-c 1.4.1-1
 proxychains-ng 4.16-2
 psmisc 23.6-1
@@ -1393,6 +1393,7 @@ re2 1:20221201-2
 re2c 3.0-1
 readline 8.2.001-1
 red-tldr 0.4.3-1
+redis 7.0.6-1
 reiserfsprogs 3.6.27-3
 remmina 1:1.4.28-1
 rest 0.8.1+r4+ge5ee6ef-1
@@ -1448,7 +1449,7 @@ ruby-rexml 3.2.5-1
 ruby-ruby2_keywords 0.0.5-1
 ruby-stdlib 3.0.4-20
 ruby-stringio 3.0.2-4
-ruby-test-unit 3.5.5-1
+ruby-test-unit 3.5.7-1
 ruby-time 0.2.0-4
 ruby-tmpdir 0.1.2-3
 ruby-uri 0.11.0-5
