@@ -93,7 +93,7 @@ jre11-openjdk 11.0.17.u1-1
 jre11-openjdk-headless 11.0.17.u1-1
 kdenlive 22.12.0-1
 kolourpaint 22.12.0-1
-leafpad 0.8.18.1-9
+leafpad 0.8.19-2
 lib32-libpcap 1.10.1-1
 lib32-mesa 22.2.3-1
 lib32-vulkan-radeon 22.2.3-1
@@ -207,7 +207,7 @@ unrar 1:6.2.2-1
 unzip 6.0-19
 v2ray 5.1.0-2
 vde2 2.3.3-3
-vim 9.0.0910-1
+vim 9.0.1046-1
 virt-manager 4.1.0-1
 virt-viewer 11.0-2
 virtualbox 7.0.4-1
@@ -329,5 +329,5 @@ xorg-xwud 1.0.6-1
 xsel 1.2.0.20200527-2
 yaourt 1.9-1
 youdao-dict 6.0.0-4
-zsh 5.9-1
+zsh 5.9-2
 zsh-completions 0.34.0-3

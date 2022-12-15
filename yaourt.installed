@@ -22,7 +22,7 @@ extra/appstream-glib 0.8.2-1
 community/arc-gtk-theme 20220405-2
 community/arc-icon-theme 20161122-3
 extra/archlinux-appstream-data 20221210-1
-core/archlinux-keyring 20221123-1 (base-devel)
+core/archlinux-keyring 20221213-1 (base-devel)
 archlinuxcn/archlinuxcn-keyring 20220716-1
 core/argon2 20190702-4
 community/aria2 1.36.0-1
@@ -566,7 +566,7 @@ extra/l-smash 2.14.5-2
 extra/lame 3.100-4
 extra/lcms2 2.14-1
 core/ldns 1.8.3-2
-extra/leafpad 0.8.18.1-9
+extra/leafpad 0.8.19-2
 community/leptonica 1.82.0-2
 core/less 1:608-1
 multilib/lib32-alsa-lib 1.2.8-1
@@ -625,7 +625,7 @@ multilib/lib32-libepoxy 1.5.10-1
 multilib/lib32-libffi 3.4.4-1
 multilib/lib32-libgcrypt 1.10.1-2
 multilib/lib32-libgcrypt15 1.5.6-7
-multilib/lib32-libglvnd 1.5.0-1
+multilib/lib32-libglvnd 1.6.0-1
 multilib/lib32-libgpg-error 1.46-1
 multilib/lib32-libice 1.0.10-1
 multilib/lib32-libidn11 1.33-2
@@ -735,7 +735,7 @@ multilib/lib32-vkd3d 1.5-1
 multilib/lib32-vulkan-icd-loader 1.3.235-1
 multilib/lib32-vulkan-radeon 22.2.3-1
 multilib/lib32-wayland 1.21.0-1
-multilib/lib32-xz 5.2.9-1
+multilib/lib32-xz 5.2.10-1
 multilib/lib32-zlib 1.2.13-2
 multilib/lib32-zstd 1.5.2-1
 extra/libaccounts-glib 1.26-1
@@ -808,7 +808,7 @@ core/libgcrypt 1.10.1-2
 community/libgcrypt15 1.5.6-6
 extra/libgdata 0.18.1-2
 extra/libgit2 1:1.5.0-2
-extra/libglvnd 1.5.0-1
+extra/libglvnd 1.6.0-1
 community/libgooglepinyin 0.1.2-5
 community/libgovirt 2:0.3.9-1
 core/libgpg-error 1.46-2
@@ -863,7 +863,7 @@ extra/libmm-glib 1.20.2-1
 extra/libmng 2.0.3-3
 core/libmnl 1.0.5-1
 extra/libmodplug 0.8.9.0-3
-core/libmpc 1.3.0-1
+core/libmpc 1.3.0-2
 extra/libmpcdec 1:0.1+r475-3
 extra/libmpd 11.8.17-5
 extra/libmpeg2 0.5.1-7
@@ -1227,7 +1227,7 @@ core/procps-ng 3.3.17-1
 extra/protobuf 21.11-1
 extra/protobuf-c 1.4.1-1
 community/proxychains-ng 4.16-2
-core/psmisc 23.5-1
+core/psmisc 23.6-1
 extra/pulseaudio 16.1-3
 extra/pulseaudio-bluetooth 16.1-3
 extra/purpose 5.101.0-1 (kf5)
@@ -1509,7 +1509,7 @@ multilib/steam-native-runtime 1.0.0.75-1
 extra/strace 6.0-1
 core/sudo 1.9.12.p1-1 (base-devel)
 community/supermin 5.3.2-1
-extra/svt-av1 1.4.0-1
+extra/svt-av1 1.4.1-1
 community/swaks 20201014.0-1
 extra/syndication 5.101.0-1 (kf5)
 core/sysfsutils 2.1.1-1
@@ -1566,8 +1566,8 @@ extra/v4l-utils 1.22.1-1
 extra/vala 0.56.3-1
 extra/vde2 2.3.3-3
 extra/vid.stab 1.1-3
-extra/vim 9.0.0910-1
-extra/vim-runtime 9.0.0910-1
+extra/vim 9.0.1046-1
+extra/vim-runtime 9.0.1046-1
 extra/virglrenderer 0.10.3-1
 community/virt-install 4.1.0-1
 community/virt-manager 4.1.0-1
@@ -1737,7 +1737,7 @@ extra/xorgproto 2022.2-1
 community/xsel 1.2.0.20200527-2
 extra/xvidcore 1.3.7-2
 community/xxhash 0.8.1-3
-core/xz 5.2.9-1
+core/xz 5.2.10-1
 extra/yajl 2.1.0-5
 archlinuxcn/yaourt 1.9-1
 community/yara 4.2.3-2
@@ -1747,6 +1747,6 @@ community/zeromq 4.3.4-2
 extra/zimg 3.0.4-1
 extra/zip 3.0-10
 core/zlib 1:1.2.13-2
-extra/zsh 5.9-1
+extra/zsh 5.9-2
 community/zsh-completions 0.34.0-3
 core/zstd 1.5.2-7
