@@ -12,7 +12,7 @@ extra/adobe-source-serif-fonts 4.004-2
 extra/adwaita-cursors 43-2
 extra/adwaita-icon-theme 43-2
 extra/alacarte 1:3.44.2-1
-extra/alsa-card-profiles 1:0.3.61-1
+extra/alsa-card-profiles 1:0.3.63-1
 extra/alsa-lib 1.2.8-1
 extra/alsa-plugins 1:1.2.7.1-1
 extra/alsa-topology-conf 1.2.5.1-1
@@ -49,13 +49,13 @@ community/bcg729 1.1.1-1
 extra/bind 9.18.9-1
 core/binutils 2.39-4 (base-devel)
 core/bison 3.8.2-4 (base-devel)
-community/bitwarden 2022.11.0-1
+community/bitwarden 2022.12.0-1
 extra/bluedevil 1:5.26.4-1 (plasma)
 extra/bluez 5.66-1
 extra/bluez-libs 5.66-1
 extra/bluez-qt 5.101.0-1 (kf5)
 extra/bluez-utils 5.66-1
-extra/bogofilter 1.2.5-5
+extra/bogofilter 1.2.5-7
 extra/boost-libs 1.80.0-3
 extra/brasero 3.12.3+r24+gd01ba738-1
 extra/breeze-icons 5.101.0-1 (kf5)
@@ -97,7 +97,8 @@ core/cryptsetup 2.6.0-1
 core/curl 7.86.0-4
 community/cython 0.29.32-2
 extra/dav1d 1.0.0-1
-core/db 5.3.28-5
+core/db 6.2.32-1
+core/db5.3 5.3.28-2
 community/dbeaver 22.3.0-1
 core/dbus 1.14.4-1
 extra/dbus-glib 0.112-2
@@ -134,16 +135,17 @@ core/efibootmgr 18-1
 core/efivar 38-2
 community/electron 20.3.8-1
 community/electron19 19.1.9-1
+community/elementary-icon-theme 7.1.0-1 (pantheon)
 extra/enchant 2.3.3-2
 community/engrampa 1.26.0-1 (mate-extra)
 extra/evolution 3.46.2-1 (gnome-extra)
 extra/evolution-bogofilter 3.46.2-1
-extra/evolution-data-server 3.46.2-1
+extra/evolution-data-server 3.46.2-3
 community/evolution-on 3.24.2-3
 extra/evolution-spamassassin 3.46.2-1
 community/exfatprogs 1.2.0-1
 extra/exiv2 0.27.5-3
-extra/exo 4.16.4-1 (xfce4)
+extra/exo 4.18.0-1 (xfce4)
 core/expat 2.5.0-1
 extra/f2fs-tools 1.15.0-2
 extra/faad2 2.10.1-1
@@ -176,7 +178,7 @@ extra/fuse2 2.9.9-4
 extra/fuse3 3.12.0-1
 community/fwupd 1.8.8-1
 community/fwupd-efi 1.3-1
-extra/garcon 4.16.1-1 (xfce4)
+extra/garcon 4.18.0-1 (xfce4)
 community/gavl 1.4.0-6
 core/gawk 5.2.1-1 (base-devel)
 core/gc 8.2.2-1
@@ -494,11 +496,11 @@ community/impacket 0.9.24-1
 core/inetutils 2.3-1
 extra/iniparser 4.1-4
 extra/intltool 0.51.0-6
-core/iproute2 6.0.0-1
+core/iproute2 6.1.0-3
 core/iptables 1:1.8.8-2
 core/iputils 20221126-1
 extra/iso-codes 4.12.0-1
-extra/jack2 1.9.21-1
+extra/jack2 1.9.21-3
 core/jansson 2.14-2
 extra/jasper 4.0.0-1
 extra/java-environment-common 3-3
@@ -714,7 +716,7 @@ multilib/lib32-pam 1.5.2-1
 multilib/lib32-pango 1:1.50.12-1
 multilib/lib32-pcre 8.45-3
 multilib/lib32-pcre2 10.40-3
-multilib/lib32-pipewire 1:0.3.61-1
+multilib/lib32-pipewire 1:0.3.63-1
 multilib/lib32-pixman 0.42.2-1
 multilib/lib32-readline 8.2.001-2
 multilib/lib32-rest 0.8.1-4
@@ -735,7 +737,7 @@ multilib/lib32-vkd3d 1.5-1
 multilib/lib32-vulkan-icd-loader 1.3.235-1
 multilib/lib32-vulkan-radeon 22.2.3-1
 multilib/lib32-wayland 1.21.0-1
-multilib/lib32-xz 5.2.10-1
+multilib/lib32-xz 5.4.0-1
 multilib/lib32-zlib 1.2.13-2
 multilib/lib32-zstd 1.5.2-1
 extra/libaccounts-glib 1.26-1
@@ -823,7 +825,7 @@ extra/libgweather-4 4.2.0-1
 extra/libgxps 0.3.2-2
 extra/libhandy 1.8.0-1
 extra/libheif 1.14.0-1
-extra/libical 3.0.16-2
+extra/libical 3.0.16-4
 extra/libice 1.1.1-1
 extra/libidn 1.41-1
 community/libidn11 1.33-2
@@ -982,8 +984,8 @@ extra/libxdamage 1.1.6-1
 community/libxdg-basedir 1.2.3-1
 extra/libxdmcp 1.1.4-1
 extra/libxext 1.3.5-1
-extra/libxfce4ui 4.16.1-1
-extra/libxfce4util 4.16.0-1
+extra/libxfce4ui 4.18.0-1
+extra/libxfce4util 4.18.0-1
 extra/libxfixes 6.0.0-2
 extra/libxfont2 2.0.6-1
 extra/libxft 2.3.7-1
@@ -1124,7 +1126,7 @@ extra/openmpi 4.1.4-4
 extra/openpmix 4.2.2-1
 core/openssh 9.1p1-3
 core/openssl 3.0.7-2
-core/openssl-1.0 1.0.2.u-1
+local/openssl-1.0 1.0.2.u-1
 core/openssl-1.1 1.1.1.s-2
 extra/openvpn 2.5.8-2
 community/optipng 0.7.7-2
@@ -1156,7 +1158,7 @@ core/pciutils 3.9.0-1
 core/pcre 8.45-3
 core/pcre2 10.40-3
 community/pcsclite 1.9.9-1
-core/perl 5.36.0-1
+core/perl 5.36.0-3
 extra/perl-bytes-random-secure 0.29-10
 extra/perl-clone 0.45-4
 extra/perl-crypt-openssl-random 0.15-9
@@ -1206,7 +1208,7 @@ extra/perl-www-robotrules 6.02-10
 extra/perl-xml-parser 2.46-4
 community/phodav 3.0-1
 core/pinentry 1.2.1-1
-extra/pipewire 1:0.3.61-1
+extra/pipewire 1:0.3.63-1
 extra/pixman 0.42.2-1
 extra/pkcs11-helper 1.29.0-2
 core/pkgconf 1.8.0-1 (base-devel)
@@ -1270,7 +1272,7 @@ community/python-jaraco.text 3.11.0-1
 community/python-jinja 1:3.1.2-2
 community/python-keyutils 0.6-8
 community/python-ldap3 2.9.1-3
-extra/python-lxml 4.9.1-1
+extra/python-lxml 4.9.2-1
 extra/python-mako 1.2.4-1
 community/python-markdown 3.4.1-2
 extra/python-markupsafe 2.1.1-1
@@ -1316,7 +1318,7 @@ community/python-webencodings 0.5.1-9
 community/python-webob 1.8.7-4
 community/python-werkzeug 2.2.2-1
 community/python-wheel 0.38.4-1
-community/python-xlib 0.31-3
+community/python-xlib 0.31-4
 community/python-yaml 6.0-1
 community/python-zipp 3.11.0-1
 community/qbittorrent 4.5.0-1
@@ -1530,10 +1532,10 @@ community/tesseract-data-eng 2:4.1.0-3 (tesseract-data)
 community/tesseract-data-osd 2:4.1.0-3
 core/texinfo 7.0.1-1 (base-devel)
 core/thin-provisioning-tools 0.9.0-1
-extra/thunar 4.16.11-2 (xfce4)
+extra/thunar 4.18.0-1 (xfce4)
 extra/thunar-archive-plugin 0.5.0-2 (xfce4-goodies)
 extra/thunar-media-tags-plugin 0.3.0-2 (xfce4-goodies)
-extra/thunar-volman 4.16.0-1 (xfce4)
+extra/thunar-volman 4.18.0-1 (xfce4)
 extra/totem-pl-parser 3.26.6-2
 core/tpm2-tss 3.2.0-3
 extra/tracker3 3.4.2-1
@@ -1546,7 +1548,7 @@ community/ttf-hannom 2005-6
 community/ttf-liberation 2.1.5-1
 community/ttf-opensans 1.101-2
 local/ttf-wps-fonts 1.0-5
-extra/tumbler 4.16.1-3 (xfce4)
+extra/tumbler 4.18.0-1 (xfce4)
 community/twolame 0.4.0-2
 core/tzdata 2022g-1
 community/udiskie 2.4.2-1
@@ -1635,15 +1637,15 @@ extra/xf86-video-vesa 2.6.0-1 (xorg-drivers xorg)
 extra/xf86-video-vmware 13.3.0-4 (xorg-drivers)
 extra/xfburn 0.6.2-1 (xfce4-goodies)
 local/xfce4-alsa-plugin 0.3.0-1
-extra/xfce4-appfinder 4.16.1-2 (xfce4)
+extra/xfce4-appfinder 4.18.0-1 (xfce4)
 extra/xfce4-artwork 0.1.1a_git20110420-6 (xfce4-goodies)
 extra/xfce4-battery-plugin 1.1.4-1 (xfce4-goodies)
 local/xfce4-calculator-plugin 0.7.1-1
 extra/xfce4-clipman-plugin 1.6.2-1 (xfce4-goodies)
-extra/xfce4-cpufreq-plugin 1.2.7-1 (xfce4-goodies)
-extra/xfce4-cpugraph-plugin 1.2.6-1 (xfce4-goodies)
+extra/xfce4-cpufreq-plugin 1.2.8-1 (xfce4-goodies)
+extra/xfce4-cpugraph-plugin 1.2.7-1 (xfce4-goodies)
 extra/xfce4-datetime-plugin 0.8.2-1 (xfce4-goodies)
-extra/xfce4-dev-tools 4.16.0-1
+extra/xfce4-dev-tools 4.18.0-1
 extra/xfce4-dict 0.8.4-1 (xfce4-goodies)
 extra/xfce4-diskperf-plugin 2.7.0-1 (xfce4-goodies)
 extra/xfce4-eyes-plugin 4.6.0-1 (xfce4-goodies)
@@ -1655,16 +1657,16 @@ extra/xfce4-mpc-plugin 0.5.2-2 (xfce4-goodies)
 extra/xfce4-netload-plugin 1.4.0-1 (xfce4-goodies)
 extra/xfce4-notes-plugin 1.9.0-1 (xfce4-goodies)
 extra/xfce4-notifyd 0.6.4-2 (xfce4-goodies)
-extra/xfce4-panel 4.16.5-1 (xfce4)
-extra/xfce4-power-manager 4.16.0-3 (xfce4)
+extra/xfce4-panel 4.18.0-1 (xfce4)
+extra/xfce4-power-manager 4.18.0-1 (xfce4)
 extra/xfce4-pulseaudio-plugin 0.4.5-1 (xfce4-goodies)
 extra/xfce4-screensaver 4.16.0-1 (xfce4-goodies)
 extra/xfce4-screenshooter 1.10.0-1 (xfce4-goodies)
-extra/xfce4-sensors-plugin 1.4.3-1 (xfce4-goodies)
-extra/xfce4-session 4.16.0-2 (xfce4)
-extra/xfce4-settings 4.16.5-1 (xfce4)
+extra/xfce4-sensors-plugin 1.4.4-1 (xfce4-goodies)
+extra/xfce4-session 4.18.0-1 (xfce4)
+extra/xfce4-settings 4.18.0-1 (xfce4)
 extra/xfce4-smartbookmark-plugin 0.5.2-1 (xfce4-goodies)
-extra/xfce4-systemload-plugin 1.3.1-1 (xfce4-goodies)
+extra/xfce4-systemload-plugin 1.3.2-1 (xfce4-goodies)
 extra/xfce4-taskmanager 1.5.4-1 (xfce4-goodies)
 extra/xfce4-terminal 1.0.4-1 (xfce4)
 extra/xfce4-time-out-plugin 1.1.2-1 (xfce4-goodies)
@@ -1674,10 +1676,10 @@ extra/xfce4-wavelan-plugin 0.6.3-1 (xfce4-goodies)
 extra/xfce4-weather-plugin 0.11.0-1 (xfce4-goodies)
 community/xfce4-whiskermenu-plugin 2.7.1-1 (xfce4-goodies)
 extra/xfce4-xkb-plugin 0.8.3-1 (xfce4-goodies)
-extra/xfconf 4.16.0-2 (xfce4)
-extra/xfdesktop 4.16.1-1 (xfce4)
+extra/xfconf 4.18.0-1 (xfce4)
+extra/xfdesktop 4.18.0-1 (xfce4)
 core/xfsprogs 6.0.0-1
-extra/xfwm4 4.16.1-3 (xfce4)
+extra/xfwm4 4.18.0-1 (xfce4)
 extra/xfwm4-themes 4.10.0-4 (xfce4)
 extra/xkeyboard-config 2.37-1
 community/xl2tpd 1.3.18-1
@@ -1738,7 +1740,7 @@ extra/xorgproto 2022.2-1
 community/xsel 1.2.0.20200527-2
 extra/xvidcore 1.3.7-2
 community/xxhash 0.8.1-3
-core/xz 5.2.10-1
+core/xz 5.4.0-1
 extra/yajl 2.1.0-5
 archlinuxcn/yaourt 1.9-1
 community/yara 4.2.3-2
