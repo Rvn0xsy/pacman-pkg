@@ -65,6 +65,7 @@ gawk
 gcc
 gdb
 gettext
+gnome-calculator
 gnome-disk-utility
 gnome-font-viewer
 gnome-nettool
@@ -146,6 +147,7 @@ npm
 ntfs-3g
 numix-circle-icon-theme-git
 obs-studio
+ocs-url
 openbsd-netcat
 opendesktop-fonts
 openssh

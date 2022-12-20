@@ -214,6 +214,7 @@ glslang 11.11.0-1
 glu 9.0.2-3
 gmp 6.2.1-2
 gnome-autoar 0.4.3-2
+gnome-calculator 43.0.1-1
 gnome-desktop 1:43-1
 gnome-desktop-4 1:43-1
 gnome-desktop-common 1:43-1
@@ -251,12 +252,12 @@ gsfonts 20200910-2
 gsl 2.7.1-1
 gsm 1.0.22-1
 gspell 1.12.0-2
-gst-plugin-gtk 1.20.4-3
-gst-plugins-bad-libs 1.20.4-3
-gst-plugins-base 1.20.4-3
-gst-plugins-base-libs 1.20.4-3
-gst-plugins-good 1.20.4-3
-gstreamer 1.20.4-3
+gst-plugin-gtk 1.20.5-1
+gst-plugins-bad-libs 1.20.5-1
+gst-plugins-base 1.20.5-1
+gst-plugins-base-libs 1.20.5-1
+gst-plugins-good 1.20.5-1
+gstreamer 1.20.5-1
 gthumb 3.12.2-2
 gtk-doc 1.33.2-1
 gtk-update-icon-cache 1:4.8.2-1
@@ -266,6 +267,7 @@ gtk3 1:3.24.35-2
 gtk4 1:4.8.2-1
 gtkmm3 3.24.7-1
 gtksourceview4 4.8.4-1
+gtksourceview5 5.6.1-1
 gts 0.7.6.121130-2
 guile 3.0.8-3
 gumbo-parser 0.10.1-2
@@ -811,6 +813,7 @@ libftdi 1.5-4
 libgcrypt 1.10.1-2
 libgcrypt15 1.5.6-6
 libgdata 0.18.1-2
+libgee 0.20.6-1
 libgit2 1:1.5.0-2
 libglvnd 1.6.0-1
 libgooglepinyin 0.1.2-5
@@ -1117,6 +1120,7 @@ numactl 2.0.16-1
 numix-circle-icon-theme-git 22.11.26.r0.g186d7e0-1
 obs-studio 28.1.2-2
 ocl-icd 2.3.1-1
+ocs-url 3.1.0-7
 oniguruma 6.9.8-1
 openal 1.22.2-1
 openbsd-netcat 1.219_1-1

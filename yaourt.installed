@@ -214,6 +214,7 @@ extra/glslang 11.11.0-1
 extra/glu 9.0.2-3
 core/gmp 6.2.1-2
 extra/gnome-autoar 0.4.3-2
+extra/gnome-calculator 43.0.1-1 (gnome)
 extra/gnome-desktop 1:43-1
 extra/gnome-desktop-4 1:43-1
 extra/gnome-desktop-common 1:43-1
@@ -251,12 +252,12 @@ extra/gsfonts 20200910-2
 extra/gsl 2.7.1-1
 extra/gsm 1.0.22-1
 extra/gspell 1.12.0-2
-extra/gst-plugin-gtk 1.20.4-3
-extra/gst-plugins-bad-libs 1.20.4-3
-extra/gst-plugins-base 1.20.4-3
-extra/gst-plugins-base-libs 1.20.4-3
-extra/gst-plugins-good 1.20.4-3
-extra/gstreamer 1.20.4-3
+extra/gst-plugin-gtk 1.20.5-1
+extra/gst-plugins-bad-libs 1.20.5-1
+extra/gst-plugins-base 1.20.5-1
+extra/gst-plugins-base-libs 1.20.5-1
+extra/gst-plugins-good 1.20.5-1
+extra/gstreamer 1.20.5-1
 extra/gthumb 3.12.2-2
 extra/gtk-doc 1.33.2-1
 extra/gtk-update-icon-cache 1:4.8.2-1
@@ -266,6 +267,7 @@ extra/gtk3 1:3.24.35-2
 extra/gtk4 1:4.8.2-1
 extra/gtkmm3 3.24.7-1
 extra/gtksourceview4 4.8.4-1
+extra/gtksourceview5 5.6.1-1
 extra/gts 0.7.6.121130-2
 core/guile 3.0.8-3
 extra/gumbo-parser 0.10.1-2
@@ -811,6 +813,7 @@ community/libftdi 1.5-4
 core/libgcrypt 1.10.1-2
 community/libgcrypt15 1.5.6-6
 extra/libgdata 0.18.1-2
+extra/libgee 0.20.6-1
 extra/libgit2 1:1.5.0-2
 extra/libglvnd 1.6.0-1
 community/libgooglepinyin 0.1.2-5
@@ -1117,6 +1120,7 @@ extra/numactl 2.0.16-1
 archlinuxcn/numix-circle-icon-theme-git 22.11.26.r0.g186d7e0-1
 community/obs-studio 28.1.2-2
 extra/ocl-icd 2.3.1-1
+local/ocs-url 3.1.0-7
 community/oniguruma 6.9.8-1
 extra/openal 1.22.2-1
 community/openbsd-netcat 1.219_1-1

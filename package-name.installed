@@ -65,6 +65,7 @@ gawk 5.2.1-1
 gcc 12.2.0-1
 gdb 12.1-2
 gettext 0.21.1-2
+gnome-calculator 43.0.1-1
 gnome-disk-utility 43.0-1
 gnome-font-viewer 43.0-1
 gnome-nettool 42.0-1
@@ -146,6 +147,7 @@ npm 8.19.2-1
 ntfs-3g 2022.10.3-1
 numix-circle-icon-theme-git 22.11.26.r0.g186d7e0-1
 obs-studio 28.1.2-2
+ocs-url 3.1.0-7
 openbsd-netcat 1.219_1-1
 opendesktop-fonts 1.4.2-6
 openssh 9.1p1-3
