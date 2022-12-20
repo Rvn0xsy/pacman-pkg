@@ -540,6 +540,8 @@ extra/kdbusaddons 5.101.0-1 (kf5)
 extra/kdeclarative 5.101.0-1 (kf5)
 extra/kded 5.101.0-1 (kf5)
 extra/kdenlive 22.12.0-2 (kde-applications kde-multimedia)
+community/keycloak 20.0.2-1
+community/keycloak-archlinux-theme 1.0.4-1
 core/keyutils 1.6.3-1
 extra/kfilemetadata 5.101.0-1 (kf5)
 extra/kglobalaccel 5.101.0-1 (kf5)

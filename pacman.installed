@@ -540,6 +540,8 @@ kdbusaddons 5.101.0-1
 kdeclarative 5.101.0-1
 kded 5.101.0-1
 kdenlive 22.12.0-2
+keycloak 20.0.2-1
+keycloak-archlinux-theme 1.0.4-1
 keyutils 1.6.3-1
 kfilemetadata 5.101.0-1
 kglobalaccel 5.101.0-1
