@@ -19,7 +19,7 @@ extra/alsa-topology-conf 1.2.5.1-1
 extra/alsa-ucm-conf 1.2.8-1
 extra/aom 3.5.0-1
 extra/appstream-glib 0.8.2-1
-community/arc-gtk-theme 20220405-2
+community/arc-gtk-theme 20221218-1
 community/arc-icon-theme 20161122-3
 extra/archlinux-appstream-data 20221210-1
 core/archlinux-keyring 20221220-1 (base-devel)
@@ -87,7 +87,7 @@ extra/cmark 0.30.2-1
 extra/cogl 1.22.8-2
 extra/colord 1.4.6-1
 community/confuse 3.3-3
-community/containerd 1.6.12-1
+community/containerd 1.6.14-1
 extra/convertlit 1.8-11
 community/copyq 6.3.2-1
 core/coreutils 9.1-3
@@ -95,7 +95,7 @@ extra/cpio 2.13-2
 core/cracklib 2.9.8-1
 core/cronie 1.6.1-1
 core/cryptsetup 2.6.0-1
-core/curl 7.86.0-4
+core/curl 7.87.0-1
 community/cython 0.29.32-2
 extra/dav1d 1.0.0-1
 core/db 6.2.32-1
@@ -121,8 +121,8 @@ extra/dnsmasq 2.88-1
 core/dnssec-anchors 20190629-3
 extra/docbook-xml 4.5-9
 extra/docbook-xsl 1.79.2-7
-community/docker 1:20.10.21-1
-community/docker-compose 2.14.1-1
+community/docker 1:20.10.22-1
+community/docker-compose 2.14.2-1
 core/dosfstools 4.2-2
 extra/double-conversion 3.2.1-1
 community/dtc 1.6.1-4
@@ -231,7 +231,7 @@ core/gnutls 3.7.8-4
 community/go 2:1.19.4-1
 extra/gobject-introspection 1.74.0-1
 extra/gobject-introspection-runtime 1.74.0-1
-archlinuxcn/goland 2022.3-1
+archlinuxcn/goland 2022.3.1-1
 local/google-chrome 106.0.5249.119-1
 community/goreleaser 1.12.3-1
 extra/gpaste 43.0+r9+gdecb566d-1
@@ -584,7 +584,7 @@ multilib/lib32-brotli 1.0.9-5
 multilib/lib32-bzip2 1.0.8-3
 multilib/lib32-cairo 1.17.6-2
 multilib/lib32-colord 1.4.6-1
-multilib/lib32-curl 7.86.0-2
+multilib/lib32-curl 7.87.0-1
 multilib/lib32-dbus 1.14.4-1
 multilib/lib32-dbus-glib 0.112-2
 multilib/lib32-e2fsprogs 1.46.5-1
@@ -621,8 +621,8 @@ multilib/lib32-libcaca 0.99.beta20-1
 multilib/lib32-libcanberra 1:0.30+r2+gc0620e4-2
 multilib/lib32-libcap 2.66-1
 multilib/lib32-libcups 2.4.2-2
-multilib/lib32-libcurl-compat 7.86.0-2
-multilib/lib32-libcurl-gnutls 7.86.0-2
+multilib/lib32-libcurl-compat 7.87.0-1
+multilib/lib32-libcurl-gnutls 7.87.0-1
 multilib/lib32-libdatrie 0.2.13-2
 multilib/lib32-libdbusmenu-glib 16.04.0-5
 multilib/lib32-libdbusmenu-gtk2 16.04.0-5
@@ -656,7 +656,7 @@ multilib/lib32-libproxy 0.4.18-1
 multilib/lib32-libpsl 0.21.1-3
 multilib/lib32-libpulse 16.1-1
 multilib/lib32-librsvg 2:2.55.1-1
-multilib/lib32-librtmp0 2.4-4
+multilib/lib32-librtmp0 2.4-5
 multilib/lib32-libsm 1.2.3-2
 multilib/lib32-libsndfile 1.1.0-2
 multilib/lib32-libsoup 2.74.3-1
@@ -666,7 +666,7 @@ multilib/lib32-libthai 0.1.29-2
 multilib/lib32-libtheora 1.1.1-13
 multilib/lib32-libtiff 4.4.0-4
 multilib/lib32-libtiff4 3.9.7-5
-multilib/lib32-libtirpc 1.3.3-1
+multilib/lib32-libtirpc 1.3.3-2
 multilib/lib32-libudev0-shim 1-5
 multilib/lib32-libunistring 1.1-1
 multilib/lib32-libunwind 1.6.2-2
@@ -726,7 +726,7 @@ multilib/lib32-pixman 0.42.2-1
 multilib/lib32-readline 8.2.001-2
 multilib/lib32-rest 0.8.1-4
 multilib/lib32-sdl12-compat 1.2.60-1
-multilib/lib32-sdl2 2.24.2-1
+multilib/lib32-sdl2 2.26.1-1
 multilib/lib32-sdl2_image 2.6.2-1
 multilib/lib32-sdl2_mixer 2.6.2-1
 multilib/lib32-sdl2_ttf 2.20.1-1
@@ -784,8 +784,8 @@ extra/libcolord 1.4.6-1
 community/libconfig 1.7.3-1
 extra/libcryptui 1:3.12.2+r71+ged4f890e-1
 extra/libcups 1:2.4.2-3
-core/libcurl-compat 7.86.0-4
-core/libcurl-gnutls 7.86.0-4
+core/libcurl-compat 7.87.0-1
+core/libcurl-gnutls 7.87.0-1
 extra/libdaemon 0.14-5
 extra/libdatrie 0.2.13-2
 community/libdbusmenu-glib 16.04.0-5
@@ -828,17 +828,18 @@ core/libgssglue 0.7-1
 extra/libgtop 2.40.0+2+g31db82ef-2
 extra/libgudev 237-2
 community/libguestfs 1.48.6-1
-extra/libgusb 0.4.2-1
+extra/libgusb 0.4.3-1
 extra/libgweather-4 4.2.0-1
 extra/libgxps 0.3.2-2
 extra/libhandy 1.8.0-1
 extra/libheif 1.14.0-1
+extra/libibus 1.5.27-1
 extra/libical 3.0.16-4
 extra/libice 1.1.1-1
 extra/libidn 1.41-1
 community/libidn11 1.33-2
 core/libidn2 2.3.4-3
-extra/libiec61883 1.2.0-6
+extra/libiec61883 1.2.0-7
 extra/libieee1284 0.2.11-13
 community/libimagequant 4.0.4-1
 extra/libimobiledevice 1.3.0-5
@@ -873,7 +874,7 @@ extra/libmm-glib 1.20.2-1
 extra/libmng 2.0.3-3
 core/libmnl 1.0.5-1
 extra/libmodplug 0.8.9.0-3
-core/libmpc 1.3.0-2
+core/libmpc 1.3.1-1
 extra/libmpcdec 1:0.1+r475-3
 extra/libmpd 11.8.17-5
 extra/libmpeg2 0.5.1-7
@@ -934,7 +935,7 @@ extra/libsndfile 1.1.0-3
 extra/libsodium 1.0.18-2
 extra/libsoup 2.74.3-1
 extra/libsoup3 3.2.2-1
-extra/libsoxr 0.1.3-2
+extra/libsoxr 0.1.3-3
 extra/libspectre 0.2.11-1
 extra/libssh 0.10.4-3
 core/libssh2 1.10.0-3
@@ -1030,8 +1031,8 @@ community/lightdm-gtk-greeter-settings 1.2.2-7
 community/lilv 0.24.20-1
 core/linux 6.0.12.arch1-1
 core/linux-api-headers 5.18.15-1
-core/linux-firmware 20221109.60310c2-2
-core/linux-firmware-whence 20221109.60310c2-2
+core/linux-firmware 20221214.f3c283e-1
+core/linux-firmware-whence 20221214.f3c283e-1
 core/linux-headers 6.0.12.arch1-1
 extra/llvm-libs 14.0.6-4
 extra/lm_sensors 1:3.6.0.r41.g31d1f125-2
@@ -1083,7 +1084,7 @@ core/mpfr 4.1.1.p1-1
 extra/mpg123 1.31.1-1
 extra/mtdev 1.1.6-2
 extra/mtools 1:4.0.42-1
-community/multipath-tools 0.9.3-1
+community/multipath-tools 0.9.4-1
 extra/nasm 2.15.05-1
 core/ncurses 6.3-3
 extra/ndctl 74-1
@@ -1163,7 +1164,7 @@ extra/parted 3.5-1
 core/patch 2.7.6-8 (base-devel)
 community/patchelf 0.17.0-1
 extra/pavucontrol 1:5.0+r61+gee77d86-2
-core/pciutils 3.9.0-1
+core/pciutils 3.9.0-2
 core/pcre 8.45-3
 core/pcre2 10.40-3
 community/pcsclite 1.9.9-2
@@ -1221,7 +1222,7 @@ extra/pipewire 1:0.3.63-1
 extra/pixman 0.42.2-1
 extra/pkcs11-helper 1.29.0-2
 core/pkgconf 1.8.0-1 (base-devel)
-archlinuxcn/pnpm 7.18.2-1
+archlinuxcn/pnpm 7.19.0-1
 extra/polkit 122-1
 community/polkit-gnome 0.105-9
 extra/polkit-qt5 0.114.0-1
@@ -1379,7 +1380,7 @@ extra/qt5-speech 5.15.7+kde+r1-1 (qt qt5)
 extra/qt5-svg 5.15.7+kde+r9-1 (qt qt5)
 extra/qt5-tools 5.15.7+kde+r1-2 (qt qt5)
 extra/qt5-translations 5.15.7-1 (qt qt5)
-extra/qt5-wayland 5.15.7+kde+r56-1 (qt qt5)
+extra/qt5-wayland 5.15.7+kde+r58-1 (qt qt5)
 extra/qt5-webchannel 5.15.7+kde+r3-1 (qt qt5)
 extra/qt5-webengine 5.15.11-3 (qt qt5)
 archlinuxcn/qt5-webkit 5.212.0alpha4-18
@@ -1413,7 +1414,7 @@ extra/ristretto 0.12.4-1 (xfce4-goodies)
 community/rnnoise 0.4.1-1
 community/rofi 1.7.5-1
 community/rofimoji 6.0.0-1
-community/rssguard 4.2.5-1
+community/rssguard 4.2.7-1
 extra/rsync 3.2.7-3
 extra/rtkit 0.13-2
 community/ruby 3.0.4-20
@@ -1517,7 +1518,7 @@ extra/srt 1.5.1-3
 community/sstp-client 1:1.0.18-1
 extra/startup-notification 0.12-7
 multilib/steam 1.0.0.75-1
-multilib/steam-native-runtime 1.0.0.75-1
+multilib/steam-native-runtime 1.0.0.75-2
 extra/strace 6.1-1
 core/sudo 1.9.12.p1-1 (base-devel)
 community/supermin 5.3.2-1
@@ -1526,9 +1527,9 @@ community/swaks 20201014.0-1
 extra/syndication 5.101.0-1 (kf5)
 core/sysfsutils 2.1.1-1
 core/syslinux 6.04.pre2.r11.gbf6db5b4-3
-core/systemd 252.4-1
-core/systemd-libs 252.4-1
-core/systemd-sysvcompat 252.4-1
+core/systemd 252.4-2
+core/systemd-libs 252.4-2
+core/systemd-sysvcompat 252.4-2
 extra/taglib 1.13-1
 core/tar 1.34-1
 extra/tcl 8.6.13-1
@@ -1572,7 +1573,7 @@ core/usbutils 015-2
 core/util-linux 2.38.1-1
 core/util-linux-libs 2.38.1-1
 community/v2ray 5.1.0-2
-community/v2ray-domain-list-community 20221220074615-1
+community/v2ray-domain-list-community 20221221071041-1
 community/v2ray-geoip 202212150047-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.3-1
@@ -1670,7 +1671,7 @@ extra/xfce4-panel 4.18.0-1 (xfce4)
 extra/xfce4-power-manager 4.18.0-1 (xfce4)
 extra/xfce4-pulseaudio-plugin 0.4.5-1 (xfce4-goodies)
 extra/xfce4-screensaver 4.16.0-1 (xfce4-goodies)
-extra/xfce4-screenshooter 1.10.0-1 (xfce4-goodies)
+extra/xfce4-screenshooter 1.10.1-1 (xfce4-goodies)
 extra/xfce4-sensors-plugin 1.4.4-1 (xfce4-goodies)
 extra/xfce4-session 4.18.0-1 (xfce4)
 extra/xfce4-settings 4.18.0-1 (xfce4)
@@ -1687,7 +1688,7 @@ community/xfce4-whiskermenu-plugin 2.7.1-1 (xfce4-goodies)
 extra/xfce4-xkb-plugin 0.8.3-1 (xfce4-goodies)
 extra/xfconf 4.18.0-1 (xfce4)
 extra/xfdesktop 4.18.0-1 (xfce4)
-core/xfsprogs 6.0.0-1
+core/xfsprogs 6.0.0-2
 extra/xfwm4 4.18.0-1 (xfce4)
 extra/xfwm4-themes 4.10.0-4 (xfce4)
 extra/xkeyboard-config 2.37-1

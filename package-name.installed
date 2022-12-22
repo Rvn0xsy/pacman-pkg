@@ -4,7 +4,7 @@ adobe-source-han-serif-cn-fonts 2.001-2
 adobe-source-sans-fonts 3.046-1
 adobe-source-serif-fonts 4.004-2
 alacarte 1:3.44.2-1
-arc-gtk-theme 20220405-2
+arc-gtk-theme 20221218-1
 arc-icon-theme 20161122-3
 archlinuxcn-keyring 20220716-1
 aria2 1.36.0-1
@@ -37,8 +37,8 @@ dhcpcd 9.4.1-1
 discord 0.0.22-1
 diskus 0.7.0-2
 dnsmasq 2.88-1
-docker 1:20.10.21-1
-docker-compose 2.14.1-1
+docker 1:20.10.22-1
+docker-compose 2.14.2-1
 dosfstools 4.2-2
 ebtables 2.0.10_4-8
 edk2-ovmf 202211-3
@@ -70,7 +70,7 @@ gnome-disk-utility 43.0-1
 gnome-font-viewer 43.0-1
 gnome-nettool 42.0-1
 go 2:1.19.4-1
-goland 2022.3-1
+goland 2022.3.1-1
 google-chrome 106.0.5249.119-1
 goreleaser 1.12.3-1
 gpaste 43.0+r9+gdecb566d-1
@@ -109,7 +109,7 @@ lightdm 1:1.32.0-4
 lightdm-gtk-greeter 1:2.0.8-3
 lightdm-gtk-greeter-settings 1.2.2-7
 linux 6.0.12.arch1-1
-linux-firmware 20221109.60310c2-2
+linux-firmware 20221214.f3c283e-1
 linux-headers 6.0.12.arch1-1
 lsd 0.23.1-1
 lxqt-themes 1.2.0-1
@@ -160,7 +160,7 @@ parole 4.16.0-1
 patch 2.7.6-8
 pavucontrol 1:5.0+r61+gee77d86-2
 pkgconf 1.8.0-1
-pnpm 7.18.2-1
+pnpm 7.19.0-1
 postgresql 14.6-1
 powershell-bin 7.3.0-1
 proxychains-ng 4.16-2
@@ -180,7 +180,7 @@ remmina 1:1.4.29-1
 ristretto 0.12.4-1
 rofi 1.7.5-1
 rofimoji 6.0.0-1
-rssguard 4.2.5-1
+rssguard 4.2.7-1
 rubygems 3.3.25-1
 screenkey 1.5-2
 sed 4.9-1
@@ -188,7 +188,7 @@ slack-desktop 4.29.149-1
 socat 1.7.4.4-1
 sqlitebrowser 3.12.2-3
 sqlmap 1.6.12-1
-steam-native-runtime 1.0.0.75-1
+steam-native-runtime 1.0.0.75-2
 strace 6.1-1
 sudo 1.9.12.p1-1
 swaks 20201014.0-1
@@ -262,7 +262,7 @@ xfce4-panel 4.18.0-1
 xfce4-power-manager 4.18.0-1
 xfce4-pulseaudio-plugin 0.4.5-1
 xfce4-screensaver 4.16.0-1
-xfce4-screenshooter 1.10.0-1
+xfce4-screenshooter 1.10.1-1
 xfce4-sensors-plugin 1.4.4-1
 xfce4-session 4.18.0-1
 xfce4-settings 4.18.0-1
