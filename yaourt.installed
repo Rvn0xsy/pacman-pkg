@@ -47,7 +47,7 @@ core/bash 5.1.016-1
 extra/bash-completion 2.11-3
 extra/bc 1.07.1-4
 community/bcg729 1.1.1-1
-extra/bind 9.18.9-1
+extra/bind 9.18.10-1
 core/binutils 2.39-4 (base-devel)
 core/bison 3.8.2-4 (base-devel)
 community/bitwarden 2022.12.0-1
@@ -107,7 +107,7 @@ extra/dbus-python 1.2.18-3
 extra/dconf 0.40.0-2
 community/debootstrap 1.0.128-1
 core/debugedit 5.0-4 (base-devel)
-extra/default-cursors 1-1
+extra/default-cursors 2-1
 extra/desktop-file-utils 0.26-2
 core/device-mapper 2.03.17-1
 core/dhcpcd 9.4.1-1
@@ -139,11 +139,11 @@ community/electron19 19.1.9-1
 community/elementary-icon-theme 7.1.0-1 (pantheon)
 extra/enchant 2.3.3-2
 community/engrampa 1.26.0-1 (mate-extra)
-extra/evolution 3.46.2-1 (gnome-extra)
-extra/evolution-bogofilter 3.46.2-1
+extra/evolution 3.46.2-2 (gnome-extra)
+extra/evolution-bogofilter 3.46.2-2
 extra/evolution-data-server 3.46.2-3
 community/evolution-on 3.24.2-3
-extra/evolution-spamassassin 3.46.2-1
+extra/evolution-spamassassin 3.46.2-2
 community/exfatprogs 1.2.0-1
 extra/exiv2 0.27.5-3
 extra/exo 4.18.0-1 (xfce4)
@@ -206,8 +206,8 @@ extra/git 2.39.0-1
 community/glew1.10 1.10.0-3
 extra/glib-networking 1:2.74.0-1
 extra/glib-perl 1.329.3-3
-core/glib2 2.74.3-1
-core/glib2-docs 2.74.3-1
+core/glib2 2.74.4-1
+core/glib2-docs 2.74.4-1
 core/glibc 2.36-6
 extra/glibmm 2.66.5-1
 extra/glibmm-2.68 2.74.0-1
@@ -242,7 +242,7 @@ core/gpm 1.20.7.r38.ge82d1a6-4
 extra/gptfdisk 1.0.9-2
 extra/graphene 1.10.8-1
 extra/graphite 1:1.3.14-2
-extra/graphviz 7.0.4-1
+extra/graphviz 7.0.5-1
 core/grep 3.8-2 (base-devel)
 core/groff 1.22.4-7 (base-devel)
 community/grpc 1.51.1-2
@@ -261,11 +261,11 @@ extra/gst-plugins-good 1.20.5-1
 extra/gstreamer 1.20.5-1
 extra/gthumb 3.12.2-2
 extra/gtk-doc 1.33.2-1
-extra/gtk-update-icon-cache 1:4.8.2-1
+extra/gtk-update-icon-cache 1:4.8.3-1
 extra/gtk-vnc 1.3.1-1
 extra/gtk2 2.24.33-2
-extra/gtk3 1:3.24.35-2
-extra/gtk4 1:4.8.2-1
+extra/gtk3 1:3.24.36-1
+extra/gtk4 1:4.8.3-1
 extra/gtkmm3 3.24.7-1
 extra/gtksourceview4 4.8.4-1
 extra/gtksourceview5 5.6.1-1
@@ -488,7 +488,7 @@ extra/hunspell 1.7.1-1
 core/hwdata 0.365-1
 extra/hwloc 2.8.0-1
 extra/hyphen 2.8.8-5
-core/iana-etc 20221107-1
+core/iana-etc 20221215-1
 core/icu 72.1-2
 archlinuxcn/iease-music 1.3.4-1
 extra/ijs 0.35-5
@@ -599,15 +599,15 @@ multilib/lib32-gdk-pixbuf2 2.42.10-1
 multilib/lib32-giflib 5.2.1-1
 multilib/lib32-glew1.10 1.10.0-5
 multilib/lib32-glib-networking 2.74.0-1
-multilib/lib32-glib2 2.74.3-1
+multilib/lib32-glib2 2.74.4-1
 core/lib32-glibc 2.36-6
 multilib/lib32-glu 9.0.2-3
 multilib/lib32-gmp 6.2.1-1
 multilib/lib32-gnutls 3.7.8-1
-multilib/lib32-gst-plugins-base-libs 1.20.4-1
-multilib/lib32-gstreamer 1.20.4-1
+multilib/lib32-gst-plugins-base-libs 1.20.5-1
+multilib/lib32-gstreamer 1.20.5-1
 multilib/lib32-gtk2 2.24.33-2
-multilib/lib32-gtk3 1:3.24.35-2
+multilib/lib32-gtk3 1:3.24.36-1
 multilib/lib32-harfbuzz 6.0.0-1
 multilib/lib32-icu 72.1-2
 multilib/lib32-imlib2 1.10.0-1
@@ -926,8 +926,8 @@ core/libsasl 2.1.28-3
 core/libseccomp 2.5.4-1
 core/libsecret 0.20.5-2
 extra/libshout 1:2.4.6-2
-extra/libsigc++ 2.10.8-1
-extra/libsigc++-3.0 3.2.0-1
+extra/libsigc++ 2.12.0-1
+extra/libsigc++-3.0 3.4.0-1
 community/libslirp 4.7.0-1
 extra/libsm 1.2.4-1
 extra/libsmbios 2.4.3-5
@@ -1029,11 +1029,11 @@ extra/lightdm 1:1.32.0-4
 extra/lightdm-gtk-greeter 1:2.0.8-3
 community/lightdm-gtk-greeter-settings 1.2.2-7
 community/lilv 0.24.20-1
-core/linux 6.0.12.arch1-1
+core/linux 6.1.1.arch1-1
 core/linux-api-headers 5.18.15-1
 core/linux-firmware 20221214.f3c283e-1
 core/linux-firmware-whence 20221214.f3c283e-1
-core/linux-headers 6.0.12.arch1-1
+core/linux-headers 6.1.1.arch1-1
 extra/llvm-libs 14.0.6-4
 extra/lm_sensors 1:3.6.0.r41.g31d1f125-2
 extra/lmdb 0.9.29-1
@@ -1065,7 +1065,7 @@ core/mdadm 4.2-2
 extra/media-player-info 24-2
 extra/mesa 22.3.1-1
 extra/mesa-utils 8.5.0-2
-extra/meson 0.64.1-1
+extra/meson 1.0.0-2
 community/metasploit 6.2.27-1
 local/microsoft-edge-stable-bin 106.0.1370.52-1
 community/mingw-w64-binutils 2.38-3 (mingw-w64-toolchain mingw-w64)
@@ -1103,7 +1103,7 @@ community/networkmanager-l2tp 1.20.6-2
 extra/networkmanager-openvpn 1.10.2-1
 extra/networkmanager-qt 5.101.0-1 (kf5)
 extra/networkmanager-vpnc 1.2.8-2
-extra/nftables 1:1.0.5-1
+extra/nftables 1:1.0.6-1
 core/nilfs-utils 2.2.9-1
 community/ninja 1.11.1-2
 extra/nm-connection-editor 1.30.0-1
@@ -1246,10 +1246,10 @@ extra/purpose 5.101.0-1 (kf5)
 community/pwgen 2.08-2
 community/pycharm-community-edition 2022.3-1
 community/pyenv 2.3.9-1
-core/python 3.10.8-3
+core/python 3.10.9-1
 extra/python-anytree 2.8.0-5
 extra/python-appdirs 1.4.4-7
-extra/python-attrs 22.1.0-1
+extra/python-attrs 22.2.0-1
 community/python-autocommand 2.2.2-1
 extra/python-beaker 1.12.0-1
 community/python-cachecontrol 1:0.12.11-1
@@ -1320,7 +1320,7 @@ extra/python-six 1.16.0-6
 community/python-tenacity 8.1.0-1
 community/python-toml 0.10.2-8
 extra/python-tomli 2.0.1-1
-extra/python-trove-classifiers 2022.12.1-1
+extra/python-trove-classifiers 2022.12.22-1
 community/python-typing_extensions 4.4.0-1
 extra/python-urllib3 1.26.12-1
 extra/python-validate-pyproject 0.10.1-1
@@ -1414,7 +1414,7 @@ extra/ristretto 0.12.4-1 (xfce4-goodies)
 community/rnnoise 0.4.1-1
 community/rofi 1.7.5-1
 community/rofimoji 6.0.0-1
-community/rssguard 4.2.7-1
+community/rssguard 4.2.7-2
 extra/rsync 3.2.7-3
 extra/rtkit 0.13-2
 community/ruby 3.0.4-20
@@ -1535,14 +1535,14 @@ core/tar 1.34-1
 extra/tcl 8.6.13-1
 extra/tdb 1.4.7-1
 community/telegram-desktop 4.4.1-3
-community/tesseract 5.2.0-2
+community/tesseract 5.3.0-1
 community/tesseract-data-chi_sim 2:4.1.0-3 (tesseract-data)
 community/tesseract-data-chi_tra 2:4.1.0-3 (tesseract-data)
 community/tesseract-data-eng 2:4.1.0-3 (tesseract-data)
 community/tesseract-data-osd 2:4.1.0-3
 core/texinfo 7.0.1-1 (base-devel)
 core/thin-provisioning-tools 0.9.0-1
-extra/thunar 4.18.0-1 (xfce4)
+extra/thunar 4.18.1-1 (xfce4)
 extra/thunar-archive-plugin 0.5.0-2 (xfce4-goodies)
 extra/thunar-media-tags-plugin 0.3.0-2 (xfce4-goodies)
 extra/thunar-volman 4.18.0-1 (xfce4)
@@ -1573,8 +1573,8 @@ core/usbutils 015-2
 core/util-linux 2.38.1-1
 core/util-linux-libs 2.38.1-1
 community/v2ray 5.1.0-2
-community/v2ray-domain-list-community 20221221071041-1
-community/v2ray-geoip 202212150047-1
+community/v2ray-domain-list-community 20221225070531-1
+community/v2ray-geoip 202212220043-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.3-1
 extra/vde2 2.3.3-3
@@ -1605,9 +1605,9 @@ extra/vulkan-radeon 22.3.1-1
 extra/wavpack 5.6.0-1
 extra/wayland 1.21.0-2
 extra/wayland-protocols 1.31-1
-extra/webkit2gtk 2.38.2-2
-extra/webkit2gtk-4.1 2.38.2-2
-extra/webkit2gtk-5.0 2.38.2-2
+extra/webkit2gtk 2.38.3-1
+extra/webkit2gtk-4.1 2.38.3-1
+extra/webkit2gtk-5.0 2.38.3-1
 extra/webrtc-audio-processing 0.3.1-3
 local/wemeet-bin 3.10.0.401-1
 extra/wget 1.21.3-1
@@ -1671,10 +1671,10 @@ extra/xfce4-panel 4.18.0-1 (xfce4)
 extra/xfce4-power-manager 4.18.0-1 (xfce4)
 extra/xfce4-pulseaudio-plugin 0.4.5-1 (xfce4-goodies)
 extra/xfce4-screensaver 4.16.0-1 (xfce4-goodies)
-extra/xfce4-screenshooter 1.10.1-1 (xfce4-goodies)
+extra/xfce4-screenshooter 1.10.1-2 (xfce4-goodies)
 extra/xfce4-sensors-plugin 1.4.4-1 (xfce4-goodies)
 extra/xfce4-session 4.18.0-1 (xfce4)
-extra/xfce4-settings 4.18.0-1 (xfce4)
+extra/xfce4-settings 4.18.1-1 (xfce4)
 extra/xfce4-smartbookmark-plugin 0.5.2-1 (xfce4-goodies)
 extra/xfce4-systemload-plugin 1.3.2-1 (xfce4-goodies)
 extra/xfce4-taskmanager 1.5.5-1 (xfce4-goodies)
