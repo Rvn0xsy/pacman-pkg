@@ -31,7 +31,7 @@ clash 1.12.0-1
 clash-dashboard-git 0.3.0.r185.gaf47fa3-1
 copyq 6.3.2-1
 cronie 1.6.1-1
-dbeaver 22.3.0-1
+dbeaver 22.3.1-1
 dbus-python 1.2.18-3
 dhcpcd 9.4.1-1
 discord 0.0.22-1
@@ -160,7 +160,7 @@ parole 4.16.0-1
 patch 2.7.6-8
 pavucontrol 1:5.0+r61+gee77d86-2
 pkgconf 1.8.0-1
-pnpm 7.19.0-1
+pnpm 7.20.0-1
 postgresql 14.6-1
 powershell-bin 7.3.0-1
 proxychains-ng 4.16-2
@@ -179,7 +179,7 @@ redis 7.0.7-1
 remmina 1:1.4.29-1
 ristretto 0.12.4-1
 rofi 1.7.5-1
-rofimoji 6.0.0-1
+rofimoji 6.1.0-1
 rssguard 4.2.7-2
 rubygems 3.3.25-1
 screenkey 1.5-2
@@ -220,7 +220,7 @@ virtualbox-guest-iso 7.0.4-1
 virtualbox-guest-utils 7.0.4-1
 visual-studio-code-bin 1.68.1-1
 vlc 3.0.18-4
-vmware-workstation 16.2.4-1
+vmware-workstation 17.0.0-2
 vulkan-radeon 22.3.1-1
 wemeet-bin 3.10.0.401-1
 wget 1.21.3-1
