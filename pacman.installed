@@ -232,7 +232,7 @@ go 2:1.19.4-1
 gobject-introspection 1.74.0-1
 gobject-introspection-runtime 1.74.0-1
 goland 2022.3.1-1
-google-chrome 106.0.5249.119-1
+google-chrome 108.0.5359.124-1
 goreleaser 1.12.3-1
 gpaste 43.0+r9+gdecb566d-1
 gperftools 2.10-1
@@ -1145,6 +1145,7 @@ opusfile 0.12-3
 orc 0.4.33-1
 os-prober 1.81-1
 osinfo-db 20221130-1
+osquery 5.7.0-1
 p11-kit 0.24.1-1
 p7zip 1:17.04-3
 package-query 1.12-1

@@ -232,7 +232,7 @@ community/go 2:1.19.4-1
 extra/gobject-introspection 1.74.0-1
 extra/gobject-introspection-runtime 1.74.0-1
 archlinuxcn/goland 2022.3.1-1
-local/google-chrome 106.0.5249.119-1
+local/google-chrome 108.0.5359.124-1
 community/goreleaser 1.12.3-1
 extra/gpaste 43.0+r9+gdecb566d-1
 extra/gperftools 2.10-1
@@ -1145,6 +1145,7 @@ community/opusfile 0.12-3
 extra/orc 0.4.33-1
 community/os-prober 1.81-1
 community/osinfo-db 20221130-1
+community/osquery 5.7.0-1
 core/p11-kit 0.24.1-1
 extra/p7zip 1:17.04-3
 archlinuxcn/package-query 1.12-1

@@ -152,6 +152,7 @@ openbsd-netcat
 opendesktop-fonts
 openssh
 os-prober
+osquery
 pacman
 pacman-contrib
 pamac-aur

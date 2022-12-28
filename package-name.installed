@@ -71,7 +71,7 @@ gnome-font-viewer 43.0-1
 gnome-nettool 42.0-1
 go 2:1.19.4-1
 goland 2022.3.1-1
-google-chrome 106.0.5249.119-1
+google-chrome 108.0.5359.124-1
 goreleaser 1.12.3-1
 gpaste 43.0+r9+gdecb566d-1
 gpicview 0.2.5-7
@@ -152,6 +152,7 @@ openbsd-netcat 1.219_1-1
 opendesktop-fonts 1.4.2-6
 openssh 9.1p1-3
 os-prober 1.81-1
+osquery 5.7.0-1
 pacman 6.0.2-5
 pacman-contrib 1.8.0-1
 pamac-aur 10.4.3-1
