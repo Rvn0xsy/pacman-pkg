@@ -12,7 +12,7 @@ extra/adobe-source-serif-fonts 4.004-2
 extra/adwaita-cursors 43-2
 extra/adwaita-icon-theme 43-2
 extra/alacarte 1:3.44.2-1
-extra/alsa-card-profiles 1:0.3.63-1
+extra/alsa-card-profiles 1:0.3.63-3
 extra/alsa-lib 1.2.8-1
 extra/alsa-plugins 1:1.2.7.1-1
 extra/alsa-topology-conf 1.2.5.1-1
@@ -91,7 +91,7 @@ community/containerd 1.6.14-1
 extra/convertlit 1.8-11
 community/copyq 6.3.2-1
 core/coreutils 9.1-3
-extra/cpio 2.13-2
+extra/cpio 2.13-3
 core/cracklib 2.9.8-1
 core/cronie 1.6.1-1
 core/cryptsetup 2.6.0-1
@@ -126,7 +126,7 @@ community/docker-compose 2.14.2-1
 core/dosfstools 4.2-2
 extra/double-conversion 3.2.1-1
 community/dtc 1.6.1-4
-community/duktape 2.7.0-4
+community/duktape 2.7.0-5
 extra/dvd+rw-tools 7.1-9
 core/e2fsprogs 1.46.5-4
 extra/ebook-tools 0.2.2-7
@@ -721,7 +721,7 @@ multilib/lib32-pam 1.5.2-1
 multilib/lib32-pango 1:1.50.12-1
 multilib/lib32-pcre 8.45-3
 multilib/lib32-pcre2 10.40-3
-multilib/lib32-pipewire 1:0.3.63-1
+multilib/lib32-pipewire 1:0.3.63-3
 multilib/lib32-pixman 0.42.2-1
 multilib/lib32-readline 8.2.001-2
 multilib/lib32-rest 0.8.1-4
@@ -770,7 +770,7 @@ extra/libburn 1.5.4-1
 extra/libbytesize 2.7-1
 extra/libcaca 0.99.beta20-1
 extra/libcacard 2.7.0-2
-extra/libcamera 0.0.2-1
+extra/libcamera 0.0.3-1
 extra/libcanberra 1:0.30+r2+gc0620e4-2
 core/libcap 2.66-1
 core/libcap-ng 0.8.3-1
@@ -840,7 +840,7 @@ extra/libidn 1.41-1
 community/libidn11 1.33-2
 core/libidn2 2.3.4-3
 extra/libiec61883 1.2.0-7
-extra/libieee1284 0.2.11-13
+extra/libieee1284 0.2.11-14
 community/libimagequant 4.0.4-1
 extra/libimobiledevice 1.3.0-5
 community/libindicator-gtk2 12.10.1-10
@@ -854,7 +854,7 @@ community/libjcat 0.1.12-1
 extra/libjpeg-turbo 2.1.4-2
 community/libjpeg6-turbo 1.5.3-2
 community/libjxl 0.7.0-3
-extra/libkeybinder3 0.3.2-3
+extra/libkeybinder3 0.3.2-4
 extra/libksane 22.12.0-1
 core/libksba 1.6.2-1
 extra/libldac 2.0.2.3-1
@@ -873,7 +873,7 @@ extra/libmikmod 3.3.11.1-6
 extra/libmm-glib 1.20.2-1
 extra/libmng 2.0.3-3
 core/libmnl 1.0.5-1
-extra/libmodplug 0.8.9.0-3
+extra/libmodplug 0.8.9.0-4
 core/libmpc 1.3.1-1
 extra/libmpcdec 1:0.1+r475-3
 extra/libmpd 11.8.17-5
@@ -887,14 +887,14 @@ community/libnfs 5.0.2-1
 core/libnftnl 1.2.4-1
 core/libnghttp2 1.51.0-1
 core/libnl 3.7.0-1
-extra/libnm 1.40.8-1
+extra/libnm 1.40.8-2
 extra/libnma 1.10.4-3
 extra/libnma-common 1.10.4-3
 extra/libnotify 0.8.1-1
 core/libnsl 2.0.0-2
-extra/libnss_nis 3.1-3
+extra/libnss_nis 3.1-4
 extra/libogg 1.3.5-1
-extra/libomxil-bellagio 0.9.3-3
+extra/libomxil-bellagio 0.9.3-4
 community/libosinfo 1.10.0-2
 core/libp11-kit 0.24.1-1
 archlinuxcn/libpamac-aur 11.4.1-1
@@ -909,7 +909,7 @@ extra/libplacebo 4.208.0-1
 extra/libplist 2.2.0-5
 extra/libpng 1.6.39-1
 community/libpng12 1.2.59-2
-extra/libproxy 0.4.18-1
+extra/libproxy 0.4.18-2
 core/libpsl 0.21.1-3
 extra/libpst 0.6.76-8
 extra/libpulse 16.1-3
@@ -1043,7 +1043,7 @@ community/lsd 0.23.1-1
 extra/lsof 4.96.4-1
 community/lsscsi 0.32-1
 community/lttng-ust 2.13.3-1
-extra/lua 5.4.4-2
+extra/lua 5.4.4-3
 extra/lua-lpeg 1.0.2-4
 extra/lua52 5.2.4-5
 extra/lua53 5.3.6-1
@@ -1098,7 +1098,7 @@ extra/netpbm 10.73.41-1
 core/nettle 3.8.1-1
 extra/network-manager-applet 1.30.0-1
 community/network-manager-sstp 1.3.1-1
-extra/networkmanager 1.40.8-1
+extra/networkmanager 1.40.8-2
 community/networkmanager-l2tp 1.20.6-2
 extra/networkmanager-openvpn 1.10.2-1
 extra/networkmanager-qt 5.101.0-1 (kf5)
@@ -1175,50 +1175,50 @@ extra/perl-crypt-openssl-random 0.15-9
 extra/perl-crypt-openssl-rsa 0.33-2
 extra/perl-crypt-random-seed 0.03-7
 extra/perl-crypt-random-tesha2 0.01-8
-extra/perl-crypt-ssleay 0.73_06-2
+extra/perl-crypt-ssleay 0.73_06-3
 extra/perl-digest-hmac 1.04-3
-extra/perl-digest-sha1 2.13-17
-extra/perl-encode-locale 1.05-9
+extra/perl-digest-sha1 2.13-18
+extra/perl-encode-locale 1.05-10
 extra/perl-error 0.17029-4
 extra/perl-extutils-depends 0.8001-3
-extra/perl-extutils-pkgconfig 1.16-9
+extra/perl-extutils-pkgconfig 1.16-10
 extra/perl-file-listing 6.15-2
 extra/perl-html-parser 3.80-1
-extra/perl-html-tagset 3.20-12
+extra/perl-html-tagset 3.20-13
 extra/perl-http-cookies 6.10-3
 extra/perl-http-daemon 6.14-2
-extra/perl-http-date 6.05-5
+extra/perl-http-date 6.05-6
 extra/perl-http-message 6.44-1
-extra/perl-http-negotiate 6.01-10
+extra/perl-http-negotiate 6.01-11
 extra/perl-io-html 1.004-3
 extra/perl-io-socket-inet6 2.73-2
 extra/perl-io-socket-ssl 2.078-1
 community/perl-json 4.10-1
 extra/perl-libintl-perl 1.32-3
 extra/perl-libwww 6.67-1
-extra/perl-lwp-mediatypes 6.04-2
+extra/perl-lwp-mediatypes 6.04-3
 extra/perl-lwp-protocol-https 6.10-4
 extra/perl-mail-authenticationresults 2.20210915-2
 extra/perl-mail-dkim 1.20220520-1
-extra/perl-mail-spf 2.9.0-9
+extra/perl-mail-spf 2.9.0-10
 extra/perl-mailtools 2.21-6
 community/perl-math-random-isaac 1.004-9
 extra/perl-mozilla-ca 20221114-1
 extra/perl-net-dns 1.35-1
 extra/perl-net-http 6.22-2
-extra/perl-net-ip 1.26-10
+extra/perl-net-ip 1.26-11
 extra/perl-net-ssleay 1.92-2
-extra/perl-netaddr-ip 4.079-12
+extra/perl-netaddr-ip 4.079-13
 community/perl-path-class 0.37-8
 extra/perl-socket6 0.29-7
 extra/perl-timedate 2.33-4
 extra/perl-try-tiny 0.31-2
 extra/perl-uri 5.17-1
-extra/perl-www-robotrules 6.02-10
+extra/perl-www-robotrules 6.02-11
 extra/perl-xml-parser 2.46-4
 community/phodav 3.0-1
 core/pinentry 1.2.1-1
-extra/pipewire 1:0.3.63-1
+extra/pipewire 1:0.3.63-3
 extra/pixman 0.42.2-1
 extra/pkcs11-helper 1.29.0-2
 core/pkgconf 1.8.0-1 (base-devel)
@@ -1313,7 +1313,7 @@ community/python-pyquery 1.4.3-3
 extra/python-pyxdg 0.28-1
 extra/python-requests 2.28.1-1
 extra/python-resolvelib 0.9.0-1
-extra/python-retrying 1.3.3-14
+extra/python-retrying 1.3.3-15
 community/python-rich 12.6.0-2
 extra/python-setuptools 1:65.6.3-1
 extra/python-six 1.16.0-6
@@ -1365,7 +1365,7 @@ extra/qemu-ui-spice-core 7.2.0-1
 extra/qemu-virtiofsd 7.2.0-1
 community/qhexedit2 0.8.9-1
 local/qqmusic-bin 1.1.5-1
-extra/qrencode 4.1.1-1
+extra/qrencode 4.1.1-2
 extra/qscintilla-qt5 2.13.3-1
 extra/qt5-base 5.15.7+kde+r177-1 (qt qt5)
 extra/qt5-declarative 5.15.7+kde+r25-1 (qt qt5)
@@ -1402,7 +1402,7 @@ community/qtermwidget 1.2.0-1
 extra/rav1e 0.6.1-1
 community/rdesktop 1.9.0-2
 extra/re2 1:20221201-2
-extra/re2c 3.0-1
+extra/re2c 3.0-2
 core/readline 8.2.001-1
 local/red-tldr 0.4.3-1
 community/redis 7.0.7-1
@@ -1429,7 +1429,7 @@ community/ruby-csv 3.2.5-4
 community/ruby-date 3.2.2-4
 community/ruby-delegate 0.2.0-4
 community/ruby-did_you_mean 1.6.1-4
-community/ruby-digest 3.1.0-6
+community/ruby-digest 3.1.1-1
 community/ruby-drb 2.1.0-5
 community/ruby-english 0.7.1-5
 community/ruby-erb 4.0.2-1
@@ -1491,7 +1491,7 @@ extra/signon-plugin-oauth2 0.25-1
 extra/signon-ui 0.17+20171022-3
 extra/signond 8.61-1
 archlinuxcn/slack-desktop 4.29.149-1
-extra/slang 2.3.3-1
+extra/slang 2.3.3-2
 community/sleuthkit 4.11.1-1
 community/smpeg 2.0.0-2
 extra/snappy 1.1.9-2
@@ -1519,7 +1519,7 @@ community/sstp-client 1:1.0.18-1
 extra/startup-notification 0.12-7
 multilib/steam 1.0.0.75-1
 multilib/steam-native-runtime 1.0.0.75-2
-extra/strace 6.1-1
+extra/strace 6.1-2
 core/sudo 1.9.12.p1-1 (base-devel)
 community/supermin 5.3.2-1
 extra/svt-av1 1.4.1-1
@@ -1549,7 +1549,7 @@ extra/thunar-volman 4.18.0-1 (xfce4)
 extra/totem-pl-parser 3.26.6-2
 core/tpm2-tss 3.2.0-3
 extra/tracker3 3.4.2-1
-extra/tree 2.0.4-1
+extra/tree 2.1.0-1
 extra/tslib 1.22-1
 community/ttf-arphic-ukai 0.2.20080216.2-2
 community/ttf-arphic-uming 0.2.20080216.2-2
@@ -1573,7 +1573,7 @@ core/usbutils 015-2
 core/util-linux 2.38.1-1
 core/util-linux-libs 2.38.1-1
 community/v2ray 5.1.0-2
-community/v2ray-domain-list-community 20221226075817-1
+community/v2ray-domain-list-community 20221227080615-1
 community/v2ray-geoip 202212220043-1
 extra/v4l-utils 1.22.1-1
 extra/vala 0.56.3-1
