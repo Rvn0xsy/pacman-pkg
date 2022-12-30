@@ -189,6 +189,7 @@ slack-desktop
 socat
 sqlitebrowser
 sqlmap
+starship
 steam-native-runtime
 strace
 sudo
