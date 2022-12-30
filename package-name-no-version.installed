@@ -17,6 +17,7 @@ baidunetdisk-bin
 baobab
 base
 bash-completion
+bat
 bc
 bind
 binutils
@@ -25,6 +26,7 @@ bitwarden
 bluedevil
 bluez
 bluez-utils
+bottom
 brasero
 burpsuite-pro
 clash
@@ -335,5 +337,6 @@ xorg-xwud
 xsel
 yaourt
 youdao-dict
+zoxide
 zsh
 zsh-completions
