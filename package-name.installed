@@ -30,7 +30,6 @@ bottom 0.6.8-1
 brasero 3.12.3+r24+gd01ba738-1
 burpsuite-pro 2022.11.1-1
 clash 1.12.0-1
-clash-dashboard-git 0.3.0.r185.gaf47fa3-1
 copyq 6.3.2-1
 cronie 1.6.1-1
 dbeaver 22.3.1-1
@@ -226,7 +225,6 @@ virtualbox-guest-iso 7.0.4-1
 virtualbox-guest-utils 7.0.4-1
 visual-studio-code-bin 1.68.1-1
 vlc 3.0.18-4
-vmware-workstation 17.0.0-2
 vulkan-radeon 22.3.1-1
 wemeet-bin 3.10.0.401-1
 wget 1.21.3-1
