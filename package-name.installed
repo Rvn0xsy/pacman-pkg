@@ -113,6 +113,7 @@ lightdm-gtk-greeter-settings 1.2.2-7
 linux 6.1.1.arch1-1
 linux-firmware 20221214.f3c283e-1
 linux-headers 6.1.1.arch1-1
+linuxqq 3.0.0_571-2
 lsd 0.23.1-1
 lxqt-themes 1.2.0-1
 lzop 1.04-3
