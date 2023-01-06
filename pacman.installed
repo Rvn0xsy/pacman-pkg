@@ -169,6 +169,7 @@ flac 1.4.2-1
 flameshot-git r1859.685d0ee8-1
 flashrom 1.2-4
 flex 2.6.4-3
+fmt 9.1.0-3
 fontconfig 2:2.14.1-2
 freeglut 3.4.0-1
 freerdp 2:2.9.0-1
@@ -206,6 +207,7 @@ giflib 5.2.1-2
 git 2.39.0-1
 gjs 2:1.74.1-1
 glew1.10 1.10.0-3
+glfw-x11 3.3.8-1
 glib-networking 1:2.74.0-1
 glib-perl 1.329.3-3
 glib2 2.74.4-1
@@ -223,6 +225,7 @@ gnome-desktop-4 1:43-1
 gnome-desktop-common 1:43-1
 gnome-disk-utility 43.0-1
 gnome-font-viewer 43.0-1
+gnome-keyring 1:42.1-2
 gnome-menus 3.36.0-2
 gnome-nettool 42.0-1
 gnome-online-accounts 3.46.0-1
@@ -496,6 +499,7 @@ iease-music 1.3.4-1
 ijs 0.35-5
 imagemagick 7.1.0.57-1
 imath 3.1.6-1
+imhex-bin 1.26.2-1
 imlib2 1.10.0-1
 impacket 0.9.24-1
 inetutils 2.3-1
@@ -1072,7 +1076,7 @@ mesa 22.3.2-1
 mesa-utils 8.5.0-2
 meson 1.0.0-2
 metasploit 6.2.27-1
-microsoft-edge-stable-bin 106.0.1370.52-1
+microsoft-edge-stable-bin 108.0.1462.76-1
 mingw-w64-binutils 2.38-3
 mingw-w64-crt 10.0.0-1
 mingw-w64-gcc 12.2.0-1
@@ -1111,6 +1115,7 @@ networkmanager-vpnc 1.2.8-2
 nftables 1:1.0.6-1
 nilfs-utils 2.2.9-1
 ninja 1.11.1-2
+nlohmann-json 3.11.2-1
 nm-connection-editor 1.30.0-1
 nmap 7.93-1
 node-gyp 9.3.1-1
@@ -1644,6 +1649,9 @@ xcb-util-wm 0.4.2-1
 xcb-util-xrm 1.3-2
 xclip 0.13-3
 xdg-dbus-proxy 0.1.4-1
+xdg-desktop-portal 1.16.0-1
+xdg-desktop-portal-gnome 43.1-1
+xdg-desktop-portal-gtk 1.14.1-1
 xdg-utils 1.1.3+25+g8ae0263-1
 xf86-input-libinput 1.2.1-1
 xf86-video-amdgpu 22.0.0-1
