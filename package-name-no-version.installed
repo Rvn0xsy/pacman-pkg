@@ -241,6 +241,7 @@ wqy-microhei-lite
 wqy-zenhei
 xarchiver
 xclip
+xdg-user-dirs
 xf86-video-amdgpu
 xf86-video-vesa
 xfburn
@@ -335,7 +336,6 @@ xorg-xwayland
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
-xscreensaver-arch-logo
 xsel
 yaourt
 youdao-dict

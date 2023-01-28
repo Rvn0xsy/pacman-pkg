@@ -1659,6 +1659,7 @@ extra/xdg-dbus-proxy 0.1.4-1
 extra/xdg-desktop-portal 1.16.0-1
 extra/xdg-desktop-portal-gnome 43.1-1
 extra/xdg-desktop-portal-gtk 1.14.1-1
+extra/xdg-user-dirs 0.18-1
 extra/xdg-utils 1.1.3+25+g8ae0263-1
 extra/xf86-input-libinput 1.2.1-1 (xorg-drivers)
 extra/xf86-video-amdgpu 22.0.0-1 (xorg-drivers)
@@ -1766,7 +1767,6 @@ extra/xorg-xwd 1.0.8-1 (xorg-apps xorg)
 extra/xorg-xwininfo 1.1.5-3 (xorg-apps xorg)
 extra/xorg-xwud 1.0.6-1 (xorg-apps xorg)
 extra/xorgproto 2022.2-1
-archlinuxcn/xscreensaver-arch-logo 6.06-1
 community/xsel 1.2.0.20200527-2
 extra/xvidcore 1.3.7-2
 community/xxhash 0.8.1-3
