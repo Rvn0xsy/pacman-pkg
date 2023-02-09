@@ -20,7 +20,7 @@ bash-completion 2.11-3
 bat 0.22.1-1
 bc 1.07.1-4
 bind 9.18.11-1
-binutils 2.40-2
+binutils 2.40-4
 bison 3.8.2-4
 bitwarden 2023.1.1-1
 bluedevil 1:5.26.5-1
@@ -37,9 +37,9 @@ dbus-python 1.2.18-3
 dhcpcd 9.4.1-1
 discord 0.0.24-1
 diskus 0.7.0-2
-dnsmasq 2.88-1
+dnsmasq 2.89-1
 docker 1:20.10.23-1
-docker-compose 2.15.1-1
+docker-compose 2.16.0-1
 dosfstools 4.2-3
 ebtables 2.0.10_4-8
 edk2-ovmf 202211-3
@@ -48,7 +48,7 @@ engrampa 1.26.0-1
 evolution 3.46.3-3
 evolution-on 3.24.2-3
 exo 4.18.0-1
-fakeroot 1.30.1-1
+fakeroot 1.31-1
 fcitx 4.2.9.9-1
 fcitx-configtool 0.4.10-4
 fcitx-googlepinyin 0.1.6-7
@@ -63,7 +63,7 @@ fwupd 1.8.10-1
 fwupd-efi 1.4-1
 garcon 4.18.0-1
 gawk 5.2.1-1
-gcc 12.2.1-1
+gcc 12.2.1-2
 gdb 12.1-2
 gettext 0.21.1-2
 gnome-calculator 43.0.1-1
@@ -102,7 +102,7 @@ lib32-libpcap 1.10.3-1
 lib32-mesa 22.3.4-1
 lib32-vulkan-radeon 22.3.4-1
 libguestfs 1.48.6-2
-libtool 2.4.7+4+g1ec8fa28-1
+libtool 2.4.7+4+g1ec8fa28-2
 libvirt 1:9.0.0-1
 libxfce4ui 4.18.1-1
 libxfce4util 4.18.1-1
@@ -110,9 +110,9 @@ liferea 1.14.0-1
 lightdm 1:1.32.0-4
 lightdm-gtk-greeter 1:2.0.8-3
 lightdm-gtk-greeter-settings 1.2.2-7
-linux 6.1.9.arch1-1
+linux 6.1.10.arch1-1
 linux-firmware 20230117.7e4f0ed-1
-linux-headers 6.1.9.arch1-1
+linux-headers 6.1.10.arch1-1
 linuxqq 3.0.0_571-2
 lsd 0.23.1-1
 lxqt-themes 1.2.0-1
@@ -120,7 +120,7 @@ lzop 1.04-3
 m4 1.4.19-2
 make 4.4-1
 man-pages 6.02-1
-man-pages-zh_cn 1.6.4.0-1
+man-pages-zh_cn 1.6.4.0-2
 masscan 1.3.2-1
 maven 3.8.7-1
 mesa-utils 8.5.0-2
@@ -164,7 +164,7 @@ parole 4.16.0-1
 patch 2.7.6-8
 pavucontrol 1:5.0+r61+gee77d86-2
 pkgconf 1.8.0-1
-pnpm 7.26.3-1
+pnpm 7.27.0-1
 postgresql 15.1-1
 powershell-bin 7.3.0-1
 proxychains-ng 4.16-2
@@ -197,11 +197,11 @@ steam-native-runtime 1.0.0.75-2
 strace 6.1-2
 sudo 1.9.12.p2-1
 swaks 20201014.0-1
-telegram-desktop 4.5.3-1
+telegram-desktop 4.6.1-1
 texinfo 7.0.2-1
 thunar 4.18.3-1
 thunar-archive-plugin 0.5.0-2
-thunar-media-tags-plugin 0.3.0-2
+thunar-media-tags-plugin 0.4.0-1
 thunar-volman 4.18.0-1
 todesk 4.1.0-e
 tokei 12.1.2-1
@@ -297,12 +297,12 @@ xorg-fonts-75dpi 1.0.3-8
 xorg-fonts-encodings 1.0.6-1
 xorg-iceauth 1.0.9-1
 xorg-mkfontscale 1.2.2-1
-xorg-server 21.1.6-1
-xorg-server-common 21.1.6-1
-xorg-server-devel 21.1.6-1
-xorg-server-xephyr 21.1.6-1
-xorg-server-xnest 21.1.6-1
-xorg-server-xvfb 21.1.6-1
+xorg-server 21.1.7-1
+xorg-server-common 21.1.7-1
+xorg-server-devel 21.1.7-1
+xorg-server-xephyr 21.1.7-1
+xorg-server-xnest 21.1.7-1
+xorg-server-xvfb 21.1.7-1
 xorg-sessreg 1.1.3-1
 xorg-setxkbmap 1.3.3-1
 xorg-smproxy 1.0.7-1
@@ -341,5 +341,5 @@ xsel 1.2.0.20200527-2
 yaourt 1.9-1
 youdao-dict 6.0.0-4
 zoxide 0.9.0-1
-zsh 5.9-2
+zsh 5.9-3
 zsh-completions 0.34.0-3
