@@ -66,6 +66,7 @@ gawk 5.2.1-1
 gcc 12.2.1-2
 gdb 13.1-1
 gettext 0.21.1-2
+github-desktop-bin 3.1.8.linux1-1
 gnome-calculator 43.0.1-1
 gnome-disk-utility 43.0-1
 gnome-font-viewer 43.0-1

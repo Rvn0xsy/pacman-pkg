@@ -206,6 +206,7 @@ ghc-libs 9.0.2-3
 ghostscript 10.0.0-5
 giflib 5.2.1-2
 git 2.39.2-1
+github-desktop-bin 3.1.8.linux1-1
 gjs 2:1.74.2-1
 glew1.10 1.10.0-3
 glfw-x11 3.3.8-1

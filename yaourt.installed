@@ -206,6 +206,7 @@ community/ghc-libs 9.0.2-3
 extra/ghostscript 10.0.0-5
 extra/giflib 5.2.1-2
 extra/git 2.39.2-1
+archlinuxcn/github-desktop-bin 3.1.8.linux1-1
 extra/gjs 2:1.74.2-1
 community/glew1.10 1.10.0-3
 community/glfw-x11 3.3.8-1
