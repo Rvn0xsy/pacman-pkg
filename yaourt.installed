@@ -1012,6 +1012,7 @@ extra/libxaw 1.0.15-1
 extra/libxcb 1.15-2
 extra/libxcomposite 0.4.6-1
 core/libxcrypt 4.4.33-1
+core/libxcrypt-compat 4.4.33-1
 extra/libxcursor 1.2.1-3
 extra/libxcvt 0.1.2-1
 extra/libxdamage 1.1.6-1
@@ -1630,6 +1631,8 @@ community/virtualbox-host-dkms 7.0.6-3
 local/visual-studio-code-bin 1.68.1-1
 extra/vlc 3.0.18-7
 community/vmaf 2.3.1-1
+archlinuxcn/vmware-keymaps 17.0.1-1
+archlinuxcn/vmware-workstation 17.0.1-1
 extra/volume_key 0.3.12-7
 extra/vpnc 1:0.5.3.r526.r213-1
 extra/vte-common 0.70.3-1

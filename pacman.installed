@@ -1012,6 +1012,7 @@ libxaw 1.0.15-1
 libxcb 1.15-2
 libxcomposite 0.4.6-1
 libxcrypt 4.4.33-1
+libxcrypt-compat 4.4.33-1
 libxcursor 1.2.1-3
 libxcvt 0.1.2-1
 libxdamage 1.1.6-1
@@ -1630,6 +1631,8 @@ virtualbox-host-dkms 7.0.6-3
 visual-studio-code-bin 1.68.1-1
 vlc 3.0.18-7
 vmaf 2.3.1-1
+vmware-keymaps 17.0.1-1
+vmware-workstation 17.0.1-1
 volume_key 0.3.12-7
 vpnc 1:0.5.3.r526.r213-1
 vte-common 0.70.3-1
