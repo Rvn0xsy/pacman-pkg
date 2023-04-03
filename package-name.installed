@@ -38,7 +38,7 @@ dhcpcd 9.4.1-1
 discord 0.0.26-1
 diskus 0.7.0-2
 dnsmasq 2.89-1
-docker 1:23.0.1-1
+docker 1:23.0.2-1
 docker-compose 2.17.2-1
 dosfstools 4.2-3
 ebtables 2.0.10_4-8
@@ -65,7 +65,7 @@ garcon 4.18.1-1
 gawk 5.2.1-2
 gcc 12.2.1-2
 gdb 13.1-2
-gettext 0.21.1-4
+gettext 0.21.1-5
 github-desktop-bin 3.2.0.linux1-2
 gnome-calculator 43.0.1-1
 gnome-disk-utility 44.0-1
@@ -107,13 +107,13 @@ libtool 2.4.7+4+g1ec8fa28-2
 libvirt 1:9.1.0-1
 libxfce4ui 4.18.3-1
 libxfce4util 4.18.1-1
-liferea 1.14.3-2
+liferea 1.14.4-1
 lightdm 1:1.32.0-4
 lightdm-gtk-greeter 1:2.0.8-3
 lightdm-gtk-greeter-settings 1.2.2-7
-linux 6.2.8.arch1-1
+linux 6.2.9.arch1-1
 linux-firmware 20230210.bf4115c-1
-linux-headers 6.2.8.arch1-1
+linux-headers 6.2.9.arch1-1
 linuxqq 3.0.0_571-2
 lsd 0.23.1-1
 lxqt-themes 1.2.0-1
@@ -143,10 +143,10 @@ networkmanager-qt 5.104.0-1
 networkmanager-vpnc 1.2.8-2
 nmap 7.93-1
 nodejs 19.8.1-1
-noto-fonts 20230301-1
+noto-fonts 20230401-1
 noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20220920-1
-noto-fonts-extra 20230301-1
+noto-fonts-extra 20230401-1
 npm 8.19.2-1
 ntfs-3g 2022.10.3-1
 numix-circle-icon-theme-git 23.03.19.r0.g57e585d-1
@@ -200,7 +200,7 @@ strace 6.2-1
 sudo 1.9.13.p3-1
 swaks 20201014.0-1
 telegram-desktop 4.7.1-1
-texinfo 7.0.2-2
+texinfo 7.0.3-1
 thunar 4.18.4-1
 thunar-archive-plugin 0.5.1-1
 thunar-media-tags-plugin 0.4.0-1
