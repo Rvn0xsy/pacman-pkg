@@ -996,6 +996,7 @@ community/liburcu 0.14.0-1
 extra/liburing 2.3-1
 core/libusb 1.0.26-2
 extra/libusbmuxd 2.0.2-1
+extra/libutempter 1.2.1-3
 extra/libuv 1.44.2-1
 extra/libva 2.18.0-1
 extra/libvdpau 1.5-1
@@ -1588,6 +1589,7 @@ extra/thunar 4.18.6-1 (xfce4)
 extra/thunar-archive-plugin 0.5.1-1 (xfce4-goodies)
 extra/thunar-media-tags-plugin 0.4.0-1 (xfce4-goodies)
 extra/thunar-volman 4.18.0-1 (xfce4)
+community/tmux 3.3_a-3
 local/todesk 4.1.0-e
 community/tokei 12.1.2-1
 extra/totem-pl-parser 3.26.6-2
@@ -1622,6 +1624,7 @@ community/v2ray 5.4.1-1
 community/v2ray-domain-list-community 20230502154455-1
 community/v2ray-geoip 202304270044-1
 extra/v4l-utils 1.24.1-1
+community/vagrant 2.3.4-1
 extra/vala 0.56.7-1
 extra/vde2 2.3.3-3
 extra/vid.stab 1.1.1-1
