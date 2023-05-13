@@ -1107,6 +1107,7 @@ extra/md4c 0.4.8-1
 core/mdadm 4.2-2
 extra/media-player-info 24-2
 extra/mesa 23.0.3-1
+extra/mesa-demos 9.0.0-2
 extra/mesa-utils 9.0.0-2
 extra/meson 1.1.0-1
 community/metasploit 6.3.15-1
@@ -1135,6 +1136,7 @@ community/neofetch 7.1.0-2
 archlinuxcn/nerd-fonts-3270 2.2.2-1
 extra/net-snmp 5.9.1-6
 core/net-tools 2.10-2
+local/net.winegame.client 0.5.10.5-1
 extra/netpbm 10.73.43-1
 core/nettle 3.8.1-1
 extra/network-manager-applet 1.32.0-2
