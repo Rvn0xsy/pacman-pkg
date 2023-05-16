@@ -30,6 +30,8 @@ bottom
 brasero
 burpsuite
 clash
+cloudflare-warp-bin
+cloudflarespeedtest
 copyq
 cronie
 dbeaver
@@ -49,11 +51,13 @@ evolution
 evolution-on
 exo
 fakeroot
-fcitx
-fcitx-configtool
-fcitx-googlepinyin
-fcitx-qt5
-fcitx-qt6
+fcitx5
+fcitx5-chinese-addons
+fcitx5-configtool
+fcitx5-gtk
+fcitx5-material-color
+fcitx5-pinyin-zhwiki
+fcitx5-qt
 feishu-bin
 file
 findutils
@@ -347,7 +351,6 @@ xorg-xwininfo
 xorg-xwud
 xsel
 yaourt
-youdao-dict
 zoxide
 zsh
 zsh-completions
