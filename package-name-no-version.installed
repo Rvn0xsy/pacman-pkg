@@ -6,6 +6,7 @@ adobe-source-serif-fonts
 alacarte
 arc-gtk-theme
 arc-icon-theme
+archlinux-wallpaper
 archlinuxcn-keyring
 aria2
 arj
@@ -133,6 +134,7 @@ mtools
 nasm
 neofetch
 nerd-fonts-3270
+nerd-fonts-source-code-pro
 net-tools
 net.winegame.client
 network-manager-applet
