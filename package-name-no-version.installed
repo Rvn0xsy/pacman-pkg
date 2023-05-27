@@ -134,7 +134,6 @@ mtools
 nasm
 neofetch
 nerd-fonts-3270
-nerd-fonts-source-code-pro
 net-tools
 net.winegame.client
 network-manager-applet
@@ -204,6 +203,7 @@ sudo
 swaks
 telegram-desktop
 texinfo
+thunar
 tmux
 todesk
 tokei
@@ -212,6 +212,7 @@ ttf-arphic-ukai
 ttf-arphic-uming
 ttf-dejavu
 ttf-hannom
+ttf-sourcecodepro-nerd
 ttf-wps-fonts
 udiskie
 uget
