@@ -33,6 +33,7 @@ burpsuite
 clash
 cloudflare-warp-bin
 cloudflarespeedtest
+compton-tryone-git
 copyq
 cronie
 dbeaver
@@ -90,6 +91,8 @@ gvfs
 gzip
 hashcat
 htop
+i3-wm
+i3status
 iease-music
 imhex-bin
 impacket
@@ -112,6 +115,8 @@ libtool
 libvirt
 libxfce4util
 liferea
+lightdm
+lightdm-webkit2-greeter
 linux
 linux-firmware
 linux-headers
@@ -168,6 +173,7 @@ pavucontrol
 pcmanfm
 pkgconf
 pnpm
+polybar
 postgresql
 powershell-bin
 proxychains-ng

@@ -3,6 +3,7 @@ a52dec 0.8.0-1
 aalib 1.4rc5-15
 abseil-cpp 20230125.1-2
 accounts-qml-module 0.7-4
+accountsservice 23.13.9-1
 acl 2.3.1-3
 adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-1
 adobe-source-han-sans-cn-fonts 2.004-1
@@ -93,6 +94,7 @@ clutter-gtk 1.8.4-3
 cmake 3.26.4-1
 cmark 0.30.3-1
 cogl 1.22.8-2
+compton-tryone-git 0.1_beta2.99.g6e49259-1
 confuse 3.3-3
 containerd 1.7.1-1
 convertlit 1.8-11
@@ -229,6 +231,7 @@ glslang 12.1.0-2
 glu 9.0.2-3
 gmp 6.2.1-2
 gnome-autoar 0.4.4-1
+gnome-backgrounds 44.0-1
 gnome-calculator 44.0-1
 gnome-desktop 1:44.0-1
 gnome-desktop-4 1:44.0-1
@@ -516,6 +519,8 @@ hunspell 1.7.2-1
 hwdata 0.370-1
 hwloc 2.9.1-1
 hyphen 2.8.8-5
+i3-wm 4.22-4
+i3status 2.14-1
 iana-etc 20230405-1
 icu 72.1-2
 iease-music 1.3.4-1
@@ -835,6 +840,7 @@ libebur128 1.2.6-1
 libedit 20221030_3.1-1
 libelf 0.189-1
 libepoxy 1.5.10-2
+libev 4.33-2
 libevdev 1.13.1-1
 libevent 2.1.12-4
 libewf 20140608-6
@@ -911,6 +917,7 @@ libmnl 1.0.5-1
 libmodplug 0.8.9.0-5
 libmpc 1.3.1-1
 libmpcdec 1:0.1+r475-3
+libmpdclient 2.20-3
 libmpeg2 0.5.1-7
 libndp 1.8-1
 libnet 1:1.1.6-1
@@ -1042,6 +1049,7 @@ libxinerama 1.1.5-1
 libxkbcommon 1.5.0-1
 libxkbcommon-x11 1.5.0-1
 libxkbfile 1.1.2-1
+libxklavier 5.4-4
 libxml2 2.10.4-4
 libxmlb 0.3.11-1
 libxmu 1.1.4-1
@@ -1061,6 +1069,8 @@ libyuv r2322+3aebf69d-1
 libzip 1.9.2-1
 licenses 20220125-2
 liferea 1.14.5-1
+lightdm 1:1.32.0-4
+lightdm-webkit2-greeter 2.2.5-7
 lilv 0.24.20-2
 linux 6.3.4.arch1-1
 linux-api-headers 6.3-1
@@ -1266,6 +1276,7 @@ pkgconf 1.8.1-1
 pnpm 8.5.1-1
 polkit 122-1
 polkit-qt5 0.114.0-1
+polybar 3.6.3-3
 poppler 23.05.0-1
 poppler-data 0.4.12-1
 poppler-glib 23.05.0-1
@@ -1643,6 +1654,7 @@ wayland-protocols 1.31-1
 webkit2gtk 2.40.1-2
 webkit2gtk-4.1 2.40.1-2
 webkit2gtk-5.0 2.38.6-1
+webp-pixbuf-loader 0.2.4-1
 webrtc-audio-processing 0.3.1-3
 wemeet-bin 3.14.0.401-1
 wget 1.21.4-1
