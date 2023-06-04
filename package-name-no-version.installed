@@ -4,6 +4,7 @@ adobe-source-han-serif-cn-fonts
 adobe-source-sans-fonts
 adobe-source-serif-fonts
 alacarte
+alacritty
 arc-gtk-theme
 arc-icon-theme
 archlinux-wallpaper
@@ -33,7 +34,6 @@ burpsuite
 clash
 cloudflare-warp-bin
 cloudflarespeedtest
-compton-tryone-git
 copyq
 cronie
 dbeaver
@@ -45,6 +45,7 @@ dnsmasq
 docker
 docker-compose
 dosfstools
+dunst
 ebtables
 edk2-ovmf
 efibootmgr
@@ -88,10 +89,13 @@ groff
 grub
 gthumb
 gvfs
+gvfs-mtp
 gzip
 hashcat
 htop
 i3-wm
+i3blocks
+i3lock
 i3status
 iease-music
 imhex-bin
@@ -123,6 +127,7 @@ linux-headers
 linuxqq
 lsd
 lutris-git
+lxappearance
 lxqt-themes
 lzop
 m4
@@ -135,6 +140,7 @@ mesa-utils
 metasploit
 microsoft-edge-stable-bin
 mingw-w64-gcc
+mpd
 mtools
 nasm
 neofetch
@@ -171,12 +177,14 @@ papirus-icon-theme
 patch
 pavucontrol
 pcmanfm
+picom
 pkgconf
 pnpm
 polybar
 postgresql
 powershell-bin
 proxychains-ng
+pulseaudio-alsa
 pulseaudio-bluetooth
 pwgen
 pycharm-community-edition
@@ -307,6 +315,7 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 xsel
+xss-lock
 yaourt
 zoxide
 zsh
