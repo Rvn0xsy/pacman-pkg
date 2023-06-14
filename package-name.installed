@@ -92,6 +92,7 @@ gvfs 1.50.4-3
 gvfs-mtp 1.50.4-3
 gzip 1.12-2
 hashcat 1:6.2.6-1
+helix 23.05-1
 htop 3.2.2-1
 i3-wm 4.22-4
 i3blocks 1.5-3
@@ -120,6 +121,7 @@ libvirt 1:9.4.0-1
 libxfce4util 4.18.1-1
 liferea 1.14.5-1
 lightdm 1:1.32.0-4
+lightdm-gtk-greeter 1:2.0.8-3
 lightdm-webkit2-greeter 2.2.5-7
 linux 6.3.5.arch1-1
 linux-firmware 20230404.2e92a49f-1

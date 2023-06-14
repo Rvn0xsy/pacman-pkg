@@ -514,6 +514,7 @@ extra/haskell-xml-types 0.3.8-8
 extra/haskell-yaml 0.11.11.0-14
 extra/haskell-zip-archive 0.4.3-4
 extra/haskell-zlib 0.6.3.0-38
+extra/helix 23.05-1
 extra/hicolor-icon-theme 0.17-3
 extra/hidapi 0.14.0-1
 extra/highlight 4.5-1
@@ -1085,6 +1086,7 @@ extra/libzip 1.9.2-1
 core/licenses 20220125-2
 extra/liferea 1.14.5-1
 extra/lightdm 1:1.32.0-4
+extra/lightdm-gtk-greeter 1:2.0.8-3
 extra/lightdm-webkit2-greeter 2.2.5-7
 extra/lilv 0.24.20-2
 core/linux 6.3.5.arch1-1

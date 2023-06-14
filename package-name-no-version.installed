@@ -92,6 +92,7 @@ gvfs
 gvfs-mtp
 gzip
 hashcat
+helix
 htop
 i3-wm
 i3blocks
@@ -120,6 +121,7 @@ libvirt
 libxfce4util
 liferea
 lightdm
+lightdm-gtk-greeter
 lightdm-webkit2-greeter
 linux
 linux-firmware

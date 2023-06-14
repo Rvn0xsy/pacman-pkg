@@ -514,6 +514,7 @@ haskell-xml-types 0.3.8-8
 haskell-yaml 0.11.11.0-14
 haskell-zip-archive 0.4.3-4
 haskell-zlib 0.6.3.0-38
+helix 23.05-1
 hicolor-icon-theme 0.17-3
 hidapi 0.14.0-1
 highlight 4.5-1
@@ -1085,6 +1086,7 @@ libzip 1.9.2-1
 licenses 20220125-2
 liferea 1.14.5-1
 lightdm 1:1.32.0-4
+lightdm-gtk-greeter 1:2.0.8-3
 lightdm-webkit2-greeter 2.2.5-7
 lilv 0.24.20-2
 linux 6.3.5.arch1-1
