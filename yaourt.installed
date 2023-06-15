@@ -137,7 +137,7 @@ extra/docker-compose 2.18.1-1
 core/dosfstools 4.2-3
 extra/double-conversion 3.3.0-1
 extra/dtc 1.7.0-4
-extra/duktape 2.7.0-5
+extra/duktape 2.7.0-6
 extra/dunst 1.9.2-1
 extra/dvd+rw-tools 7.1-9
 core/e2fsprogs 1.47.0-1
@@ -146,10 +146,10 @@ archlinuxcn/ebtables 2.0.10_4-8
 extra/edk2-ovmf 202305-1
 core/efibootmgr 18-2
 core/efivar 38-3
-extra/electron 22.3.12-2
+extra/electron 22.3.13-1
 extra/electron19 19.1.9-5
 extra/electron21 21.4.4-1
-extra/electron24 24.5.0-2
+extra/electron24 24.5.1-1
 extra/enchant 2.3.4-1
 extra/engrampa 1.26.1-1 (mate-extra)
 extra/evolution 3.48.3-1 (gnome-extra)
@@ -171,7 +171,7 @@ extra/fcitx5-configtool 5.0.17-1 (fcitx5-im)
 extra/fcitx5-gtk 5.0.23-1 (fcitx5-im)
 extra/fcitx5-material-color 0.2.1-1
 extra/fcitx5-pinyin-zhwiki 1:0.2.4.20230605-1
-extra/fcitx5-qt 5.0.17-5 (fcitx5-im)
+extra/fcitx5-qt 5.0.17-6 (fcitx5-im)
 extra/feh 3.10-1
 archlinuxcn/feishu-bin 6.1.12-1
 extra/ffmpeg 2:6.0-8
@@ -231,7 +231,7 @@ core/glib2-docs 2.76.3-1
 core/glibc 2.37-3
 extra/glibmm 2.66.6-1
 extra/glibmm-2.68 2.76.0-1
-extra/glslang 12.1.0-2
+extra/glslang 12.2.0-1
 extra/glu 9.0.2-3
 core/gmp 6.2.1-2
 extra/gnome-autoar 0.4.4-1
@@ -600,7 +600,7 @@ extra/kglobalaccel 5.107.0-1 (kf5)
 extra/kguiaddons 5.107.0-1 (kf5)
 extra/ki18n 5.107.0-1 (kf5)
 extra/kiconthemes 5.107.0-1 (kf5)
-extra/kio 5.107.0-1 (kf5)
+extra/kio 5.107.0-2 (kf5)
 extra/kirigami2 5.107.0-1 (kf5)
 extra/kitemviews 5.107.0-1 (kf5)
 extra/kjobwidgets 5.107.0-1 (kf5)
@@ -913,7 +913,7 @@ extra/libisofs 1.5.6-1
 extra/libjcat 0.1.13-2
 extra/libjpeg-turbo 2.1.5.1-1
 extra/libjpeg6-turbo 1.5.3-2
-extra/libjxl 0.8.1-2
+extra/libjxl 0.8.2-1
 extra/libksane 23.04.2-1
 core/libksba 1.6.3-1
 extra/libldac 2.0.2.3-1
@@ -1109,7 +1109,7 @@ extra/lua 5.4.6-1
 extra/lua-lpeg 1.0.2-4
 extra/lua52 5.2.4-5
 extra/lua53 5.3.6-1
-archlinuxcn/lutris-git 0.5.13.r114.gcf86fe60e-1
+archlinuxcn/lutris-git 0.5.13.r120.g92fe3935b-2
 extra/lv2 1.18.10-1
 core/lvm2 2.03.21-1
 extra/lxappearance 0.6.3-4 (lxde)
@@ -1161,6 +1161,7 @@ extra/neofetch 7.1.0-2
 archlinuxcn/nerd-fonts-3270 2.2.2-1
 extra/net-snmp 5.9.1-6
 core/net-tools 2.10-2
+archlinuxcn/netease-cloud-music 1.2.1-7
 extra/netpbm 10.73.43-1
 core/nettle 3.9.1-1
 extra/network-manager-applet 1.32.0-3
@@ -1176,7 +1177,7 @@ extra/ninja 1.11.1-3
 extra/nlohmann-json 3.11.2-1
 extra/nm-connection-editor 1.32.0-3
 extra/nmap 7.94-1
-extra/node-gyp 9.3.1-1
+extra/node-gyp 9.4.0-1
 extra/nodejs 20.3.0-1
 extra/nodejs-nopt 7.1.0-1
 extra/noto-fonts 20230601-1
@@ -1434,22 +1435,22 @@ extra/qemu-ui-spice-core 8.0.2-1
 extra/qhexedit2 0.8.9-1
 local/qqmusic-bin 1.1.5-1
 extra/qscintilla-qt5 2.14.0-2
-extra/qt5-base 5.15.9+kde+r155-1 (qt qt5)
-extra/qt5-declarative 5.15.9+kde+r26-1 (qt qt5)
-extra/qt5-graphicaleffects 5.15.9-1 (qt qt5)
-extra/qt5-location 5.15.9+kde+r4-1 (qt qt5)
-extra/qt5-multimedia 5.15.9+kde+r3-1 (qt qt5)
-extra/qt5-networkauth 5.15.9-1 (qt qt5)
-extra/qt5-quickcontrols 5.15.9-1 (qt qt5)
-extra/qt5-quickcontrols2 5.15.9+kde+r6-1 (qt qt5)
-extra/qt5-speech 5.15.9+kde+r1-1 (qt qt5)
-extra/qt5-svg 5.15.9+kde+r8-1 (qt qt5)
-extra/qt5-tools 5.15.9+kde+r1-1 (qt qt5)
-extra/qt5-translations 5.15.9-1 (qt qt5)
-extra/qt5-wayland 5.15.9+kde+r55-1 (qt qt5)
-extra/qt5-webchannel 5.15.9+kde+r3-1 (qt qt5)
-extra/qt5-webengine 5.15.14-1 (qt qt5)
-extra/qt5-x11extras 5.15.9-1 (qt qt5)
+extra/qt5-base 5.15.10+kde+r129-1 (qt qt5)
+extra/qt5-declarative 5.15.10+kde+r26-1 (qt qt5)
+extra/qt5-graphicaleffects 5.15.10-1 (qt qt5)
+extra/qt5-location 5.15.10+kde+r4-1 (qt qt5)
+extra/qt5-multimedia 5.15.10+kde+r3-1 (qt qt5)
+extra/qt5-networkauth 5.15.10-1 (qt qt5)
+extra/qt5-quickcontrols 5.15.10-1 (qt qt5)
+extra/qt5-quickcontrols2 5.15.10+kde+r6-1 (qt qt5)
+extra/qt5-speech 5.15.10+kde+r1-1 (qt qt5)
+extra/qt5-svg 5.15.10+kde+r8-1 (qt qt5)
+extra/qt5-tools 5.15.10+kde+r3-1 (qt qt5)
+extra/qt5-translations 5.15.10-1 (qt qt5)
+extra/qt5-wayland 5.15.10+kde+r51-1 (qt qt5)
+extra/qt5-webchannel 5.15.10+kde+r3-1 (qt qt5)
+extra/qt5-webengine 5.15.14-2 (qt qt5)
+extra/qt5-x11extras 5.15.10-1 (qt qt5)
 extra/qt6-5compat 6.5.1-1 (qt6)
 extra/qt6-base 6.5.1-2 (qt6)
 extra/qt6-declarative 6.5.1-1 (qt6)
@@ -1537,6 +1538,7 @@ extra/rust 1:1.70.0-1
 extra/sane 1.2.1-4
 extra/sbc 2.0-1
 extra/screenkey 1.5-3
+extra/sddm 0.19.0-9
 extra/sdl12-compat 1.2.64-1
 extra/sdl2 2.26.5-2
 extra/sdl2_image 2.6.3-1
@@ -1603,7 +1605,7 @@ extra/taglib 1.13-1
 core/tar 1.34-2
 extra/tcl 8.6.13-1
 extra/tdb 1.4.8-2
-extra/telegram-desktop 4.8.3-1
+extra/telegram-desktop 4.8.4-1
 core/texinfo 7.0.3-1
 core/thin-provisioning-tools 1.0.4-1
 extra/thunar 4.18.6-1 (xfce4)
@@ -1638,8 +1640,8 @@ core/usbutils 015-3
 core/util-linux 2.39-9
 core/util-linux-libs 2.39-9
 extra/v2ray 5.7.0-1
-extra/v2ray-domain-list-community 20230614021741-1
-extra/v2ray-geoip 202306080049-1
+extra/v2ray-domain-list-community 20230614081211-1
+extra/v2ray-geoip 202306150049-1
 extra/v4l-utils 1.24.1-2
 extra/vagrant 2.3.6-1
 extra/vala 0.56.8-1
