@@ -15,7 +15,6 @@ atril
 autoconf
 automake
 axel
-baidunetdisk-bin
 baobab
 base
 bash-completion
@@ -32,7 +31,6 @@ bottom
 brasero
 burpsuite
 clash
-cloudflare-warp-bin
 cloudflarespeedtest
 copyq
 cronie
@@ -120,13 +118,9 @@ libtool
 libvirt
 libxfce4util
 liferea
-lightdm
-lightdm-gtk-greeter
-lightdm-webkit2-greeter
 linux
 linux-firmware
 linux-headers
-linuxqq
 lsd
 lutris-git
 lxappearance
@@ -148,7 +142,6 @@ nasm
 neofetch
 nerd-fonts-3270
 net-tools
-net.winegame.client
 network-manager-applet
 network-manager-sstp
 networkmanager
@@ -221,7 +214,6 @@ telegram-desktop
 texinfo
 thunar
 tmux
-todesk
 tokei
 tree
 ttf-arphic-ukai
