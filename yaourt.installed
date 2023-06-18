@@ -38,7 +38,6 @@ extra/attica 5.107.0-1 (kf5)
 core/attr 2.5.1-3
 extra/audiofile 0.3.6-8
 core/audit 3.1.1-1
-extra/augeas 1.14.0-1
 core/autoconf 2.71-4
 core/automake 1.16.5-2
 extra/avahi 1:0.8+r22+gfd482a7-1
@@ -69,7 +68,6 @@ extra/brasero 3.12.3+r24+gd01ba738-1
 extra/breeze-icons 5.107.0-1 (kf5)
 extra/bridge-utils 1.7.1-1
 core/brotli 1.0.9-12
-core/btrfs-progs 6.3.1-1
 extra/bubblewrap 0.8.0-1
 local/burpsuite 2023.3.5-1
 core/bzip2 1.0.8-5
@@ -116,12 +114,10 @@ core/dbus 1.14.8-1
 extra/dbus-glib 0.112-3
 extra/dbus-python 1.3.2-2
 extra/dconf 0.40.0-2
-extra/debootstrap 1.0.128-1
 core/debugedit 5.0-5
 extra/default-cursors 2-1
 extra/desktop-file-utils 0.26-2
 core/device-mapper 2.03.21-1
-core/dhcpcd 10.0.1-1
 core/diffutils 3.10-1
 extra/discord 0.0.27-2
 extra/diskus 0.7.0-2
@@ -157,11 +153,9 @@ extra/evolution-bogofilter 3.48.3-1
 extra/evolution-data-server 3.48.3-1
 extra/evolution-on 3.24.2-3
 extra/evolution-spamassassin 3.48.3-1
-extra/exfatprogs 1.2.1-1
 extra/exiv2 0.28.0-1
 extra/exo 4.18.0-1 (xfce4)
 core/expat 2.5.0-1
-extra/f2fs-tools 1.16.0-2
 extra/faad2 2.10.1-1
 extra/fakechroot 2.20.1-2
 core/fakeroot 1.31-2
@@ -525,7 +519,6 @@ extra/hicolor-icon-theme 0.17-3
 extra/hidapi 0.14.0-1
 extra/highlight 4.5-1
 extra/highway 1.0.4-1
-extra/hivex 1.3.23-1
 extra/hslua-cli 1.4.1-2
 extra/htop 3.2.2-1
 extra/http-parser 2.9.4-1
@@ -563,7 +556,6 @@ extra/jdk11-openjdk 11.0.19.u7-1
 extra/jdk17-openjdk 17.0.7.u7-1
 extra/jdk8-openjdk 8.372.u07-1
 extra/jemalloc 1:5.3.0-2
-core/jfsutils 1.1.15-8
 extra/jq 1.6-4
 archlinuxcn/jre 20-1
 extra/jre11-openjdk 11.0.19.u7-1
@@ -858,7 +850,6 @@ extra/libepoxy 1.5.10-2
 extra/libev 4.33-2
 extra/libevdev 1.13.1-1
 core/libevent 2.1.12-4
-extra/libewf 20140608-6
 extra/libexif 0.6.24-2
 extra/libfdk-aac 2.0.2-1
 core/libffi 3.4.4-1
@@ -884,7 +875,6 @@ extra/libgsf 1.14.50-1
 core/libgssglue 0.7-1
 extra/libgtop 2.41.1-1
 extra/libgudev 237-2
-extra/libguestfs 1.48.6-6
 extra/libgusb 0.4.6-1
 extra/libgweather-4 4.2.0-1
 extra/libgxps 0.3.2-4
@@ -918,7 +908,6 @@ extra/libksane 23.04.2-1
 core/libksba 1.6.3-1
 extra/libldac 2.0.2.3-1
 core/libldap 2.6.4-2
-extra/libldm 0.2.5-2
 extra/liblqr 0.4.2-3
 extra/liblzf 3.6-4
 extra/libmad 0.15.1b-10
@@ -1099,11 +1088,9 @@ extra/llvm 15.0.7-3
 extra/llvm-libs 15.0.7-3
 extra/lm_sensors 1:3.6.0.r41.g31d1f125-2
 extra/lmdb 0.9.30-3
-extra/lrzip 0.651-2
 extra/lsb-release 2.0.r48.3cf5103-1
 extra/lsd 0.23.1-2
 extra/lsof 4.98.0-1
-extra/lsscsi 0.32-1
 extra/lttng-ust 2.13.5-2
 extra/lua 5.4.6-1
 extra/lua-lpeg 1.0.2-4
@@ -1111,7 +1098,6 @@ extra/lua52 5.2.4-5
 extra/lua53 5.3.6-1
 archlinuxcn/lutris-git 0.5.13.r120.g92fe3935b-2
 extra/lv2 1.18.10-1
-core/lvm2 2.03.21-1
 extra/lxappearance 0.6.3-4 (lxde)
 extra/lxmenu-data 0.1.5-3
 extra/lxqt-themes 1.3.0-1 (lxqt)
@@ -1172,7 +1158,6 @@ extra/networkmanager-openvpn 1.10.2-3
 extra/networkmanager-qt 5.107.0-1 (kf5)
 extra/networkmanager-vpnc 1.2.8-3
 extra/nftables 1:1.0.7-2
-core/nilfs-utils 2.2.9-2
 extra/ninja 1.11.1-3
 extra/nlohmann-json 3.11.2-1
 extra/nm-connection-editor 1.32.0-3
@@ -1265,7 +1250,6 @@ extra/perl-io-html 1.004-3
 extra/perl-io-socket-inet6 2.73-2
 extra/perl-io-socket-ssl 2.083-1
 extra/perl-json 4.10-1
-extra/perl-libintl-perl 1.33-1
 extra/perl-libwww 6.67-1
 extra/perl-lwp-mediatypes 6.04-3
 extra/perl-lwp-protocol-https 6.10-4
@@ -1473,7 +1457,6 @@ extra/re2c 3.0-2
 core/readline 8.2.001-2
 local/red-tldr 0.4.3-1
 extra/redis 7.0.11-1
-core/reiserfsprogs 3.6.27-4
 extra/remmina 1:1.4.31-1
 extra/rest 0.8.1+r4+ge5ee6ef-1
 extra/rhash 1.4.3-1
@@ -1560,7 +1543,6 @@ extra/signon-ui 0.17+20171022-3
 extra/signond 8.61-1
 archlinuxcn/slack-desktop 4.32.127-1
 extra/slang 2.3.3-2
-extra/sleuthkit 4.12.0-1
 extra/smpeg 2.0.0-2
 local/snapd 2.59.1-1
 extra/snappy 1.1.9-2
@@ -1592,12 +1574,9 @@ multilib/steam 1.0.0.78-1
 multilib/steam-native-runtime 1.0.0.75-3
 extra/strace 6.3-1
 core/sudo 1.9.13.p3-1
-extra/supermin 5.3.2-1
 extra/svt-av1 1.5.0-1
 extra/swaks 20201014.0-1
 extra/syndication 5.107.0-1 (kf5)
-core/sysfsutils 2.1.1-1
-core/syslinux 6.04.pre2.r11.gbf6db5b4-3
 core/systemd 253.5-1
 core/systemd-libs 253.5-1
 core/systemd-sysvcompat 253.5-1
@@ -1607,7 +1586,6 @@ extra/tcl 8.6.13-1
 extra/tdb 1.4.8-2
 extra/telegram-desktop 4.8.4-1
 core/texinfo 7.0.3-1
-core/thin-provisioning-tools 1.0.4-1
 extra/thunar 4.18.6-1 (xfce4)
 extra/tmux 3.3_a-7
 extra/tokei 12.1.2-1
@@ -1721,7 +1699,6 @@ extra/xf86-video-amdgpu 23.0.0-1 (xorg-drivers)
 extra/xf86-video-vesa 2.6.0-1 (xorg-drivers xorg)
 extra/xf86-video-vmware 13.4.0-1 (xorg-drivers)
 extra/xfconf 4.18.1-1 (xfce4)
-core/xfsprogs 6.3.0-1
 extra/xkeyboard-config 2.39-1
 extra/xl2tpd 1.3.18-1
 local/xmind 12.0.3.202206261857-1

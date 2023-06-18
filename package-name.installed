@@ -36,7 +36,6 @@ copyq 7.0.0-1
 cronie 1.6.1-1
 dbeaver 23.1.0-1
 dbus-python 1.3.2-2
-dhcpcd 10.0.1-1
 discord 0.0.27-2
 diskus 0.7.0-2
 dnsmasq 2.89-1
@@ -113,7 +112,6 @@ leafpad 0.8.19-2
 lib32-libpcap 1.10.4-1
 lib32-mesa 23.1.2-1
 lib32-vulkan-radeon 23.1.2-1
-libguestfs 1.48.6-6
 libtool 2.4.7+4+g1ec8fa28-3
 libvirt 1:9.4.0-1
 libxfce4util 4.18.1-1
