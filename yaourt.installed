@@ -194,7 +194,6 @@ extra/gdb 13.1-3
 extra/gdb-common 13.1-3
 core/gdbm 1.23-2
 extra/gdk-pixbuf2 2.42.10-2
-extra/geoclue 2.7.0-1
 extra/geocode-glib-2 3.26.4-3
 extra/geocode-glib-common 3.26.4-3
 core/gettext 0.21.1-5
@@ -203,7 +202,6 @@ extra/giflib 5.2.1-2
 extra/git 2.41.0-1
 archlinuxcn/github-desktop-bin 3.2.1.linux1-1
 extra/glew1.10 1.10.0-3
-extra/glfw-x11 3.3.8-1
 extra/glib-networking 1:2.76.0-1
 core/glib2 2.76.3-1
 core/glibc 2.37-3
@@ -228,7 +226,6 @@ core/gnutls 3.8.0-1
 extra/go 2:1.20.5-1
 extra/gobject-introspection-runtime 1.76.1-3
 archlinuxcn/goland 2023.1.2-1
-local/google-chrome 108.0.5359.124-1
 extra/goreleaser 1.18.1-1
 extra/gpaste 44.0-1
 extra/gperftools 2.10-3
@@ -291,7 +288,6 @@ archlinuxcn/iease-music 1.3.4-1
 extra/ijs 0.35-5
 extra/imagemagick 7.1.1.11-2
 extra/imath 3.1.9-1
-local/imhex-bin 1.26.2-1
 extra/imlib2 1.11.1-1
 extra/impacket 0.9.24-3
 core/inetutils 2.4-1
@@ -552,7 +548,6 @@ extra/libcdio 2.1.0-3
 extra/libcdio-paranoia 10.2+2.0.1-3
 extra/libcloudproviders 0.3.1+r8+g3a229ee-1
 extra/libcolord 1.4.6-1
-extra/libconfig 1.7.3-2
 extra/libcups 1:2.4.5-1
 core/libcurl-compat 8.1.2-1
 core/libcurl-gnutls 8.1.2-1
@@ -873,7 +868,6 @@ extra/networkmanager-openvpn 1.10.2-3
 extra/networkmanager-qt 5.107.0-1 (kf5)
 extra/networkmanager-vpnc 1.2.8-3
 extra/nftables 1:1.0.7-2
-extra/nlohmann-json 3.11.2-1
 extra/nm-connection-editor 1.32.0-3
 extra/nmap 7.94-1
 extra/node-gyp 9.4.0-1
@@ -980,7 +974,6 @@ extra/perl-try-tiny 0.31-2
 extra/perl-uri 5.19-1
 extra/perl-www-robotrules 6.02-11
 extra/phodav 3.0-2
-extra/picom 10.2-1
 core/pinentry 1.2.1-1
 extra/pipewire 1:0.3.71-2
 extra/pixman 0.42.2-1
@@ -1360,9 +1353,6 @@ extra/xcb-util-wm 0.4.2-1
 extra/xcb-util-xrm 1.3-2
 extra/xclip 0.13-4
 extra/xdg-dbus-proxy 0.1.4-1
-extra/xdg-desktop-portal 1.16.0-3
-extra/xdg-desktop-portal-gnome 44.1-2 (gnome)
-extra/xdg-desktop-portal-gtk 1.14.1-1
 extra/xdg-user-dirs 0.18-1
 extra/xdg-utils 1.1.3+25+g8ae0263-1
 extra/xf86-input-libinput 1.3.0-1 (xorg-drivers)
@@ -1434,7 +1424,6 @@ extra/xxhash 0.8.1-4
 core/xz 5.4.3-1
 extra/yajl 2.1.0-5
 local/yaourt 1.9-1
-extra/yara 4.3.1-1
 extra/zenity 3.44.1-1
 extra/zeromq 4.3.4-4
 extra/zimg 3.0.4-1

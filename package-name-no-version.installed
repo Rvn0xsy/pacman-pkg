@@ -77,7 +77,6 @@ gnome-font-viewer
 gnome-nettool
 go
 goland
-google-chrome
 goreleaser
 gpaste
 gpicview
@@ -96,7 +95,6 @@ i3blocks
 i3lock
 i3status
 iease-music
-imhex-bin
 impacket
 jdk
 jdk11-openjdk
@@ -171,7 +169,6 @@ papirus-icon-theme
 patch
 pavucontrol
 pcmanfm
-picom
 pkgconf
 pnpm
 polybar
