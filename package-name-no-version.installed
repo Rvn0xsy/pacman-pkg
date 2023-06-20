@@ -79,7 +79,6 @@ go
 goland
 google-chrome
 goreleaser
-gpaste
 gpicview
 grep
 groff
@@ -213,6 +212,7 @@ swaks
 telegram-desktop
 texinfo
 thunar
+thunar-volman
 tmux
 tokei
 tree
