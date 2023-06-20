@@ -230,6 +230,7 @@ extra/gobject-introspection-runtime 1.76.1-3
 archlinuxcn/goland 2023.1.2-1
 local/google-chrome 108.0.5359.124-1
 extra/goreleaser 1.18.1-1
+extra/gpaste 44.0-1
 extra/gperftools 2.10-3
 core/gpgme 1.20.0-3
 extra/gpicview 0.2.5-8 (lxde)
