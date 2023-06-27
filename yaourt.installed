@@ -1357,6 +1357,7 @@ extra/xdg-user-dirs 0.18-1
 extra/xdg-utils 1.1.3+25+g8ae0263-1
 extra/xf86-input-libinput 1.3.0-1 (xorg-drivers)
 extra/xf86-video-amdgpu 23.0.0-1 (xorg-drivers)
+extra/xf86-video-ati 1:22.0.0-1 (xorg-drivers)
 extra/xf86-video-vesa 2.6.0-1 (xorg-drivers xorg)
 extra/xf86-video-vmware 13.4.0-1 (xorg-drivers)
 extra/xfconf 4.18.1-1 (xfce4)
