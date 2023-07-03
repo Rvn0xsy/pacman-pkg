@@ -845,6 +845,7 @@ core/mkinitcpio-busybox 1.35.0-1
 core/mlocate 0.26.git.20170220-7
 extra/mlt 7.16.0-1
 extra/mobile-broadband-provider-info 20230416-1
+extra/mousepad 0.6.1-2 (xfce4-goodies)
 extra/mpd 0.23.13-1
 core/mpfr 4.2.0.p9-1
 extra/mpg123 1.31.3-1
