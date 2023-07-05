@@ -722,6 +722,7 @@ extra/libthai 0.1.29-3
 extra/libtheora 1.1.1-6
 extra/libtiff 4.5.1-1
 extra/libtiff4 3.9.7-5
+local/libtiff5 4.4.0-2
 core/libtirpc 1.3.3-2
 extra/libtommath 1.2.0-4
 core/libtool 2.4.7+4+g1ec8fa28-3
@@ -1332,9 +1333,9 @@ extra/woff2 1.0.2-4
 extra/wolfssl 5.6.2-1
 core/wpa_supplicant 2:2.10-8
 extra/wpebackend-fdo 1.14.2-1
-local/wps-office 11.1.0.11664-2
+local/wps-office 11.1.0.11698-1
 local/wps-office-fonts 1.0-2
-local/wps-office-mime 11.1.0.11664-2
+local/wps-office-mime 11.1.0.11698-1
 local/wps-office-mui-zh-cn 11.1.0.11664-2
 extra/wqy-bitmapfont 1.0.0RC1-5
 extra/wqy-microhei 0.2.0_beta-11

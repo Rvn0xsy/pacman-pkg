@@ -110,6 +110,7 @@ leafpad 0.8.19-2
 lib32-libpcap 1.10.4-1
 lib32-mesa 23.1.2-1
 lib32-vulkan-radeon 23.1.2-1
+libtiff5 4.4.0-2
 libtool 2.4.7+4+g1ec8fa28-3
 libvirt 1:9.4.0-1
 libxfce4util 4.18.1-1
@@ -243,9 +244,9 @@ wemeet-bin 3.14.0.401-1
 wget 1.21.4-1
 which 2.21-6
 wireshark-qt 4.0.6-1
-wps-office 11.1.0.11664-2
+wps-office 11.1.0.11698-1
 wps-office-fonts 1.0-2
-wps-office-mime 11.1.0.11664-2
+wps-office-mime 11.1.0.11698-1
 wps-office-mui-zh-cn 11.1.0.11664-2
 wqy-bitmapfont 1.0.0RC1-5
 wqy-microhei 0.2.0_beta-11

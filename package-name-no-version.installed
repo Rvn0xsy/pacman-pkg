@@ -110,6 +110,7 @@ leafpad
 lib32-libpcap
 lib32-mesa
 lib32-vulkan-radeon
+libtiff5
 libtool
 libvirt
 libxfce4util
