@@ -31,6 +31,7 @@ bluez-utils 5.68-1
 bottom 0.9.3-1
 brasero 3.12.3+r24+gd01ba738-1
 clash 1.17.0-1
+cloudflare-warp-bin 2023.7.40-1
 cloudflared 2023.7.2-1
 cloudflarespeedtest 2.2.4-2
 cmake 3.27.1-1

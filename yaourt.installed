@@ -86,6 +86,7 @@ extra/cdrtools 3.02a09-5
 extra/chromaprint 1.5.1-7
 extra/clang 15.0.7-9
 extra/clash 1.17.0-1
+local/cloudflare-warp-bin 2023.7.40-1
 extra/cloudflared 2023.7.2-1
 archlinuxcn/cloudflarespeedtest 2.2.4-2
 extra/clutter 1.26.4-2
