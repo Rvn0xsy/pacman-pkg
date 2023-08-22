@@ -139,6 +139,7 @@ mingw-w64-gcc 12.2.0-1
 mousepad 0.6.1-2
 mpd 0.23.13-3
 mtools 1:4.0.43-1
+mysql-clients 8.0.34-1
 nasm 2.16.01-1
 neofetch 7.1.0-2
 nerd-fonts-3270 2.2.2-1

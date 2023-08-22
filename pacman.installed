@@ -652,6 +652,7 @@ libmpcdec 1:0.1+r475-4
 libmpdclient 2.20-3
 libmpeg2 0.5.1-8
 libmtp 1.1.21-1
+libmysqlclient 8.0.34-1
 libndp 1.8-1
 libnet 1:1.1.6-1
 libnetfilter_conntrack 1.0.9-1
@@ -860,6 +861,7 @@ mtdev 1.1.6-2
 mtools 1:4.0.43-1
 multipath-tools 0.9.5-1
 muparser 2.3.4-1
+mysql-clients 8.0.34-1
 nasm 2.16.01-1
 ncurses 6.4_20230520-1
 ndctl 76.1-1

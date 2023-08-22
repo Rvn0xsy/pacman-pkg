@@ -652,6 +652,7 @@ extra/libmpcdec 1:0.1+r475-4
 extra/libmpdclient 2.20-3
 extra/libmpeg2 0.5.1-8
 extra/libmtp 1.1.21-1
+archlinuxcn/libmysqlclient 8.0.34-1
 extra/libndp 1.8-1
 extra/libnet 1:1.1.6-1
 core/libnetfilter_conntrack 1.0.9-1
@@ -860,6 +861,7 @@ extra/mtdev 1.1.6-2
 extra/mtools 1:4.0.43-1
 extra/multipath-tools 0.9.5-1
 extra/muparser 2.3.4-1
+archlinuxcn/mysql-clients 8.0.34-1
 extra/nasm 2.16.01-1
 core/ncurses 6.4_20230520-1
 extra/ndctl 76.1-1
