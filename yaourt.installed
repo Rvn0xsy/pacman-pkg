@@ -25,7 +25,7 @@ extra/appstream-glib 0.8.2-3
 extra/arc-gtk-theme 20221218-1
 extra/arc-icon-theme 20161122-3
 extra/archlinux-appstream-data 20230715-1
-core/archlinux-keyring 20230704-1
+core/archlinux-keyring 20230821-1
 extra/archlinux-wallpaper 1.6.1-6
 archlinuxcn/archlinuxcn-keyring 20230316-1
 core/argon2 20190702-5
@@ -35,7 +35,7 @@ extra/arj 3.10.22-13
 extra/at-spi2-core 2.48.3-2
 extra/atkmm 2.28.3-1
 extra/atril 1.26.1-1 (mate-extra)
-extra/attica 5.108.0-1 (kf5)
+extra/attica 5.109.0-1 (kf5)
 core/attr 2.5.1-3
 extra/audiofile 0.3.6-8
 core/audit 3.1.2-1
@@ -52,7 +52,7 @@ extra/bash-completion 2.11-3
 extra/bat 0.23.0-3
 extra/bc 1.07.1-4
 extra/bcg729 1.1.1-1
-extra/bind 9.18.17-1
+extra/bind 9.18.18-1
 core/binutils 2.41-3
 core/bison 3.8.2-6
 extra/bitwarden 2023.7.1-1
@@ -60,13 +60,13 @@ extra/blas 3.11.0-2
 extra/bluedevil 1:5.27.7-1 (plasma)
 extra/bluez 5.68-1
 extra/bluez-libs 5.68-1
-extra/bluez-qt 5.108.0-1 (kf5)
+extra/bluez-qt 5.109.0-1 (kf5)
 extra/bluez-utils 5.68-1
 extra/bogofilter 1.2.5-8
 extra/boost-libs 1.81.0-7
 extra/bottom 0.9.4-1
 extra/brasero 3.12.3+r24+gd01ba738-1
-extra/breeze-icons 5.108.0-1 (kf5)
+extra/breeze-icons 5.109.0-1 (kf5)
 extra/bridge-utils 1.7.1-1
 core/brotli 1.0.9-12
 extra/bubblewrap 0.8.0-1
@@ -117,7 +117,7 @@ extra/dbus-python 1.3.2-2
 extra/dconf 0.40.0-2
 extra/default-cursors 2-1
 extra/desktop-file-utils 0.26-2
-core/device-mapper 2.03.22-1
+core/device-mapper 2.03.22-2
 core/diffutils 3.10-1
 extra/discord 0.0.28-1
 extra/diskus 0.7.0-2
@@ -139,7 +139,7 @@ archlinuxcn/ebtables 2.0.10_4-8
 extra/edk2-ovmf 202305-1
 core/efibootmgr 18-2
 core/efivar 38-3
-extra/electron24 24.6.5-2
+extra/electron24 24.8.0-1
 extra/enchant 2.5.0-1
 extra/engrampa 1.26.1-1 (mate-extra)
 extra/evolution 3.48.4-1 (gnome-extra)
@@ -152,13 +152,13 @@ extra/exo 4.18.0-1 (xfce4)
 core/expat 2.5.0-1
 extra/faad2 2.10.1-1
 core/fakeroot 1.32.1-1
-extra/fcitx5 5.0.23-2 (fcitx5-im)
-extra/fcitx5-chinese-addons 5.0.17-1
-extra/fcitx5-configtool 5.0.17-1 (fcitx5-im)
-extra/fcitx5-gtk 5.0.23-1 (fcitx5-im)
+extra/fcitx5 5.1.0-1 (fcitx5-im)
+extra/fcitx5-chinese-addons 5.1.0-1
+extra/fcitx5-configtool 5.1.0-1 (fcitx5-im)
+extra/fcitx5-gtk 5.1.0-1 (fcitx5-im)
 extra/fcitx5-material-color 0.2.1-1
 extra/fcitx5-pinyin-zhwiki 1:0.2.4.20230728-1
-extra/fcitx5-qt 5.0.17-7 (fcitx5-im)
+extra/fcitx5-qt 5.1.0-1 (fcitx5-im)
 extra/feh 3.10-1
 archlinuxcn/feishu-bin 6.5.14-1
 extra/ffmpeg 2:6.0-8
@@ -182,7 +182,7 @@ extra/fribidi 1.0.13-2
 extra/fuse-common 3.16.1-1
 extra/fuse2 2.9.9-4
 extra/fuse3 3.16.1-1
-extra/fwupd 1.9.3-1
+extra/fwupd 1.9.4-1
 extra/fwupd-efi 1.4-1
 extra/gamemode 1.7-1
 extra/gavl 1.4.0-7
@@ -209,7 +209,7 @@ archlinuxcn/github-desktop-bin 3.2.7.linux2-2
 extra/glew1.10 1.10.0-3
 extra/glib-networking 1:2.76.1-1
 core/glib2 2.76.4-1
-core/glibc 2.38-2
+core/glibc 2.38-3
 extra/glibmm 2.66.6-1
 extra/glibmm-2.68 2.76.0-1
 extra/glslang 12.3.1-2
@@ -268,7 +268,7 @@ extra/gupnp 1:1.6.5-1
 extra/gupnp-igd 1.6.0-1
 extra/gvfs 1.50.6-1 (gnome)
 extra/gvfs-mtp 1.50.6-1 (gnome)
-core/gzip 1.12-2
+core/gzip 1.12-3
 extra/harfbuzz 8.1.1-1
 extra/harfbuzz-icu 8.1.1-1
 extra/hashcat 1:6.2.6-1
@@ -280,20 +280,20 @@ extra/highway 1.0.6-1
 extra/htop 3.2.2-1
 extra/http-parser 2.9.4-1
 extra/hunspell 1.7.2-1
-core/hwdata 0.372-1
+core/hwdata 0.373-1
 extra/hwloc 2.9.1-1
 extra/hyphen 2.8.8-5
 extra/i3-wm 4.22-4 (i3)
 extra/i3blocks 1.5-3 (i3)
 extra/i3lock 2.14.1-1 (i3)
 extra/i3status 2.14-1 (i3)
-core/iana-etc 20230629-1
+core/iana-etc 20230803-1
 core/icu 73.2-2
 archlinuxcn/iease-music 1.3.4-1
 extra/ijs 0.35-5
 extra/imagemagick 7.1.1.15-2
 extra/imath 3.1.9-1
-extra/imlib2 1.11.1-1
+extra/imlib2 1.12.0-1
 extra/impacket 0.9.24-3
 core/inetutils 2.4-1
 extra/iniparser 4.1-4
@@ -324,47 +324,47 @@ core/json-c 0.16-1
 extra/json-glib 1.6.6-2
 extra/jsoncpp 1.9.5-2
 extra/kaccounts-integration 23.04.3-1
-extra/karchive 5.108.0-1 (kf5)
-extra/kauth 5.108.0-1 (kf5)
-core/kbd 2.6.1-1
-extra/kbookmarks 5.108.0-1 (kf5)
-extra/kcmutils 5.108.0-1 (kf5)
-extra/kcodecs 5.108.0-1 (kf5)
-extra/kcompletion 5.108.0-1 (kf5)
-extra/kconfig 5.108.0-1 (kf5)
-extra/kconfigwidgets 5.108.0-1 (kf5)
-extra/kcoreaddons 5.108.0-1 (kf5)
-extra/kcrash 5.108.0-1 (kf5)
-extra/kdbusaddons 5.108.0-1 (kf5)
-extra/kdeclarative 5.108.0-1 (kf5)
-extra/kded 5.108.0-1 (kf5)
+extra/karchive 5.109.0-1 (kf5)
+extra/kauth 5.109.0-1 (kf5)
+core/kbd 2.6.2-1
+extra/kbookmarks 5.109.0-1 (kf5)
+extra/kcmutils 5.109.0-1 (kf5)
+extra/kcodecs 5.109.0-1 (kf5)
+extra/kcompletion 5.109.0-1 (kf5)
+extra/kconfig 5.109.0-1 (kf5)
+extra/kconfigwidgets 5.109.0-1 (kf5)
+extra/kcoreaddons 5.109.0-1 (kf5)
+extra/kcrash 5.109.0-1 (kf5)
+extra/kdbusaddons 5.109.0-1 (kf5)
+extra/kdeclarative 5.109.0-1 (kf5)
+extra/kded 5.109.0-1 (kf5)
 extra/kdenlive 23.04.3-1 (kde-applications kde-multimedia)
 extra/keycloak 22.0.1-1
-extra/keycloak-archlinux-theme 1.1.0-1
+extra/keycloak-archlinux-theme 1.2.0-1
 core/keyutils 1.6.3-2
-extra/kfilemetadata 5.108.0-1 (kf5)
-extra/kglobalaccel 5.108.0-1 (kf5)
-extra/kguiaddons 5.108.0-1 (kf5)
-extra/ki18n 5.108.0-1 (kf5)
-extra/kiconthemes 5.108.0-1 (kf5)
-extra/kio 5.108.0-1 (kf5)
-extra/kirigami2 5.108.0-1 (kf5)
-extra/kitemviews 5.108.0-1 (kf5)
-extra/kjobwidgets 5.108.0-1 (kf5)
+extra/kfilemetadata 5.109.0-1 (kf5)
+extra/kglobalaccel 5.109.0-1 (kf5)
+extra/kguiaddons 5.109.0-1 (kf5)
+extra/ki18n 5.109.0-1 (kf5)
+extra/kiconthemes 5.109.0-1 (kf5)
+extra/kio 5.109.0-1 (kf5)
+extra/kirigami2 5.109.0-1 (kf5)
+extra/kitemviews 5.109.0-1 (kf5)
+extra/kjobwidgets 5.109.0-1 (kf5)
 core/kmod 30-3
-extra/knewstuff 5.108.0-1 (kf5)
-extra/knotifications 5.108.0-1 (kf5)
-extra/knotifyconfig 5.108.0-1 (kf5)
+extra/knewstuff 5.109.0-1 (kf5)
+extra/knotifications 5.109.0-1 (kf5)
+extra/knotifyconfig 5.109.0-1 (kf5)
 extra/kolourpaint 23.04.3-1 (kde-applications kde-graphics)
-extra/kpackage 5.108.0-1 (kf5)
+extra/kpackage 5.109.0-1 (kf5)
 core/krb5 1.20.1-1
 extra/ksanecore 23.04.3-1
-extra/kservice 5.108.0-1 (kf5)
-extra/ktextwidgets 5.108.0-1 (kf5)
-extra/kwallet 5.108.0-2 (kf5)
-extra/kwidgetsaddons 5.108.0-1 (kf5)
-extra/kwindowsystem 5.108.0-1 (kf5)
-extra/kxmlgui 5.108.0-1 (kf5)
+extra/kservice 5.109.0-1 (kf5)
+extra/ktextwidgets 5.109.0-1 (kf5)
+extra/kwallet 5.109.0-1 (kf5)
+extra/kwidgetsaddons 5.109.0-1 (kf5)
+extra/kwindowsystem 5.109.0-1 (kf5)
+extra/kxmlgui 5.109.0-1 (kf5)
 extra/l-smash 2.14.5-3
 extra/lame 3.100-4
 extra/lcms2 2.15-1
@@ -392,14 +392,14 @@ multilib/lib32-gdk-pixbuf2 2.42.10-2
 multilib/lib32-giflib 5.2.1-1
 multilib/lib32-glew1.10 1.10.0-5
 multilib/lib32-glib2 2.76.4-1
-core/lib32-glibc 2.38-2
+core/lib32-glibc 2.38-3
 multilib/lib32-glu 9.0.2-3
 multilib/lib32-gmp 6.2.1-1
 multilib/lib32-gnutls 3.8.0-2
 multilib/lib32-gtk2 2.24.33-2
 multilib/lib32-harfbuzz 8.1.1-1
 multilib/lib32-icu 73.2-1
-multilib/lib32-imlib2 1.11.1-1
+multilib/lib32-imlib2 1.12.0-1
 multilib/lib32-keyutils 1.6.3-1
 multilib/lib32-krb5 1.20.1-1
 multilib/lib32-libappindicator-gtk2 12.10.0-13
@@ -442,7 +442,7 @@ multilib/lib32-libpsl 0.21.2-1
 multilib/lib32-libpulse 16.1-6
 multilib/lib32-librtmp0 2.4-5
 multilib/lib32-libsm 1.2.4-1
-multilib/lib32-libsndfile 1.2.0-1
+multilib/lib32-libsndfile 1.2.2-1
 multilib/lib32-libssh2 1.11.0-1
 multilib/lib32-libtasn1 4.19.0-1
 multilib/lib32-libthai 0.1.29-2
@@ -483,7 +483,7 @@ multilib/lib32-libxtst 1.2.4-1
 multilib/lib32-libxxf86vm 1.1.5-1
 multilib/lib32-llvm-libs 15.0.7-3
 multilib/lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
-multilib/lib32-mesa 1:23.1.5-1
+multilib/lib32-mesa 1:23.1.6-1
 multilib/lib32-mpg123 1.31.3-1
 multilib/lib32-ncurses 6.4_20230520-1
 multilib/lib32-nettle 3.9.1-1
@@ -510,10 +510,10 @@ multilib/lib32-sdl_ttf 2.0.11-8
 multilib/lib32-sqlite 3.42.0-1
 multilib/lib32-systemd 254.1-1
 multilib/lib32-tdb 1.4.8-1
-multilib/lib32-util-linux 2.39.1-1
+multilib/lib32-util-linux 2.39.2-1
 multilib/lib32-vkd3d 1.7.1-1
 multilib/lib32-vulkan-icd-loader 1.3.255-1
-multilib/lib32-vulkan-radeon 1:23.1.5-1
+multilib/lib32-vulkan-radeon 1:23.1.6-1
 multilib/lib32-wayland 1.22.0-1
 multilib/lib32-xz 5.4.4-1
 multilib/lib32-zlib 1.2.13-2
@@ -590,7 +590,7 @@ core/libgcrypt 1.10.2-1
 extra/libgcrypt15 1.5.6-6
 extra/libgee 0.20.6-1
 extra/libgirepository 1.76.1-3
-extra/libgit2 1:1.7.0-3
+extra/libgit2 1:1.7.1-1
 extra/libglvnd 1.6.0-1
 extra/libgme 0.6.3-4
 extra/libgoa 3.48.0-2
@@ -616,7 +616,7 @@ core/libidn2 2.3.4-3
 extra/libiec61883 1.2.0-7
 extra/libieee1284 0.2.11-15
 extra/libimagequant 4.2.0-1
-extra/libime 1.0.17-1
+extra/libime 1.1.1-1
 extra/libimobiledevice 1.3.0-9
 extra/libindicator-gtk2 12.10.1-10
 core/libinih 57-1
@@ -711,7 +711,7 @@ extra/libsigc++-3.0 3.4.0-1
 extra/libslirp 4.7.0-1
 extra/libsm 1.2.4-1
 extra/libsmbios 2.4.3-6
-extra/libsndfile 1.2.0-1
+extra/libsndfile 1.2.2-1
 extra/libsodium 1.0.18-2
 extra/libsoup 2.74.3-1
 extra/libsoup3 3.4.2-1
@@ -740,7 +740,7 @@ extra/libtracefs 1.7.0-1
 extra/libudev0-shim 1-4
 core/libunistring 1.1-2
 extra/libunwind 1.6.2-2
-extra/libupnp 1.14.17-1
+extra/libupnp 1.14.18-1
 extra/liburcu 0.14.0-1
 extra/liburing 2.4-1
 core/libusb 1.0.26-2
@@ -763,7 +763,7 @@ extra/libwpe 1.14.1-2
 extra/libx11 1.8.6-1
 extra/libxau 1.0.11-2
 extra/libxaw 1.0.15-1
-extra/libxcb 1.15-2
+extra/libxcb 1.16-1
 extra/libxcomposite 0.4.6-1
 core/libxcrypt 4.4.36-1
 core/libxcrypt-compat 4.4.36-1
@@ -802,11 +802,11 @@ extra/libyuv r2322+3aebf69d-1
 extra/libzip 1.10.0-1
 core/licenses 20230729-1
 extra/liferea 1.14.5-1
-core/linux 6.4.10.arch1-1
+core/linux 6.4.11.arch2-1
 core/linux-api-headers 6.4-1
 core/linux-firmware 20230804.7be2766d-2
 core/linux-firmware-whence 20230804.7be2766d-2
-core/linux-headers 6.4.10.arch1-1
+core/linux-headers 6.4.11.arch2-1
 extra/llvm 15.0.7-3
 extra/llvm-libs 15.0.7-3
 extra/lm_sensors 1:3.6.0.r41.g31d1f125-2
@@ -817,7 +817,7 @@ extra/lsof 4.98.0-1
 extra/lttng-ust 2.13.5-2
 extra/lua 5.4.6-1
 extra/lua52 5.2.4-5
-archlinuxcn/lutris-git 0.5.13.r212.g4919ad20e-1
+archlinuxcn/lutris-git 0.5.13.r223.g0739c393a-1
 extra/lxappearance 0.6.3-4 (lxde)
 extra/lxmenu-data 0.1.5-3
 extra/lxqt-themes 1.3.0-1 (lxqt)
@@ -838,7 +838,7 @@ extra/md4c 0.4.8-1
 core/mdadm 4.2-2
 extra/media-player-info 24-2
 extra/menu-cache 1.1.0-4
-extra/mesa 1:23.1.5-1
+extra/mesa 1:23.1.6-1
 extra/mesa-utils 9.0.0-2
 extra/metasploit 6.3.27-1
 local/microsoft-edge-stable-bin 114.0.1823.79-1
@@ -876,13 +876,13 @@ extra/network-manager-sstp 1.3.1-2
 extra/networkmanager 1.42.6-1
 extra/networkmanager-l2tp 1.20.8-1
 extra/networkmanager-openvpn 1.10.2-3
-extra/networkmanager-qt 5.108.0-1 (kf5)
+extra/networkmanager-qt 5.109.0-1 (kf5)
 extra/networkmanager-vpnc 1.2.8-3
 extra/nftables 1:1.0.8-2
 extra/nm-connection-editor 1.32.0-3
 extra/nmap 7.94-1
 extra/node-gyp 9.4.0-1
-extra/nodejs 20.5.0-1
+extra/nodejs 20.5.1-1
 extra/nodejs-nopt 7.2.0-1
 extra/noto-fonts 1:23.8.1-1
 extra/noto-fonts-cjk 20220126-2
@@ -912,7 +912,7 @@ core/openssh 9.4p1-2
 core/openssl 3.1.2-1
 local/openssl-1.0 1.0.2.u-1
 core/openssl-1.1 1.1.1.v-1
-extra/openvpn 2.6.5-1
+extra/openvpn 2.6.6-1
 extra/opus 1.4-1
 extra/opusfile 0.12-3
 extra/orc 0.4.34-1
@@ -927,7 +927,7 @@ extra/pacman-contrib 1.9.1-1
 core/pacman-mirrorlist 20230628-1
 extra/pahole 1:1.25-4
 core/pam 1.5.3-3
-archlinuxcn/pamac-aur 11.6.0-1
+archlinuxcn/pamac-aur 11.6.0-2
 core/pambase 20221020-1
 extra/pango 1:1.50.14-1
 extra/pangomm 2.46.3-1
@@ -937,7 +937,7 @@ core/patch 2.7.6-10
 extra/pavucontrol 1:5.0+r64+geba9ca6-1
 core/pciutils 3.10.0-1
 extra/pcmanfm 1.3.2-1 (lxde)
-core/pcre 8.45-3
+core/pcre 8.45-4
 core/pcre2 10.42-2
 extra/pcsclite 2.0.0-1
 core/perl 5.38.0-1
@@ -1012,7 +1012,7 @@ core/psmisc 23.6-1
 extra/pulseaudio 16.1-6
 extra/pulseaudio-alsa 1:1.2.7.1-2
 extra/pulseaudio-bluetooth 16.1-6
-extra/purpose 5.108.0-1 (kf5)
+extra/purpose 5.109.0-1 (kf5)
 extra/pwgen 2.08-2
 extra/pybind11 2.11.1-1
 extra/pycharm-community-edition 2023.1.3-1
@@ -1072,34 +1072,34 @@ extra/python-yaml 6.0.1-2
 extra/qbittorrent 4.5.4-1
 extra/qca-qt5 2.3.7-1
 extra/qcustomplot 2.1.1-1
-extra/qemu-audio-spice 8.0.3-1
-extra/qemu-base 8.0.3-1
-extra/qemu-block-curl 8.0.3-1
-extra/qemu-block-dmg 8.0.3-1
-extra/qemu-block-nfs 8.0.3-1
-extra/qemu-block-ssh 8.0.3-1
-extra/qemu-chardev-spice 8.0.3-1
-extra/qemu-common 8.0.3-1
-extra/qemu-hw-display-qxl 8.0.3-1
-extra/qemu-hw-display-virtio-gpu 8.0.3-1
-extra/qemu-hw-display-virtio-gpu-gl 8.0.3-1
-extra/qemu-hw-display-virtio-gpu-pci 8.0.3-1
-extra/qemu-hw-display-virtio-gpu-pci-gl 8.0.3-1
-extra/qemu-hw-display-virtio-vga 8.0.3-1
-extra/qemu-hw-display-virtio-vga-gl 8.0.3-1
-extra/qemu-hw-s390x-virtio-gpu-ccw 8.0.3-1
-extra/qemu-hw-usb-host 8.0.3-1
-extra/qemu-hw-usb-redirect 8.0.3-1
-extra/qemu-hw-usb-smartcard 8.0.3-1
-extra/qemu-img 8.0.3-1
-extra/qemu-pr-helper 8.0.3-1
-extra/qemu-system-x86 8.0.3-1
-extra/qemu-system-x86-firmware 8.0.3-1
-extra/qemu-tools 8.0.3-1
-extra/qemu-ui-curses 8.0.3-1
-extra/qemu-ui-opengl 8.0.3-1
-extra/qemu-ui-spice-app 8.0.3-1
-extra/qemu-ui-spice-core 8.0.3-1
+extra/qemu-audio-spice 8.0.4-2
+extra/qemu-base 8.0.4-2
+extra/qemu-block-curl 8.0.4-2
+extra/qemu-block-dmg 8.0.4-2
+extra/qemu-block-nfs 8.0.4-2
+extra/qemu-block-ssh 8.0.4-2
+extra/qemu-chardev-spice 8.0.4-2
+extra/qemu-common 8.0.4-2
+extra/qemu-hw-display-qxl 8.0.4-2
+extra/qemu-hw-display-virtio-gpu 8.0.4-2
+extra/qemu-hw-display-virtio-gpu-gl 8.0.4-2
+extra/qemu-hw-display-virtio-gpu-pci 8.0.4-2
+extra/qemu-hw-display-virtio-gpu-pci-gl 8.0.4-2
+extra/qemu-hw-display-virtio-vga 8.0.4-2
+extra/qemu-hw-display-virtio-vga-gl 8.0.4-2
+extra/qemu-hw-s390x-virtio-gpu-ccw 8.0.4-2
+extra/qemu-hw-usb-host 8.0.4-2
+extra/qemu-hw-usb-redirect 8.0.4-2
+extra/qemu-hw-usb-smartcard 8.0.4-2
+extra/qemu-img 8.0.4-2
+extra/qemu-pr-helper 8.0.4-2
+extra/qemu-system-x86 8.0.4-2
+extra/qemu-system-x86-firmware 8.0.4-2
+extra/qemu-tools 8.0.4-2
+extra/qemu-ui-curses 8.0.4-2
+extra/qemu-ui-opengl 8.0.4-2
+extra/qemu-ui-spice-app 8.0.4-2
+extra/qemu-ui-spice-core 8.0.4-2
 extra/qhexedit2 0.8.9-1
 local/qqmusic-bin 1.1.5-1
 extra/qscintilla-qt5 2.14.1-1
@@ -1190,7 +1190,7 @@ extra/ruby-racc 1.6.0-3
 extra/ruby-rake 13.0.6-1
 extra/ruby-rdoc 6.4.0-4
 extra/ruby-reline 0.3.1-2
-extra/ruby-rexml 3.2.5-1
+extra/ruby-rexml 3.2.6-1
 extra/ruby-ruby2_keywords 0.0.5-1
 extra/ruby-stdlib 3.0.6-1
 extra/ruby-stringio 3.0.2-4
@@ -1208,7 +1208,7 @@ extra/sddm 0.20.0-2
 extra/sdl12-compat 1.2.64-1
 extra/sdl2 2.28.2-1
 extra/sdl2_image 2.6.3-1
-extra/sdl2_mixer 2.6.3-1
+extra/sdl2_mixer 2.6.3-2
 extra/sdl2_ttf 2.20.2-1
 extra/sdl_image 1.2.12-8
 extra/sdl_mixer 1.2.12-12
@@ -1223,13 +1223,13 @@ extra/signon-kwallet-extension 23.04.3-1 (kde-applications kde-network)
 extra/signon-plugin-oauth2 0.25-1
 extra/signon-ui 0.17+20171022-3
 extra/signond 8.61-1
-archlinuxcn/slack-desktop 4.33.84-1
+archlinuxcn/slack-desktop 4.33.90-1
 extra/slang 2.3.3-2
 local/snapd 2.59.1-1
 extra/snappy 1.1.9-2
 extra/socat 1.7.4.4-1
-extra/solid 5.108.0-1 (kf5)
-extra/sonnet 5.108.0-1 (kf5)
+extra/solid 5.109.0-1 (kf5)
+extra/sonnet 5.109.0-1 (kf5)
 extra/sound-theme-freedesktop 0.8-5
 extra/source-highlight 3.1.9-10
 extra/spamassassin 4.0.0-2
@@ -1255,7 +1255,7 @@ extra/strace 6.4-1
 core/sudo 1.9.14.p3-1
 extra/svt-av1 1.6.0-1
 extra/swaks 20201014.0-1
-extra/syndication 5.108.0-1 (kf5)
+extra/syndication 5.109.0-1 (kf5)
 core/systemd 254.1-1
 core/systemd-libs 254.1-1
 core/systemd-sysvcompat 254.1-1
@@ -1263,7 +1263,7 @@ extra/taglib 1.13.1-1
 core/tar 1.35-1
 extra/tcl 8.6.13-1
 extra/tdb 1.4.9-1
-extra/telegram-desktop 4.8.10-1
+extra/telegram-desktop 4.9.3-1
 core/texinfo 7.0.3-1
 extra/thunar 4.18.6-1 (xfce4)
 extra/thunar-volman 4.18.0-1 (xfce4)
@@ -1295,17 +1295,17 @@ extra/upower 1.90.2-1
 extra/usbmuxd 1.1.1-3
 extra/usbredir 0.13.0-1
 core/usbutils 015-3
-core/util-linux 2.39.1-1
-core/util-linux-libs 2.39.1-1
+core/util-linux 2.39.2-1
+core/util-linux-libs 2.39.2-1
 extra/v2ray 5.7.0-1
-extra/v2ray-domain-list-community 20230810162343-1
-extra/v2ray-geoip 202308100046-1
+extra/v2ray-domain-list-community 20230820095208-1
+extra/v2ray-geoip 202308170035-1
 extra/v4l-utils 1.24.1-2
-extra/vagrant 2.3.6-1
+extra/vagrant 2.3.7-1
 extra/vde2 2.3.3-3
 extra/vid.stab 1.1.1-1
-extra/vim 9.0.1678-1
-extra/vim-runtime 9.0.1678-1
+extra/vim 9.0.1736-1
+extra/vim-runtime 9.0.1736-1
 extra/virglrenderer 0.10.4-1
 extra/virt-install 4.1.0-2
 extra/virt-manager 4.1.0-2
@@ -1327,7 +1327,7 @@ extra/vte-common 0.72.2-2
 extra/vte3 0.72.2-2
 extra/vulkan-headers 1:1.3.257-1 (vulkan-devel)
 extra/vulkan-icd-loader 1.3.255-1
-extra/vulkan-radeon 1:23.1.5-1
+extra/vulkan-radeon 1:23.1.6-1
 extra/wavpack 5.6.0-1
 extra/wayland 1.22.0-1
 extra/wayland-protocols 1.32-1
@@ -1357,7 +1357,7 @@ extra/x264 3:0.164.r3095.baee400-4
 extra/x265 3.5-3
 extra/xarchiver 0.5.4.21-1
 extra/xcb-imdkit 1.0.5-1
-extra/xcb-proto 1.15.2-3
+extra/xcb-proto 1.16.0-1
 extra/xcb-util 0.4.1-1
 extra/xcb-util-cursor 0.1.4-1
 extra/xcb-util-image 0.4.1-2
@@ -1368,7 +1368,7 @@ extra/xcb-util-xrm 1.3-2
 extra/xclip 0.13-4
 extra/xdg-dbus-proxy 0.1.5-1
 extra/xdg-user-dirs 0.18-1
-extra/xdg-utils 1.1.3+25+g8ae0263-1
+extra/xdg-utils 1.1.3+45+g301a1a4-1
 extra/xf86-input-libinput 1.3.0-1 (xorg-drivers)
 extra/xf86-video-amdgpu 23.0.0-1 (xorg-drivers)
 extra/xf86-video-ati 1:22.0.0-1 (xorg-drivers)
@@ -1427,7 +1427,7 @@ extra/xorg-xrefresh 1.0.7-1 (xorg-apps xorg)
 extra/xorg-xset 1.2.5-1 (xorg-apps xorg)
 extra/xorg-xsetroot 1.1.3-1 (xorg-apps xorg)
 extra/xorg-xvinfo 1.1.5-1 (xorg-apps xorg)
-extra/xorg-xwayland 23.1.2-1 (xorg)
+extra/xorg-xwayland 23.2.0-1 (xorg)
 extra/xorg-xwd 1.0.9-1 (xorg-apps xorg)
 extra/xorg-xwininfo 1.1.6-1 (xorg-apps xorg)
 extra/xorg-xwud 1.0.6-1 (xorg-apps xorg)
