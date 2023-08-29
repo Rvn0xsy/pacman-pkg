@@ -37,6 +37,7 @@ cloudflarespeedtest
 cmake
 copyq
 cronie
+cups
 dbeaver
 dbus-python
 discord
@@ -213,6 +214,7 @@ steam-native-runtime
 strace
 sudo
 swaks
+system-config-printer
 telegram-desktop
 texinfo
 thunar
