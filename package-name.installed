@@ -1,4 +1,3 @@
-010editor 13.0.1-1
 adobe-source-han-sans-cn-fonts 2.004-1
 adobe-source-han-serif-cn-fonts 2.001-2
 adobe-source-sans-fonts 3.052-1
@@ -18,6 +17,7 @@ automake 1.16.5-2
 axel 2.17.11-2
 baobab 44.0-1
 base 3-1
+base-devel 1-1
 bash-completion 2.11-3
 bat 0.23.0-3
 bc 1.07.1-4
@@ -48,7 +48,7 @@ docker-compose 2.20.3-1
 dosfstools 4.2-3
 dunst 1.9.2-1
 ebtables 2.0.10_4-8
-edk2-ovmf 202305-1
+edk2-ovmf 202308-2
 efibootmgr 18-2
 engrampa 1.26.1-1
 evolution 3.48.4-1
@@ -112,8 +112,8 @@ keycloak-archlinux-theme 1.2.0-1
 kolourpaint 23.08.0-1
 leafpad 0.8.19-2
 lib32-libpcap 1.10.4-1
-lib32-mesa 1:23.1.6-1
-lib32-vulkan-radeon 1:23.1.6-1
+lib32-mesa 1:23.1.6-4
+lib32-vulkan-radeon 1:23.1.6-4
 libtiff5 4.4.0-2
 libtool 2.4.7+4+g1ec8fa28-6
 libvirt 1:9.6.0-1
@@ -123,7 +123,7 @@ linux 6.4.12.arch1-1
 linux-firmware 20230804.7be2766d-2
 linux-headers 6.4.12.arch1-1
 lsd 1.0.0-1
-lutris-git 0.5.13.r257.g25d132046-1
+lutris-git 0.5.13.r259.g097b07669-1
 lxappearance 0.6.3-4
 lxqt-themes 1.3.0-1
 lzop 1.04-3
@@ -171,7 +171,6 @@ os-prober 1.81-1
 osquery 5.7.0-1
 pacman 6.0.2-7
 pacman-contrib 1.9.1-1
-pamac-aur 11.6.0-2
 papirus-icon-theme 20230801-1
 patch 2.7.6-10
 pavucontrol 1:5.0+r64+geba9ca6-1
@@ -179,17 +178,17 @@ pcmanfm 1.3.2-1
 pkgconf 1.8.1-1
 pnpm 8.7.0-2
 polybar 3.6.3-3
-postgresql 15.3-5
+postgresql 15.4-2
 powershell-bin 7.3.0-1
 proxychains-ng 4.16-2
 pulseaudio-alsa 1:1.2.7.1-2
 pulseaudio-bluetooth 16.1-6
 pwgen 2.08-2
 pycharm-community-edition 2023.1.3-1
-pyenv 2.3.24-1
+pyenv 1:2.3.25-1
 python-pip 23.2.1-1
-qbittorrent 4.5.4-1
-qemu-base 8.0.4-2
+qbittorrent 4.5.5-1
+qemu-base 8.1.0-2
 qqmusic-bin 1.1.5-1
 qterminal 1.3.0-1
 ranger 1.9.3-9
@@ -205,7 +204,6 @@ screenkey 1.5-3
 sddm 0.20.0-2
 sed 4.9-3
 slack-desktop 4.33.90-1
-snapd 2.59.1-1
 socat 1.7.4.4-1
 sqlitebrowser 3.12.2-3
 sqlmap 1.7.5-1
@@ -215,7 +213,7 @@ strace 6.4-1
 sudo 1.9.14.p3-1
 swaks 20201014.0-1
 system-config-printer 1.5.18-2
-telegram-desktop 4.9.3-1
+telegram-desktop 4.9.3-2
 texinfo 7.0.3-1
 thunar 4.18.6-1
 thunar-volman 4.18.0-1
@@ -243,9 +241,9 @@ virtualbox-ext-oracle 7.0.10-1
 virtualbox-guest-iso 7.0.10-1
 virtualbox-guest-utils 7.0.10-2
 visual-studio-code-bin 1.68.1-1
-vlc 3.0.18-13
+vlc 3.0.18-14
 vmware-workstation 17.0.2-2
-vulkan-radeon 1:23.1.6-1
+vulkan-radeon 1:23.1.6-4
 wemeet-bin 3.14.0.401-1
 wget 1.21.4-1
 which 2.21-6
@@ -317,8 +315,8 @@ xorg-xwininfo 1.1.6-1
 xorg-xwud 1.0.6-1
 xsel 1.2.1-1
 xss-lock 0.3.0.g1e158fb20108-4
-yaourt 1.9-1
 yara 4.3.1-1
+yay 12.1.2-1
 zoxide 0.9.2-1
 zsh 5.9-4
 zsh-completions 0.34.0-4
