@@ -190,7 +190,6 @@ gc 8.2.4-1
 gcab 1.6-1
 gcc 13.2.1-3
 gcc-libs 13.2.1-3
-gconf 3.2.6+11+g07808097-11
 gcr 3.41.1-4
 gcr-4 4.1.0-1
 gd 2.3.3-7
@@ -204,13 +203,11 @@ gettext 0.22-1
 ghostscript 10.01.2-1
 giflib 5.2.1-2
 git 2.42.0-1
-github-desktop-bin 3.2.9.linux1-1
 glew1.10 1.10.0-3
 glib-networking 1:2.76.1-1
 glib2 2.76.4-1
 glibc 2.38-3
 glibmm 2.66.6-1
-glibmm-2.68 2.76.0-1
 glslang 12.3.1-2
 glu 9.0.3-1
 gmp 6.3.0-1
@@ -221,7 +218,6 @@ gnome-desktop-4 1:44.0-1
 gnome-desktop-common 1:44.0-1
 gnome-disk-utility 44.0-1
 gnome-font-viewer 44.0-1
-gnome-keyring 1:42.1-3
 gnome-menus 3.36.0-2
 gnome-nettool 42.0-2
 gnome-terminal 3.48.2-1
@@ -288,7 +284,6 @@ i3lock 2.14.1-1
 i3status 2.14-1
 iana-etc 20230803-1
 icu 73.2-2
-iease-music 1.3.4-1
 ijs 0.35-5
 imagemagick 7.1.1.15-2
 imath 3.1.9-1
@@ -813,7 +808,6 @@ lmdb 0.9.30-3
 lsb-release 2.0.r53.a86f885-1
 lsd 1.0.0-1
 lsof 4.98.0-1
-lttng-ust 2.13.5-2
 lua 5.4.6-1
 lua52 5.2.4-5
 lutris-git 0.5.13.r259.g097b07669-1
@@ -868,7 +862,6 @@ neofetch 7.1.0-2
 nerd-fonts-3270 2.2.2-1
 net-snmp 5.9.1-7
 net-tools 2.10-2
-netease-cloud-music 1.2.1-8
 nettle 3.9.1-1
 network-manager-applet 1.32.0-3
 network-manager-sstp 1.3.1-2
@@ -909,7 +902,6 @@ openmpi 4.1.5-3
 openpmix 4.2.5-1
 openssh 9.4p1-2
 openssl 3.1.2-1
-openssl-1.0 1.0.2.u-6
 openssl-1.1 1.1.1.v-1
 openvpn 2.6.6-1
 opus 1.4-1
@@ -931,7 +923,6 @@ pangomm 2.46.3-1
 papirus-icon-theme 20230801-1
 parted 3.6-1
 patch 2.7.6-10
-patchelf 0.18.0-1
 pavucontrol 1:5.0+r64+geba9ca6-1
 pciutils 3.10.0-1
 pcmanfm 1.3.2-1
@@ -1012,7 +1003,6 @@ pulseaudio-alsa 1:1.2.7.1-2
 pulseaudio-bluetooth 16.1-6
 purpose 5.109.0-1
 pwgen 2.08-2
-pybind11 2.11.1-1
 pycharm-community-edition 2023.1.3-1
 pyenv 1:2.3.25-1
 python 3.11.5-1
@@ -1102,7 +1092,6 @@ qemu-ui-spice-app 8.1.0-2
 qemu-ui-spice-core 8.1.0-2
 qhexedit2 0.8.9-1
 qpdf 11.5.0-1
-qqmusic-bin 1.1.5-1
 qscintilla-qt5 2.14.1-1
 qt5-base 5.15.10+kde+r152-1
 qt5-declarative 5.15.10+kde+r31-1
@@ -1139,7 +1128,6 @@ qtermwidget 1.3.0-2
 ranger 1.9.3-9
 rav1e 0.6.6-1
 rdesktop 1.9.0-2
-re2 1:20230801-1
 re2c 3.1-1
 readline 8.2.001-2
 red-tldr 0.4.3-1

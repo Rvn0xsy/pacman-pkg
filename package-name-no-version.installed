@@ -74,7 +74,6 @@ gawk
 gcc
 gdb
 gettext
-github-desktop-bin
 gnome-calculator
 gnome-disk-utility
 gnome-font-viewer
@@ -98,7 +97,6 @@ i3-wm
 i3blocks
 i3lock
 i3status
-iease-music
 impacket
 jdk
 jdk11-openjdk
@@ -145,7 +143,6 @@ nasm
 neofetch
 nerd-fonts-3270
 net-tools
-netease-cloud-music
 network-manager-applet
 network-manager-sstp
 networkmanager
@@ -189,7 +186,6 @@ pyenv
 python-pip
 qbittorrent
 qemu-base
-qqmusic-bin
 qterminal
 ranger
 rdesktop
