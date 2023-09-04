@@ -1207,6 +1207,7 @@ sdl_image 1.2.12-8
 sdl_mixer 1.2.12-12
 sdl_ttf 2.0.11-6
 seabios 1.16.2-2
+seahorse 1:43.0-2
 sed 4.9-3
 semver 7.5.0-1
 shaderc 2023.4-1
