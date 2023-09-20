@@ -30,6 +30,7 @@ bluedevil
 blueman
 bluez
 bluez-utils
+boost
 bottom
 brasero
 clash
@@ -88,6 +89,7 @@ gpicview
 grep
 groff
 grub
+gtest
 gthumb
 gvfs
 gvfs-mtp
@@ -189,6 +191,7 @@ pyenv
 python-pip
 qbittorrent
 qemu-base
+qt5-websockets
 qterminal
 ranger
 rdesktop
@@ -205,6 +208,7 @@ seahorse
 sed
 slack-desktop
 socat
+spdlog
 sqlitebrowser
 sqlmap
 starship
