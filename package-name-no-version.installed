@@ -177,6 +177,7 @@ papirus-icon-theme
 patch
 pavucontrol
 pcmanfm
+picom-git
 pkgconf
 pnpm
 polybar
@@ -234,6 +235,7 @@ udiskie
 uget
 unrar
 unzip
+upx
 v2ray
 vagrant
 vde2
