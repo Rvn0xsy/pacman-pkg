@@ -207,6 +207,7 @@ sddm 0.20.0-2
 seahorse 1:43.0-2
 sed 4.9-3
 slack-desktop 4.35.131-1
+smartmontools 7.4-1
 socat 1.7.4.4-1
 spdlog 1.12.0-2
 sqlitebrowser 3.12.2-3
