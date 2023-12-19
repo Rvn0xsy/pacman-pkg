@@ -817,11 +817,11 @@ libyuv r2426+464c51a0-1
 libzip 1.10.1-1
 licenses 20231215-1
 liferea 1.14.6-1
-linux 6.6.7.arch1-1
 linux-api-headers 6.4-1
 linux-firmware 20231211.f2e52a1c-1
 linux-firmware-whence 20231211.f2e52a1c-1
-linux-headers 6.6.7.arch1-1
+linux-lts 6.1.68-1
+linux-lts-headers 6.1.68-1
 llvm 16.0.6-1
 llvm-libs 16.0.6-1
 llvm15-libs 15.0.7-1

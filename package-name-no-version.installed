@@ -121,9 +121,9 @@ libtool
 libvirt
 libxfce4util
 liferea
-linux
 linux-firmware
-linux-headers
+linux-lts
+linux-lts-headers
 lsd
 lutris-git
 lxappearance
